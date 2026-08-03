@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Create full and compact contact sheets from rendered audit screenshots."""
+"""Create contact sheets and tiny section reviews from rendered screenshots."""
 
 from __future__ import annotations
 
@@ -53,6 +53,19 @@ def main() -> None:
     tiny = ROOT / "contact-sheet-tiny.jpg"
     build_sheet(cards, columns=2, card_w=240, card_h=180, thumb_size=(228, 150), output=tiny, quality=24)
     encode_file(tiny, ROOT / "contact-sheet-tiny.b64")
+
+    ultra = ROOT / "contact-sheet-ultra.jpg"
+    build_sheet(cards, columns=2, card_w=120, card_h=92, thumb_size=(114, 72), output=ultra, quality=10)
+    encode_file(ultra, ROOT / "contact-sheet-ultra.b64")
+
+    # Export a handful of individually readable but still very small review images.
+    for file in [Path(item) for item in data["desktopShots"]]:
+        with Image.open(file) as source:
+            review = source.convert("RGB")
+            review.thumbnail((360, 250), Image.Resampling.LANCZOS)
+            output = ROOT / f"review-{file.stem}.jpg"
+            review.save(output, "JPEG", quality=16, optimize=True)
+            encode_file(output, ROOT / f"review-{file.stem}.b64")
 
 
 if __name__ == "__main__":
