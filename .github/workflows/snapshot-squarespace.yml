@@ -9,6 +9,7 @@ on:
       - 'tools/build_exact_manifest.py'
       - 'tools/build_block_manifest.py'
       - 'tools/extract_video_blocks.py'
+      - 'tools/resolve_native_videos.py'
 
 permissions:
   contents: write
@@ -40,6 +41,9 @@ jobs:
 
       - name: Extract native video configuration
         run: python tools/extract_video_blocks.py
+
+      - name: Resolve native video URLs
+        run: python tools/resolve_native_videos.py
 
       - name: Commit source inventory
         run: |
