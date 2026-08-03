@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T21:52:38.646Z",
+  "generatedAt": "2026-08-03T21:59:18.084Z",
   "views": [
     {
       "name": "desktop",
@@ -34,7 +34,189 @@
         "broken": []
       },
       "youtubeIframes": 9,
+      "youtubeIds": [
+        "MwDPxPpI8v0",
+        "Jco_GMVw7g0",
+        "Ob7PonWBWvE",
+        "9TrfCgzSfMo",
+        "aiu4sq4mXIg",
+        "tIOIFH925qY",
+        "DWr6SH8RM48",
+        "rlHR5vuYRq0",
+        "PAN5pfmX0TU"
+      ],
+      "convertedYoutubeBlocks": 0,
       "nativeVideos": 24,
+      "nativeVideoStates": [
+        {
+          "id": "114c39dc-93c8-403e-b133-d664ecb459f7",
+          "source": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/114c39dc-93c8-403e-b133-d664ecb459f7/playlist.m3u8",
+          "currentSrc": "blob:http://127.0.0.1:8000/02b821ed-0d04-4fc7-a9b6-da8601efbf5a",
+          "readyState": 0,
+          "networkState": 2
+        },
+        {
+          "id": "a8ccdbf9-0c8e-48fa-a13c-26fc28a74681",
+          "source": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/playlist.m3u8",
+          "currentSrc": "blob:http://127.0.0.1:8000/0fae741d-957c-4bb6-aa5f-604690fbe04f",
+          "readyState": 0,
+          "networkState": 2
+        },
+        {
+          "id": "605c740a-3f83-4add-96e9-58a10b67933a",
+          "source": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/605c740a-3f83-4add-96e9-58a10b67933a/playlist.m3u8",
+          "currentSrc": "blob:http://127.0.0.1:8000/4448e78a-ee11-4e0a-8475-0259c35119d7",
+          "readyState": 0,
+          "networkState": 2
+        },
+        {
+          "id": "5a6ce940-8936-4676-a982-a732c7b4c111",
+          "source": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5a6ce940-8936-4676-a982-a732c7b4c111/playlist.m3u8",
+          "currentSrc": "blob:http://127.0.0.1:8000/b87393a4-f618-42e4-8540-b92b816a373e",
+          "readyState": 0,
+          "networkState": 2
+        },
+        {
+          "id": "0119af6b-ab9c-4d61-96cf-183357950607",
+          "source": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/0119af6b-ab9c-4d61-96cf-183357950607/playlist.m3u8",
+          "currentSrc": "blob:http://127.0.0.1:8000/f90b790f-58be-4e68-8320-55dfc84e24ec",
+          "readyState": 0,
+          "networkState": 2
+        },
+        {
+          "id": "7fc58dc6-c78c-4940-8f43-f55a51a8fed6",
+          "source": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/7fc58dc6-c78c-4940-8f43-f55a51a8fed6/playlist.m3u8",
+          "currentSrc": "blob:http://127.0.0.1:8000/2f3b27cf-553c-43c6-b6b6-6f9622dc22f1",
+          "readyState": 0,
+          "networkState": 2
+        },
+        {
+          "id": "56063987-36c7-4927-84bc-b30784c28171",
+          "source": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/56063987-36c7-4927-84bc-b30784c28171/playlist.m3u8",
+          "currentSrc": "blob:http://127.0.0.1:8000/a6721731-4a63-4571-a95e-1f06eff9db70",
+          "readyState": 0,
+          "networkState": 2
+        },
+        {
+          "id": "e85927df-c358-41d9-bf21-4f5a5cdbf9ca",
+          "source": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e85927df-c358-41d9-bf21-4f5a5cdbf9ca/playlist.m3u8",
+          "currentSrc": "blob:http://127.0.0.1:8000/5124b83b-a269-446e-9f79-5b7d00b9aab8",
+          "readyState": 0,
+          "networkState": 2
+        },
+        {
+          "id": "5855200a-cd96-4694-b03e-9e920cdadea3",
+          "source": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5855200a-cd96-4694-b03e-9e920cdadea3/playlist.m3u8",
+          "currentSrc": "blob:http://127.0.0.1:8000/71b47d8c-1df1-4abf-84a7-d2efb812a2a6",
+          "readyState": 0,
+          "networkState": 2
+        },
+        {
+          "id": "6c93af36-532b-4b9a-9a35-051e6543b9c2",
+          "source": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/6c93af36-532b-4b9a-9a35-051e6543b9c2/playlist.m3u8",
+          "currentSrc": "blob:http://127.0.0.1:8000/35629259-86ff-4544-93c2-68b1342894f7",
+          "readyState": 0,
+          "networkState": 2
+        },
+        {
+          "id": "a8ccdbf9-0c8e-48fa-a13c-26fc28a74681",
+          "source": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/playlist.m3u8",
+          "currentSrc": "blob:http://127.0.0.1:8000/3ff365a5-c3a7-48da-9a49-409551ab3bca",
+          "readyState": 0,
+          "networkState": 2
+        },
+        {
+          "id": "d907d5cb-dad0-42e4-a636-6c624eacb454",
+          "source": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d907d5cb-dad0-42e4-a636-6c624eacb454/playlist.m3u8",
+          "currentSrc": "blob:http://127.0.0.1:8000/dc622c38-7f5d-426f-8081-5ecbf5ca6b92",
+          "readyState": 0,
+          "networkState": 2
+        },
+        {
+          "id": "98587308-b5ac-4587-a55a-640f770159b1",
+          "source": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/98587308-b5ac-4587-a55a-640f770159b1/playlist.m3u8",
+          "currentSrc": "blob:http://127.0.0.1:8000/36492072-8731-43cb-82bf-f989b8815416",
+          "readyState": 0,
+          "networkState": 2
+        },
+        {
+          "id": "43d5c9af-040e-43d4-927f-4cf487f1bba2",
+          "source": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/playlist.m3u8",
+          "currentSrc": "blob:http://127.0.0.1:8000/7a616064-2f3c-4dc0-a03e-9e9f44bf97c4",
+          "readyState": 0,
+          "networkState": 2
+        },
+        {
+          "id": "43d5c9af-040e-43d4-927f-4cf487f1bba2",
+          "source": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/playlist.m3u8",
+          "currentSrc": "blob:http://127.0.0.1:8000/b36f354b-41d3-4f62-9bc0-748db2d6008e",
+          "readyState": 0,
+          "networkState": 2
+        },
+        {
+          "id": "a6c091bc-50e1-48b4-a04a-3e6c0627a4b5",
+          "source": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a6c091bc-50e1-48b4-a04a-3e6c0627a4b5/playlist.m3u8",
+          "currentSrc": "blob:http://127.0.0.1:8000/72b830ca-8354-46e0-b044-d14d38aa96f0",
+          "readyState": 0,
+          "networkState": 2
+        },
+        {
+          "id": "e2622605-60f6-429b-b65e-ae79977fdf9b",
+          "source": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e2622605-60f6-429b-b65e-ae79977fdf9b/playlist.m3u8",
+          "currentSrc": "blob:http://127.0.0.1:8000/9897f76e-effb-4eb1-9231-4892d8ede29d",
+          "readyState": 0,
+          "networkState": 2
+        },
+        {
+          "id": "91d9af55-057b-47fa-a93d-bc81eb376eaa",
+          "source": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/91d9af55-057b-47fa-a93d-bc81eb376eaa/playlist.m3u8",
+          "currentSrc": "blob:http://127.0.0.1:8000/c7d81b39-7366-4cb5-ac43-2239f714ebe6",
+          "readyState": 0,
+          "networkState": 2
+        },
+        {
+          "id": "b3da89b4-fee2-4dfd-9565-25bb90fa5917",
+          "source": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3da89b4-fee2-4dfd-9565-25bb90fa5917/playlist.m3u8",
+          "currentSrc": "blob:http://127.0.0.1:8000/f5371d7e-6751-4903-8d1c-7e0b619eba78",
+          "readyState": 0,
+          "networkState": 2
+        },
+        {
+          "id": "b3bd86e3-866f-4e4b-a7e0-f7edfcaa375b",
+          "source": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3bd86e3-866f-4e4b-a7e0-f7edfcaa375b/playlist.m3u8",
+          "currentSrc": "blob:http://127.0.0.1:8000/d01c7063-0bd7-4fbf-8ae3-bd84dfee610a",
+          "readyState": 0,
+          "networkState": 2
+        },
+        {
+          "id": "4034102b-431e-42e0-b560-bd80a47f0506",
+          "source": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4034102b-431e-42e0-b560-bd80a47f0506/playlist.m3u8",
+          "currentSrc": "blob:http://127.0.0.1:8000/4e6dad2c-07e5-4a37-a199-36808e6262ba",
+          "readyState": 0,
+          "networkState": 2
+        },
+        {
+          "id": "317a8d57-5115-400b-bf32-03b82a8e2554",
+          "source": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/317a8d57-5115-400b-bf32-03b82a8e2554/playlist.m3u8",
+          "currentSrc": "blob:http://127.0.0.1:8000/fcc08afc-ec99-4257-9d8d-12af3ee91f46",
+          "readyState": 0,
+          "networkState": 2
+        },
+        {
+          "id": "5332ba40-218e-464b-9ee8-984ef2fb6433",
+          "source": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5332ba40-218e-464b-9ee8-984ef2fb6433/playlist.m3u8",
+          "currentSrc": "blob:http://127.0.0.1:8000/f5248cae-5039-476a-81c4-ec334e69c81f",
+          "readyState": 0,
+          "networkState": 2
+        },
+        {
+          "id": "67c7a4e5-dac5-419b-ac96-a1013dfe63d5",
+          "source": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/67c7a4e5-dac5-419b-ac96-a1013dfe63d5/playlist.m3u8",
+          "currentSrc": "blob:http://127.0.0.1:8000/f627954f-f9a4-4c5c-a2da-13f34abd7e2c",
+          "readyState": 0,
+          "networkState": 2
+        }
+      ],
       "exactAnchors": [
         "home",
         "services",
@@ -84,7 +266,189 @@
         "broken": []
       },
       "youtubeIframes": 9,
+      "youtubeIds": [
+        "MwDPxPpI8v0",
+        "Jco_GMVw7g0",
+        "Ob7PonWBWvE",
+        "9TrfCgzSfMo",
+        "aiu4sq4mXIg",
+        "tIOIFH925qY",
+        "DWr6SH8RM48",
+        "rlHR5vuYRq0",
+        "PAN5pfmX0TU"
+      ],
+      "convertedYoutubeBlocks": 0,
       "nativeVideos": 24,
+      "nativeVideoStates": [
+        {
+          "id": "114c39dc-93c8-403e-b133-d664ecb459f7",
+          "source": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/114c39dc-93c8-403e-b133-d664ecb459f7/playlist.m3u8",
+          "currentSrc": "blob:http://127.0.0.1:8000/b1cd56f4-1ad2-4b18-b59b-511ac4a5cac6",
+          "readyState": 0,
+          "networkState": 2
+        },
+        {
+          "id": "a8ccdbf9-0c8e-48fa-a13c-26fc28a74681",
+          "source": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/playlist.m3u8",
+          "currentSrc": "blob:http://127.0.0.1:8000/3b14d5a1-9ee7-41b0-aaa7-3655df0d1e40",
+          "readyState": 0,
+          "networkState": 2
+        },
+        {
+          "id": "605c740a-3f83-4add-96e9-58a10b67933a",
+          "source": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/605c740a-3f83-4add-96e9-58a10b67933a/playlist.m3u8",
+          "currentSrc": "blob:http://127.0.0.1:8000/81484eb7-1faf-4d6a-b027-1a27f90b35d1",
+          "readyState": 0,
+          "networkState": 2
+        },
+        {
+          "id": "5a6ce940-8936-4676-a982-a732c7b4c111",
+          "source": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5a6ce940-8936-4676-a982-a732c7b4c111/playlist.m3u8",
+          "currentSrc": "blob:http://127.0.0.1:8000/feb451af-52a2-4c06-8dda-b599df179536",
+          "readyState": 0,
+          "networkState": 2
+        },
+        {
+          "id": "0119af6b-ab9c-4d61-96cf-183357950607",
+          "source": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/0119af6b-ab9c-4d61-96cf-183357950607/playlist.m3u8",
+          "currentSrc": "blob:http://127.0.0.1:8000/738763c5-dd44-4011-a721-280e24961214",
+          "readyState": 0,
+          "networkState": 2
+        },
+        {
+          "id": "7fc58dc6-c78c-4940-8f43-f55a51a8fed6",
+          "source": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/7fc58dc6-c78c-4940-8f43-f55a51a8fed6/playlist.m3u8",
+          "currentSrc": "blob:http://127.0.0.1:8000/d8b83c69-67eb-473e-8c35-b496ea006d5b",
+          "readyState": 0,
+          "networkState": 2
+        },
+        {
+          "id": "56063987-36c7-4927-84bc-b30784c28171",
+          "source": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/56063987-36c7-4927-84bc-b30784c28171/playlist.m3u8",
+          "currentSrc": "blob:http://127.0.0.1:8000/e26d94af-9a7c-4b64-8cfc-4929d9e65df9",
+          "readyState": 0,
+          "networkState": 2
+        },
+        {
+          "id": "e85927df-c358-41d9-bf21-4f5a5cdbf9ca",
+          "source": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e85927df-c358-41d9-bf21-4f5a5cdbf9ca/playlist.m3u8",
+          "currentSrc": "blob:http://127.0.0.1:8000/07f8d03f-6248-4ba5-b372-cc1b558cb38a",
+          "readyState": 0,
+          "networkState": 2
+        },
+        {
+          "id": "5855200a-cd96-4694-b03e-9e920cdadea3",
+          "source": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5855200a-cd96-4694-b03e-9e920cdadea3/playlist.m3u8",
+          "currentSrc": "blob:http://127.0.0.1:8000/119ca962-9d6b-4e9a-b259-f1f4c28f9355",
+          "readyState": 0,
+          "networkState": 2
+        },
+        {
+          "id": "6c93af36-532b-4b9a-9a35-051e6543b9c2",
+          "source": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/6c93af36-532b-4b9a-9a35-051e6543b9c2/playlist.m3u8",
+          "currentSrc": "blob:http://127.0.0.1:8000/56be5288-4eb5-4dd5-ac63-4f94acedfa3a",
+          "readyState": 0,
+          "networkState": 2
+        },
+        {
+          "id": "a8ccdbf9-0c8e-48fa-a13c-26fc28a74681",
+          "source": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/playlist.m3u8",
+          "currentSrc": "blob:http://127.0.0.1:8000/4667ad20-dc6f-4722-80e2-4b3b8bbff3bb",
+          "readyState": 0,
+          "networkState": 2
+        },
+        {
+          "id": "d907d5cb-dad0-42e4-a636-6c624eacb454",
+          "source": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d907d5cb-dad0-42e4-a636-6c624eacb454/playlist.m3u8",
+          "currentSrc": "blob:http://127.0.0.1:8000/4ee7230c-2b53-4e84-97e4-f4caf182337c",
+          "readyState": 0,
+          "networkState": 2
+        },
+        {
+          "id": "98587308-b5ac-4587-a55a-640f770159b1",
+          "source": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/98587308-b5ac-4587-a55a-640f770159b1/playlist.m3u8",
+          "currentSrc": "blob:http://127.0.0.1:8000/a36b35c7-b63d-4ee2-95c1-72b7deeb7e39",
+          "readyState": 0,
+          "networkState": 2
+        },
+        {
+          "id": "43d5c9af-040e-43d4-927f-4cf487f1bba2",
+          "source": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/playlist.m3u8",
+          "currentSrc": "blob:http://127.0.0.1:8000/4ac02d8c-fda5-4879-b802-6edf5b873f53",
+          "readyState": 0,
+          "networkState": 2
+        },
+        {
+          "id": "43d5c9af-040e-43d4-927f-4cf487f1bba2",
+          "source": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/playlist.m3u8",
+          "currentSrc": "blob:http://127.0.0.1:8000/5e5b8819-3fae-48d9-b5c5-5909553cbf84",
+          "readyState": 0,
+          "networkState": 2
+        },
+        {
+          "id": "a6c091bc-50e1-48b4-a04a-3e6c0627a4b5",
+          "source": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a6c091bc-50e1-48b4-a04a-3e6c0627a4b5/playlist.m3u8",
+          "currentSrc": "blob:http://127.0.0.1:8000/927569a5-3ac5-4aa7-a5ac-1c5c9d7ad49a",
+          "readyState": 0,
+          "networkState": 2
+        },
+        {
+          "id": "e2622605-60f6-429b-b65e-ae79977fdf9b",
+          "source": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e2622605-60f6-429b-b65e-ae79977fdf9b/playlist.m3u8",
+          "currentSrc": "blob:http://127.0.0.1:8000/b92baac0-dd1b-45fd-887d-16a9a1d11e72",
+          "readyState": 0,
+          "networkState": 2
+        },
+        {
+          "id": "91d9af55-057b-47fa-a93d-bc81eb376eaa",
+          "source": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/91d9af55-057b-47fa-a93d-bc81eb376eaa/playlist.m3u8",
+          "currentSrc": "blob:http://127.0.0.1:8000/7e96f4eb-34f8-491b-af31-ec766fe07b63",
+          "readyState": 0,
+          "networkState": 2
+        },
+        {
+          "id": "b3da89b4-fee2-4dfd-9565-25bb90fa5917",
+          "source": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3da89b4-fee2-4dfd-9565-25bb90fa5917/playlist.m3u8",
+          "currentSrc": "blob:http://127.0.0.1:8000/dd2ae09b-dce7-42b5-b167-1b418506f530",
+          "readyState": 0,
+          "networkState": 2
+        },
+        {
+          "id": "b3bd86e3-866f-4e4b-a7e0-f7edfcaa375b",
+          "source": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3bd86e3-866f-4e4b-a7e0-f7edfcaa375b/playlist.m3u8",
+          "currentSrc": "blob:http://127.0.0.1:8000/84438eb0-0f19-46d2-a1b3-c7bdd6a0322a",
+          "readyState": 0,
+          "networkState": 2
+        },
+        {
+          "id": "4034102b-431e-42e0-b560-bd80a47f0506",
+          "source": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4034102b-431e-42e0-b560-bd80a47f0506/playlist.m3u8",
+          "currentSrc": "blob:http://127.0.0.1:8000/66eafbf7-c3a3-459b-bbe7-3d419b6b1bc1",
+          "readyState": 0,
+          "networkState": 2
+        },
+        {
+          "id": "317a8d57-5115-400b-bf32-03b82a8e2554",
+          "source": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/317a8d57-5115-400b-bf32-03b82a8e2554/playlist.m3u8",
+          "currentSrc": "blob:http://127.0.0.1:8000/7af1632e-797d-430e-a199-851f033df9ac",
+          "readyState": 0,
+          "networkState": 2
+        },
+        {
+          "id": "5332ba40-218e-464b-9ee8-984ef2fb6433",
+          "source": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5332ba40-218e-464b-9ee8-984ef2fb6433/playlist.m3u8",
+          "currentSrc": "blob:http://127.0.0.1:8000/017bf879-6ea5-44b7-b959-f904f0fb1ad7",
+          "readyState": 0,
+          "networkState": 2
+        },
+        {
+          "id": "67c7a4e5-dac5-419b-ac96-a1013dfe63d5",
+          "source": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/67c7a4e5-dac5-419b-ac96-a1013dfe63d5/playlist.m3u8",
+          "currentSrc": "blob:http://127.0.0.1:8000/c34e657a-0dfa-4492-8401-6b779ce0bae9",
+          "readyState": 0,
+          "networkState": 2
+        }
+      ],
       "exactAnchors": [
         "home",
         "services",
@@ -109,43 +473,7 @@
     },
     {
       "view": "desktop",
-      "text": "Permissions policy violation: compute-pressure is not allowed in this document."
-    },
-    {
-      "view": "desktop",
       "text": "VIDEOJS: ERROR: (CODE:4 MEDIA_ERR_SRC_NOT_SUPPORTED) The media could not be loaded, either because the server or network failed or because the format is not supported. i"
-    },
-    {
-      "view": "desktop",
-      "text": "Permissions policy violation: compute-pressure is not allowed in this document."
-    },
-    {
-      "view": "desktop",
-      "text": "Permissions policy violation: compute-pressure is not allowed in this document."
-    },
-    {
-      "view": "desktop",
-      "text": "Permissions policy violation: compute-pressure is not allowed in this document."
-    },
-    {
-      "view": "desktop",
-      "text": "Permissions policy violation: compute-pressure is not allowed in this document."
-    },
-    {
-      "view": "desktop",
-      "text": "Permissions policy violation: compute-pressure is not allowed in this document."
-    },
-    {
-      "view": "desktop",
-      "text": "Permissions policy violation: compute-pressure is not allowed in this document."
-    },
-    {
-      "view": "desktop",
-      "text": "Permissions policy violation: compute-pressure is not allowed in this document."
-    },
-    {
-      "view": "desktop",
-      "text": "Permissions policy violation: compute-pressure is not allowed in this document."
     },
     {
       "view": "mobile",
