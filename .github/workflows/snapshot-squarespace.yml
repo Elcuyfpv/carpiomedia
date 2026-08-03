@@ -10,6 +10,7 @@ on:
       - 'tools/build_block_manifest.py'
       - 'tools/extract_video_blocks.py'
       - 'tools/resolve_native_videos.py'
+      - 'tools/build_one_page_exact.py'
 
 permissions:
   contents: write
@@ -45,14 +46,17 @@ jobs:
       - name: Resolve native video URLs
         run: python tools/resolve_native_videos.py
 
-      - name: Commit source inventory
+      - name: Build audited one-page preview
+        run: python tools/build_one_page_exact.py
+
+      - name: Commit source inventory and exact preview
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add _source_snapshot
+          git add _source_snapshot exact-preview.html
           if git diff --cached --quiet; then
-            echo "No inventory changes"
+            echo "No inventory or preview changes"
           else
-            git commit -m "Snapshot exact Squarespace pages and media [skip ci]"
+            git commit -m "Build exact one-page Squarespace consolidation [skip ci]"
             git push
           fi
