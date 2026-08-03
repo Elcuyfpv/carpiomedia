@@ -1,0 +1,519 @@
+{
+  "source_file": "_source_snapshot/raw/services-nyc-media__cinematic-drone-content-creation-for-film-tv.html",
+  "url": "https://www.carpiomedia.com/services-nyc-media/cinematic-drone-content-creation-for-film-tv",
+  "title": "Cinematic Drone Production for Film and TV NYC — Carpio Media",
+  "header": {
+    "order": 1,
+    "tag": "header",
+    "id": "header",
+    "classes": [
+      "header",
+      "theme-col--primary"
+    ],
+    "data_block_type": "",
+    "data_definition_name": "",
+    "data_section_id": "header",
+    "texts_in_order": [],
+    "images_in_order": [
+      {
+        "sources": [
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5312c5ce-f33b-45b6-9e77-5c431aae6d9f/Carpio+Media+initials+white+nb.png?format=1500w"
+        ],
+        "alt": "Carpio Media",
+        "title": ""
+      },
+      {
+        "sources": [
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=1500w"
+        ],
+        "alt": "Carpio Media",
+        "title": ""
+      },
+      {
+        "sources": [
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5312c5ce-f33b-45b6-9e77-5c431aae6d9f/Carpio+Media+initials+white+nb.png?format=1500w"
+        ],
+        "alt": "Carpio Media",
+        "title": ""
+      },
+      {
+        "sources": [
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=1500w"
+        ],
+        "alt": "Carpio Media",
+        "title": ""
+      }
+    ],
+    "youtube_ids": [],
+    "vimeo_ids": [],
+    "media_urls": [
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=1500w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5312c5ce-f33b-45b6-9e77-5c431aae6d9f/Carpio+Media+initials+white+nb.png?format=1500w",
+        "type": "image"
+      }
+    ],
+    "all_urls": [
+      "https://www.carpiomedia.com/services-nyc-media/cinematic-drone-content-creation-for-film-tv",
+      "https://www.carpiomedia.com/",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=1500w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5312c5ce-f33b-45b6-9e77-5c431aae6d9f/Carpio+Media+initials+white+nb.png?format=1500w",
+      "https://www.carpiomedia.com/services-nyc-media",
+      "https://www.carpiomedia.com/about",
+      "https://www.carpiomedia.com/aerial-drone-gallery-nyc",
+      "https://www.carpiomedia.com/contact",
+      "https://www.carpiomedia.com/faq-1",
+      "https://www.instagram.com/carpiomedianyc/",
+      "https://www.facebook.com/carpiomedia",
+      "http://www.w3.org/2000/",
+      "https://www.in"
+    ]
+  },
+  "sections": [
+    {
+      "order": 1,
+      "id": "",
+      "classes": [
+        "page-section",
+        "full-bleed-section",
+        "layout-engine-section",
+        "background-width--full-bleed",
+        "section-height--custom",
+        "content-width--wide",
+        "horizontal-alignment--center",
+        "vertical-alignment--middle"
+      ],
+      "data_section_id": "6357fe333566d97c38c75a4e",
+      "background_media": [],
+      "blocks": [
+        {
+          "order": 1,
+          "tag": "div",
+          "id": "block-yui_3_17_2_1_1784738195898_3079",
+          "classes": [
+            "sqs-block",
+            "website-component-block",
+            "sqs-block-website-component",
+            "sqs-block-html",
+            "html-block"
+          ],
+          "data_block_type": "1337",
+          "data_definition_name": "website.components.html",
+          "data_section_id": "",
+          "texts_in_order": [
+            {
+              "tag": "h1",
+              "text": "Cinematic Drone Production for Film and Television in NYC"
+            }
+          ],
+          "images_in_order": [],
+          "youtube_ids": [],
+          "vimeo_ids": [],
+          "media_urls": [],
+          "all_urls": [
+            "https://definition"
+          ]
+        },
+        {
+          "order": 2,
+          "tag": "div",
+          "id": "block-b70c9e7fbe18b4b98dc6",
+          "classes": [
+            "sqs-block",
+            "website-component-block",
+            "sqs-block-website-component",
+            "sqs-block-html",
+            "html-block"
+          ],
+          "data_block_type": "1337",
+          "data_definition_name": "website.components.html",
+          "data_section_id": "",
+          "texts_in_order": [
+            {
+              "tag": "p",
+              "text": "Carpio Media provides cinematic drone production for television, documentaries, commercials, branded films, features, episodic projects, and live broadcast support. Based in Forest Hills, Queens, we work with producers, directors, cinematographers, agencies, location teams, and production companies throughout New York City and the Tri State Area."
+            },
+            {
+              "tag": "p",
+              "text": "Coverage can include establishing shots, location reveals, tracking shots, transitions, moving subject coverage, cityscapes, landscapes, and controlled aerial sequences designed to support the story and visual language of the production."
+            },
+            {
+              "tag": "p",
+              "text": "Production planning considers the shot list, airspace, location restrictions, permits, weather, sun position, crew movement, talent, vehicles, communication, camera requirements, and safe operating areas. Carpio Media can coordinate with the production team so each aerial setup fits the schedule and the needs of the scene."
+            },
+            {
+              "tag": "p",
+              "text": "To request availability, send the production type, location, shoot date, call time, shot list or storyboard, camera and delivery requirements, crew contacts, permit status, and any location restrictions through the Contact page."
+            }
+          ],
+          "images_in_order": [],
+          "youtube_ids": [],
+          "vimeo_ids": [],
+          "media_urls": [],
+          "all_urls": [
+            "https://definition"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "id": "",
+      "classes": [
+        "page-section",
+        "full-bleed-section",
+        "layout-engine-section",
+        "background-width--full-bleed",
+        "section-height--custom",
+        "content-width--wide",
+        "horizontal-alignment--center",
+        "vertical-alignment--middle"
+      ],
+      "data_section_id": "6357fe333566d97c38c75a51",
+      "background_media": [
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1687980350877-KTANOIP6JZ1FE7TRRXXO/Screenshot+2023-06-28+at+3.24.20+PM.jpg",
+          "type": "image"
+        }
+      ],
+      "blocks": [
+        {
+          "order": 1,
+          "tag": "div",
+          "id": "block-7b32a5f71c139bafa2dd",
+          "classes": [
+            "sqs-block",
+            "website-component-block",
+            "sqs-block-website-component",
+            "sqs-block-embed",
+            "embed-block"
+          ],
+          "data_block_type": "1337",
+          "data_definition_name": "website.components.embed",
+          "data_section_id": "",
+          "texts_in_order": [
+            {
+              "tag": "p",
+              "text": "Tell Me More with Kelly Corrigan - Selma Blair"
+            }
+          ],
+          "images_in_order": [],
+          "youtube_ids": [],
+          "vimeo_ids": [],
+          "media_urls": [],
+          "all_urls": [
+            "https://player.pbs.org/viralplayer/3074012737",
+            "https://definition",
+            "https://player.pb"
+          ]
+        },
+        {
+          "order": 2,
+          "tag": "div",
+          "id": "block-3bcc126e6432caa3da51",
+          "classes": [
+            "sqs-block",
+            "website-component-block",
+            "sqs-block-website-component",
+            "sqs-block-embed",
+            "embed-block"
+          ],
+          "data_block_type": "1337",
+          "data_definition_name": "website.components.embed",
+          "data_section_id": "",
+          "texts_in_order": [
+            {
+              "tag": "p",
+              "text": "Good Morning America. Operating as pilot in command for Xizmo Media."
+            }
+          ],
+          "images_in_order": [
+            {
+              "sources": [
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1687980350877-KTANOIP6JZ1FE7TRRXXO/Screenshot+2023-06-28+at+3.24.20+PM.jpg"
+              ],
+              "alt": "",
+              "title": ""
+            }
+          ],
+          "youtube_ids": [
+            "XT-qiigoDJ4"
+          ],
+          "vimeo_ids": [],
+          "media_urls": [
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1687980350877-KTANOIP6JZ1FE7TRRXXO/Screenshot+2023-06-28+at+3.24.20+PM.jpg",
+              "type": "image"
+            },
+            {
+              "url": "https://www.youtube.com/embed/XT-qiigoDJ4",
+              "type": "youtube"
+            }
+          ],
+          "all_urls": [
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1687980350877-KTANOIP6JZ1FE7TRRXXO/Screenshot+2023-06-28+at+3.24.20+PM.jpg",
+            "https://definition",
+            "https://www.youtube.com/embed/XT-qiigoDJ4",
+            "https://image"
+          ]
+        }
+      ]
+    }
+  ],
+  "footer": {
+    "order": 1,
+    "tag": "footer",
+    "id": "footer-sections",
+    "classes": [
+      "sections"
+    ],
+    "data_block_type": "",
+    "data_definition_name": "",
+    "data_section_id": "",
+    "texts_in_order": [
+      {
+        "tag": "p",
+        "text": "Forest Hills, NY"
+      },
+      {
+        "tag": "p",
+        "text": "(929)350-0095"
+      }
+    ],
+    "images_in_order": [
+      {
+        "sources": [
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=100w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=300w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=500w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=750w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=1000w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=1500w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=2500w"
+        ],
+        "alt": "",
+        "title": ""
+      },
+      {
+        "sources": [
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=100w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=300w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=500w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=750w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=1000w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=1500w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=2500w"
+        ],
+        "alt": "Certified minority business enterprise",
+        "title": ""
+      },
+      {
+        "sources": [
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=100w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=300w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=500w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=750w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=1000w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=1500w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=2500w"
+        ],
+        "alt": "Verified federal vendor",
+        "title": ""
+      },
+      {
+        "sources": [
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=100w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=300w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=500w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=750w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=1000w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=1500w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=2500w"
+        ],
+        "alt": "DJI authorized dealer. DJI Enterprise",
+        "title": ""
+      }
+    ],
+    "youtube_ids": [],
+    "vimeo_ids": [],
+    "media_urls": [
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=100w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=300w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=500w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=750w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=1000w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=1500w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=2500w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=100w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=300w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=500w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=750w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=1000w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=1500w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=2500w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=100w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=300w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=500w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=750w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=1000w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=1500w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=2500w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=100w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=300w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=500w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=750w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=1000w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=1500w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=2500w",
+        "type": "image"
+      }
+    ],
+    "all_urls": [
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=100w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=300w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=500w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=750w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=1000w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=1500w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=2500w",
+      "https://www.instagram.com/carpiomedianyc/",
+      "https://www.facebook.com/carpiomedia",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=100w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=300w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=500w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=750w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=1000w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=1500w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=2500w",
+      "https://fedlinks.com/profile/Carpio-Media-LLC-Forest-Hills-NY",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=100w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=300w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=500w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=750w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=1000w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=1500w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=2500w",
+      "https://www.carpiomedia.com/contact",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=100w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=300w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=500w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=750w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=1000w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=1500w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=2500w",
+      "https://definition",
+      "https://image",
+      "https://www.in",
+      "https://fedlink"
+    ]
+  }
+}

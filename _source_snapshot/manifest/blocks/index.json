@@ -1,0 +1,100 @@
+[
+  {
+    "url": "https://www.carpiomedia.com/about",
+    "title": "About Juan Carpio | FAA-Certified NYC Drone Pilot — Carpio Media",
+    "file": "_source_snapshot/manifest/blocks/about.json",
+    "sections": 1,
+    "blocks": 6
+  },
+  {
+    "url": "https://www.carpiomedia.com/aerial-drone-gallery-nyc",
+    "title": "Gallery  — Carpio Media",
+    "file": "_source_snapshot/manifest/blocks/aerial-drone-gallery-nyc.json",
+    "sections": 4,
+    "blocks": 37
+  },
+  {
+    "url": "https://www.carpiomedia.com/contact",
+    "title": "Contact | Let's Connect Now — Carpio Media",
+    "file": "_source_snapshot/manifest/blocks/contact.json",
+    "sections": 1,
+    "blocks": 2
+  },
+  {
+    "url": "https://www.carpiomedia.com/faq-1",
+    "title": "FAQ — Carpio Media",
+    "file": "_source_snapshot/manifest/blocks/faq-1.json",
+    "sections": 1,
+    "blocks": 2
+  },
+  {
+    "url": "https://www.carpiomedia.com/aerial-drone-gallery-nyc",
+    "title": "Gallery  — Carpio Media",
+    "file": "_source_snapshot/manifest/blocks/gallery.json",
+    "sections": 4,
+    "blocks": 37
+  },
+  {
+    "url": "https://www.carpiomedia.com",
+    "title": "Carpio Media  Real Estate Photography & Drone Services in NYC",
+    "file": "_source_snapshot/manifest/blocks/home.json",
+    "sections": 8,
+    "blocks": 14
+  },
+  {
+    "url": "https://www.carpiomedia.com",
+    "title": "Carpio Media  Real Estate Photography & Drone Services in NYC",
+    "file": "_source_snapshot/manifest/blocks/root.json",
+    "sections": 8,
+    "blocks": 14
+  },
+  {
+    "url": "https://www.carpiomedia.com/services-nyc-media",
+    "title": "Real Estate Photography & Drone Services New York City — Carpio Media",
+    "file": "_source_snapshot/manifest/blocks/services-nyc-media.json",
+    "sections": 2,
+    "blocks": 1
+  },
+  {
+    "url": "https://www.carpiomedia.com/services-nyc-media/cinematic-drone-content-creation-for-film-tv",
+    "title": "Cinematic Drone Production for Film and TV NYC — Carpio Media",
+    "file": "_source_snapshot/manifest/blocks/services-nyc-media__cinematic-drone-content-creation-for-film-tv.json",
+    "sections": 2,
+    "blocks": 4
+  },
+  {
+    "url": "https://www.carpiomedia.com/services-nyc-media/commercialrealestatephotography",
+    "title": "Commercial Real Estate Photography & Drone NYC — Carpio Media",
+    "file": "_source_snapshot/manifest/blocks/services-nyc-media__commercialrealestatephotography.json",
+    "sections": 2,
+    "blocks": 7
+  },
+  {
+    "url": "https://www.carpiomedia.com/services-nyc-media/fpv",
+    "title": "FPV Drone Videography & Fly-Throughs NYC — Carpio Media",
+    "file": "_source_snapshot/manifest/blocks/services-nyc-media__fpv.json",
+    "sections": 3,
+    "blocks": 6
+  },
+  {
+    "url": "https://www.carpiomedia.com/services-nyc-media/professional-visual-content-creation",
+    "title": "NYC Content Creation for Brands & Events — Carpio Media",
+    "file": "_source_snapshot/manifest/blocks/services-nyc-media__professional-visual-content-creation.json",
+    "sections": 2,
+    "blocks": 6
+  },
+  {
+    "url": "https://www.carpiomedia.com/services-nyc-media/residentialrealestatephotography",
+    "title": "NYC Real Estate Photography & Drone Video — Carpio Media",
+    "file": "_source_snapshot/manifest/blocks/services-nyc-media__residentialrealestatephotography.json",
+    "sections": 2,
+    "blocks": 10
+  },
+  {
+    "url": "https://www.carpiomedia.com",
+    "title": "Carpio Media  Real Estate Photography & Drone Services in NYC",
+    "file": "_source_snapshot/manifest/blocks/store-policies.json",
+    "sections": 8,
+    "blocks": 14
+  }
+]

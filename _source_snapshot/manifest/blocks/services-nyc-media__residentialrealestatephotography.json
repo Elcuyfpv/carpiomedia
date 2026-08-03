@@ -1,0 +1,979 @@
+{
+  "source_file": "_source_snapshot/raw/services-nyc-media__residentialrealestatephotography.html",
+  "url": "https://www.carpiomedia.com/services-nyc-media/residentialrealestatephotography",
+  "title": "NYC Real Estate Photography & Drone Video — Carpio Media",
+  "header": {
+    "order": 1,
+    "tag": "header",
+    "id": "header",
+    "classes": [
+      "header",
+      "theme-col--primary"
+    ],
+    "data_block_type": "",
+    "data_definition_name": "",
+    "data_section_id": "header",
+    "texts_in_order": [],
+    "images_in_order": [
+      {
+        "sources": [
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5312c5ce-f33b-45b6-9e77-5c431aae6d9f/Carpio+Media+initials+white+nb.png?format=1500w"
+        ],
+        "alt": "Carpio Media",
+        "title": ""
+      },
+      {
+        "sources": [
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=1500w"
+        ],
+        "alt": "Carpio Media",
+        "title": ""
+      },
+      {
+        "sources": [
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5312c5ce-f33b-45b6-9e77-5c431aae6d9f/Carpio+Media+initials+white+nb.png?format=1500w"
+        ],
+        "alt": "Carpio Media",
+        "title": ""
+      },
+      {
+        "sources": [
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=1500w"
+        ],
+        "alt": "Carpio Media",
+        "title": ""
+      }
+    ],
+    "youtube_ids": [],
+    "vimeo_ids": [],
+    "media_urls": [
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=1500w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5312c5ce-f33b-45b6-9e77-5c431aae6d9f/Carpio+Media+initials+white+nb.png?format=1500w",
+        "type": "image"
+      }
+    ],
+    "all_urls": [
+      "https://www.carpiomedia.com/services-nyc-media/residentialrealestatephotography",
+      "https://www.carpiomedia.com/",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=1500w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5312c5ce-f33b-45b6-9e77-5c431aae6d9f/Carpio+Media+initials+white+nb.png?format=1500w",
+      "https://www.carpiomedia.com/services-nyc-media",
+      "https://www.carpiomedia.com/about",
+      "https://www.carpiomedia.com/aerial-drone-gallery-nyc",
+      "https://www.carpiomedia.com/contact",
+      "https://www.carpiomedia.com/faq-1",
+      "https://www.instagram.com/carpiomedianyc/",
+      "https://www.facebook.com/carpiomedia",
+      "http://www.w3.org/2000/",
+      "https://www.in"
+    ]
+  },
+  "sections": [
+    {
+      "order": 1,
+      "id": "",
+      "classes": [
+        "page-section",
+        "full-bleed-section",
+        "layout-engine-section",
+        "background-width--full-bleed",
+        "section-height--custom",
+        "content-width--wide",
+        "horizontal-alignment--center",
+        "vertical-alignment--middle"
+      ],
+      "data_section_id": "63fd30550673451702dc402b",
+      "background_media": [],
+      "blocks": [
+        {
+          "order": 1,
+          "tag": "div",
+          "id": "block-d04d772add072f335279",
+          "classes": [
+            "sqs-block",
+            "website-component-block",
+            "sqs-block-website-component",
+            "sqs-block-html",
+            "html-block"
+          ],
+          "data_block_type": "1337",
+          "data_definition_name": "website.components.html",
+          "data_section_id": "",
+          "texts_in_order": [
+            {
+              "tag": "h1",
+              "text": "Residential Real Estate Photography & Drone Video in NYC"
+            }
+          ],
+          "images_in_order": [],
+          "youtube_ids": [],
+          "vimeo_ids": [],
+          "media_urls": [],
+          "all_urls": [
+            "https://definition"
+          ]
+        },
+        {
+          "order": 2,
+          "tag": "div",
+          "id": "block-8a055f5391a14ee7e3d4",
+          "classes": [
+            "sqs-block",
+            "website-component-block",
+            "sqs-block-website-component",
+            "sqs-block-html",
+            "html-block"
+          ],
+          "data_block_type": "1337",
+          "data_definition_name": "website.components.html",
+          "data_section_id": "",
+          "texts_in_order": [
+            {
+              "tag": "p",
+              "text": "Carpio Media creates residential and luxury real estate photography, aerial drone video, and listing media for agents, brokers, developers, property managers, and homeowners. Based in Forest Hills, Queens, we serve properties throughout New York City, Long Island, Westchester, New Jersey, and Connecticut."
+            },
+            {
+              "tag": "p",
+              "text": "Each property is captured with a coordinated ground-and-air approach. Interior and exterior photography communicates the design and atmosphere of the space, while FAA-compliant aerial imagery adds location, scale, surrounding views, and neighborhood context."
+            },
+            {
+              "tag": "p",
+              "text": "Projects can include high-resolution listing photography, aerial photographs, cinematic drone video, property walkthroughs, and vertical social-media edits. The scope is planned around the property, the audience, and where the finished media will be published."
+            },
+            {
+              "tag": "p",
+              "text": "To request a quote, send the property address, preferred shoot date, approximate square footage, required deliverables, and intended listing or campaign launch date through the Contact page."
+            }
+          ],
+          "images_in_order": [],
+          "youtube_ids": [],
+          "vimeo_ids": [],
+          "media_urls": [],
+          "all_urls": [
+            "https://definition"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "id": "",
+      "classes": [
+        "page-section",
+        "full-bleed-section",
+        "layout-engine-section",
+        "background-width--full-bleed",
+        "section-height--custom",
+        "content-width--wide",
+        "horizontal-alignment--center",
+        "vertical-alignment--middle"
+      ],
+      "data_section_id": "63fd30550673451702dc402e",
+      "background_media": [
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/c9166df2-6d2f-4233-ab1b-23f57f006746/49+W+Susquehanna+Dr-22.jpg",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/c9166df2-6d2f-4233-ab1b-23f57f006746/49+W+Susquehanna+Dr-22.jpg?format=100w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/c9166df2-6d2f-4233-ab1b-23f57f006746/49+W+Susquehanna+Dr-22.jpg?format=300w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/c9166df2-6d2f-4233-ab1b-23f57f006746/49+W+Susquehanna+Dr-22.jpg?format=500w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/c9166df2-6d2f-4233-ab1b-23f57f006746/49+W+Susquehanna+Dr-22.jpg?format=750w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/c9166df2-6d2f-4233-ab1b-23f57f006746/49+W+Susquehanna+Dr-22.jpg?format=1000w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/c9166df2-6d2f-4233-ab1b-23f57f006746/49+W+Susquehanna+Dr-22.jpg?format=1500w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/c9166df2-6d2f-4233-ab1b-23f57f006746/49+W+Susquehanna+Dr-22.jpg?format=2500w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/9053940a-1e4b-4a77-a7ce-a9dae33072b7/33+Lake+Michgan+Dr-13.jpg",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/9053940a-1e4b-4a77-a7ce-a9dae33072b7/33+Lake+Michgan+Dr-13.jpg?format=100w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/9053940a-1e4b-4a77-a7ce-a9dae33072b7/33+Lake+Michgan+Dr-13.jpg?format=300w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/9053940a-1e4b-4a77-a7ce-a9dae33072b7/33+Lake+Michgan+Dr-13.jpg?format=500w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/9053940a-1e4b-4a77-a7ce-a9dae33072b7/33+Lake+Michgan+Dr-13.jpg?format=750w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/9053940a-1e4b-4a77-a7ce-a9dae33072b7/33+Lake+Michgan+Dr-13.jpg?format=1000w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/9053940a-1e4b-4a77-a7ce-a9dae33072b7/33+Lake+Michgan+Dr-13.jpg?format=1500w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/9053940a-1e4b-4a77-a7ce-a9dae33072b7/33+Lake+Michgan+Dr-13.jpg?format=2500w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/cc475bb7-4902-43ba-a53c-891e382077ce/43+W+Susquehanna+Dr-13.jpg",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/cc475bb7-4902-43ba-a53c-891e382077ce/43+W+Susquehanna+Dr-13.jpg?format=100w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/cc475bb7-4902-43ba-a53c-891e382077ce/43+W+Susquehanna+Dr-13.jpg?format=300w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/cc475bb7-4902-43ba-a53c-891e382077ce/43+W+Susquehanna+Dr-13.jpg?format=500w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/cc475bb7-4902-43ba-a53c-891e382077ce/43+W+Susquehanna+Dr-13.jpg?format=750w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/cc475bb7-4902-43ba-a53c-891e382077ce/43+W+Susquehanna+Dr-13.jpg?format=1000w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/cc475bb7-4902-43ba-a53c-891e382077ce/43+W+Susquehanna+Dr-13.jpg?format=1500w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/cc475bb7-4902-43ba-a53c-891e382077ce/43+W+Susquehanna+Dr-13.jpg?format=2500w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/732f1be0-80ce-425d-ba1e-498659ed0b1b/14+S+Portland+Dr-22.jpg",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/732f1be0-80ce-425d-ba1e-498659ed0b1b/14+S+Portland+Dr-22.jpg?format=100w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/732f1be0-80ce-425d-ba1e-498659ed0b1b/14+S+Portland+Dr-22.jpg?format=300w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/732f1be0-80ce-425d-ba1e-498659ed0b1b/14+S+Portland+Dr-22.jpg?format=500w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/732f1be0-80ce-425d-ba1e-498659ed0b1b/14+S+Portland+Dr-22.jpg?format=750w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/732f1be0-80ce-425d-ba1e-498659ed0b1b/14+S+Portland+Dr-22.jpg?format=1000w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/732f1be0-80ce-425d-ba1e-498659ed0b1b/14+S+Portland+Dr-22.jpg?format=1500w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/732f1be0-80ce-425d-ba1e-498659ed0b1b/14+S+Portland+Dr-22.jpg?format=2500w",
+          "type": "image"
+        }
+      ],
+      "blocks": [
+        {
+          "order": 1,
+          "tag": "div",
+          "id": "block-yui_3_17_2_1_1750867815667_2180",
+          "classes": [
+            "sqs-block",
+            "website-component-block",
+            "sqs-block-website-component",
+            "sqs-block-video",
+            "video-block"
+          ],
+          "data_block_type": "1337",
+          "data_definition_name": "website.components.video",
+          "data_section_id": "",
+          "texts_in_order": [],
+          "images_in_order": [],
+          "youtube_ids": [],
+          "vimeo_ids": [],
+          "media_urls": [],
+          "all_urls": [
+            "https://definition",
+            "https://video."
+          ]
+        },
+        {
+          "order": 2,
+          "tag": "div",
+          "id": "block-e6779ff3c52ef704bd0a",
+          "classes": [
+            "sqs-block",
+            "website-component-block",
+            "sqs-block-website-component",
+            "sqs-block-video",
+            "video-block"
+          ],
+          "data_block_type": "1337",
+          "data_definition_name": "website.components.video",
+          "data_section_id": "",
+          "texts_in_order": [],
+          "images_in_order": [],
+          "youtube_ids": [],
+          "vimeo_ids": [],
+          "media_urls": [],
+          "all_urls": [
+            "https://definition",
+            "https://video."
+          ]
+        },
+        {
+          "order": 3,
+          "tag": "div",
+          "id": "block-fae8f6430bceb9e87165",
+          "classes": [
+            "sqs-block",
+            "website-component-block",
+            "sqs-block-website-component",
+            "sqs-block-video",
+            "video-block"
+          ],
+          "data_block_type": "1337",
+          "data_definition_name": "website.components.video",
+          "data_section_id": "",
+          "texts_in_order": [],
+          "images_in_order": [],
+          "youtube_ids": [],
+          "vimeo_ids": [],
+          "media_urls": [],
+          "all_urls": [
+            "https://definition",
+            "https://video."
+          ]
+        },
+        {
+          "order": 4,
+          "tag": "div",
+          "id": "block-808651ab8b30f0ba3359",
+          "classes": [
+            "sqs-block",
+            "website-component-block",
+            "sqs-block-website-component",
+            "sqs-block-video",
+            "video-block"
+          ],
+          "data_block_type": "1337",
+          "data_definition_name": "website.components.video",
+          "data_section_id": "",
+          "texts_in_order": [],
+          "images_in_order": [],
+          "youtube_ids": [],
+          "vimeo_ids": [],
+          "media_urls": [],
+          "all_urls": [
+            "https://definition",
+            "https://video."
+          ]
+        },
+        {
+          "order": 5,
+          "tag": "div",
+          "id": "block-a0b34916f4db90b5931f",
+          "classes": [
+            "sqs-block",
+            "website-component-block",
+            "sqs-block-website-component",
+            "sqs-block-image",
+            "image-block"
+          ],
+          "data_block_type": "1337",
+          "data_definition_name": "website.components.imageFluid",
+          "data_section_id": "",
+          "texts_in_order": [],
+          "images_in_order": [
+            {
+              "sources": [
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/c9166df2-6d2f-4233-ab1b-23f57f006746/49+W+Susquehanna+Dr-22.jpg",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/c9166df2-6d2f-4233-ab1b-23f57f006746/49+W+Susquehanna+Dr-22.jpg?format=100w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/c9166df2-6d2f-4233-ab1b-23f57f006746/49+W+Susquehanna+Dr-22.jpg?format=300w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/c9166df2-6d2f-4233-ab1b-23f57f006746/49+W+Susquehanna+Dr-22.jpg?format=500w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/c9166df2-6d2f-4233-ab1b-23f57f006746/49+W+Susquehanna+Dr-22.jpg?format=750w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/c9166df2-6d2f-4233-ab1b-23f57f006746/49+W+Susquehanna+Dr-22.jpg?format=1000w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/c9166df2-6d2f-4233-ab1b-23f57f006746/49+W+Susquehanna+Dr-22.jpg?format=1500w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/c9166df2-6d2f-4233-ab1b-23f57f006746/49+W+Susquehanna+Dr-22.jpg?format=2500w"
+              ],
+              "alt": "",
+              "title": ""
+            }
+          ],
+          "youtube_ids": [],
+          "vimeo_ids": [],
+          "media_urls": [
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/c9166df2-6d2f-4233-ab1b-23f57f006746/49+W+Susquehanna+Dr-22.jpg",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/c9166df2-6d2f-4233-ab1b-23f57f006746/49+W+Susquehanna+Dr-22.jpg?format=100w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/c9166df2-6d2f-4233-ab1b-23f57f006746/49+W+Susquehanna+Dr-22.jpg?format=300w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/c9166df2-6d2f-4233-ab1b-23f57f006746/49+W+Susquehanna+Dr-22.jpg?format=500w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/c9166df2-6d2f-4233-ab1b-23f57f006746/49+W+Susquehanna+Dr-22.jpg?format=750w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/c9166df2-6d2f-4233-ab1b-23f57f006746/49+W+Susquehanna+Dr-22.jpg?format=1000w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/c9166df2-6d2f-4233-ab1b-23f57f006746/49+W+Susquehanna+Dr-22.jpg?format=1500w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/c9166df2-6d2f-4233-ab1b-23f57f006746/49+W+Susquehanna+Dr-22.jpg?format=2500w",
+              "type": "image"
+            }
+          ],
+          "all_urls": [
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/c9166df2-6d2f-4233-ab1b-23f57f006746/49+W+Susquehanna+Dr-22.jpg",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/c9166df2-6d2f-4233-ab1b-23f57f006746/49+W+Susquehanna+Dr-22.jpg?format=100w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/c9166df2-6d2f-4233-ab1b-23f57f006746/49+W+Susquehanna+Dr-22.jpg?format=300w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/c9166df2-6d2f-4233-ab1b-23f57f006746/49+W+Susquehanna+Dr-22.jpg?format=500w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/c9166df2-6d2f-4233-ab1b-23f57f006746/49+W+Susquehanna+Dr-22.jpg?format=750w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/c9166df2-6d2f-4233-ab1b-23f57f006746/49+W+Susquehanna+Dr-22.jpg?format=1000w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/c9166df2-6d2f-4233-ab1b-23f57f006746/49+W+Susquehanna+Dr-22.jpg?format=1500w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/c9166df2-6d2f-4233-ab1b-23f57f006746/49+W+Susquehanna+Dr-22.jpg?format=2500w",
+            "https://definition",
+            "https://image"
+          ]
+        },
+        {
+          "order": 6,
+          "tag": "div",
+          "id": "block-fe27034c0de95433c58f",
+          "classes": [
+            "sqs-block",
+            "website-component-block",
+            "sqs-block-website-component",
+            "sqs-block-image",
+            "image-block"
+          ],
+          "data_block_type": "1337",
+          "data_definition_name": "website.components.imageFluid",
+          "data_section_id": "",
+          "texts_in_order": [],
+          "images_in_order": [
+            {
+              "sources": [
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/9053940a-1e4b-4a77-a7ce-a9dae33072b7/33+Lake+Michgan+Dr-13.jpg",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/9053940a-1e4b-4a77-a7ce-a9dae33072b7/33+Lake+Michgan+Dr-13.jpg?format=100w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/9053940a-1e4b-4a77-a7ce-a9dae33072b7/33+Lake+Michgan+Dr-13.jpg?format=300w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/9053940a-1e4b-4a77-a7ce-a9dae33072b7/33+Lake+Michgan+Dr-13.jpg?format=500w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/9053940a-1e4b-4a77-a7ce-a9dae33072b7/33+Lake+Michgan+Dr-13.jpg?format=750w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/9053940a-1e4b-4a77-a7ce-a9dae33072b7/33+Lake+Michgan+Dr-13.jpg?format=1000w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/9053940a-1e4b-4a77-a7ce-a9dae33072b7/33+Lake+Michgan+Dr-13.jpg?format=1500w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/9053940a-1e4b-4a77-a7ce-a9dae33072b7/33+Lake+Michgan+Dr-13.jpg?format=2500w"
+              ],
+              "alt": "",
+              "title": ""
+            }
+          ],
+          "youtube_ids": [],
+          "vimeo_ids": [],
+          "media_urls": [
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/9053940a-1e4b-4a77-a7ce-a9dae33072b7/33+Lake+Michgan+Dr-13.jpg",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/9053940a-1e4b-4a77-a7ce-a9dae33072b7/33+Lake+Michgan+Dr-13.jpg?format=100w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/9053940a-1e4b-4a77-a7ce-a9dae33072b7/33+Lake+Michgan+Dr-13.jpg?format=300w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/9053940a-1e4b-4a77-a7ce-a9dae33072b7/33+Lake+Michgan+Dr-13.jpg?format=500w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/9053940a-1e4b-4a77-a7ce-a9dae33072b7/33+Lake+Michgan+Dr-13.jpg?format=750w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/9053940a-1e4b-4a77-a7ce-a9dae33072b7/33+Lake+Michgan+Dr-13.jpg?format=1000w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/9053940a-1e4b-4a77-a7ce-a9dae33072b7/33+Lake+Michgan+Dr-13.jpg?format=1500w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/9053940a-1e4b-4a77-a7ce-a9dae33072b7/33+Lake+Michgan+Dr-13.jpg?format=2500w",
+              "type": "image"
+            }
+          ],
+          "all_urls": [
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/9053940a-1e4b-4a77-a7ce-a9dae33072b7/33+Lake+Michgan+Dr-13.jpg",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/9053940a-1e4b-4a77-a7ce-a9dae33072b7/33+Lake+Michgan+Dr-13.jpg?format=100w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/9053940a-1e4b-4a77-a7ce-a9dae33072b7/33+Lake+Michgan+Dr-13.jpg?format=300w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/9053940a-1e4b-4a77-a7ce-a9dae33072b7/33+Lake+Michgan+Dr-13.jpg?format=500w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/9053940a-1e4b-4a77-a7ce-a9dae33072b7/33+Lake+Michgan+Dr-13.jpg?format=750w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/9053940a-1e4b-4a77-a7ce-a9dae33072b7/33+Lake+Michgan+Dr-13.jpg?format=1000w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/9053940a-1e4b-4a77-a7ce-a9dae33072b7/33+Lake+Michgan+Dr-13.jpg?format=1500w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/9053940a-1e4b-4a77-a7ce-a9dae33072b7/33+Lake+Michgan+Dr-13.jpg?format=2500w",
+            "https://definition",
+            "https://image"
+          ]
+        },
+        {
+          "order": 7,
+          "tag": "div",
+          "id": "block-3e2fcc453f70aa75bdaa",
+          "classes": [
+            "sqs-block",
+            "website-component-block",
+            "sqs-block-website-component",
+            "sqs-block-image",
+            "image-block"
+          ],
+          "data_block_type": "1337",
+          "data_definition_name": "website.components.imageFluid",
+          "data_section_id": "",
+          "texts_in_order": [],
+          "images_in_order": [
+            {
+              "sources": [
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/cc475bb7-4902-43ba-a53c-891e382077ce/43+W+Susquehanna+Dr-13.jpg",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/cc475bb7-4902-43ba-a53c-891e382077ce/43+W+Susquehanna+Dr-13.jpg?format=100w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/cc475bb7-4902-43ba-a53c-891e382077ce/43+W+Susquehanna+Dr-13.jpg?format=300w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/cc475bb7-4902-43ba-a53c-891e382077ce/43+W+Susquehanna+Dr-13.jpg?format=500w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/cc475bb7-4902-43ba-a53c-891e382077ce/43+W+Susquehanna+Dr-13.jpg?format=750w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/cc475bb7-4902-43ba-a53c-891e382077ce/43+W+Susquehanna+Dr-13.jpg?format=1000w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/cc475bb7-4902-43ba-a53c-891e382077ce/43+W+Susquehanna+Dr-13.jpg?format=1500w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/cc475bb7-4902-43ba-a53c-891e382077ce/43+W+Susquehanna+Dr-13.jpg?format=2500w"
+              ],
+              "alt": "",
+              "title": ""
+            }
+          ],
+          "youtube_ids": [],
+          "vimeo_ids": [],
+          "media_urls": [
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/cc475bb7-4902-43ba-a53c-891e382077ce/43+W+Susquehanna+Dr-13.jpg",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/cc475bb7-4902-43ba-a53c-891e382077ce/43+W+Susquehanna+Dr-13.jpg?format=100w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/cc475bb7-4902-43ba-a53c-891e382077ce/43+W+Susquehanna+Dr-13.jpg?format=300w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/cc475bb7-4902-43ba-a53c-891e382077ce/43+W+Susquehanna+Dr-13.jpg?format=500w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/cc475bb7-4902-43ba-a53c-891e382077ce/43+W+Susquehanna+Dr-13.jpg?format=750w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/cc475bb7-4902-43ba-a53c-891e382077ce/43+W+Susquehanna+Dr-13.jpg?format=1000w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/cc475bb7-4902-43ba-a53c-891e382077ce/43+W+Susquehanna+Dr-13.jpg?format=1500w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/cc475bb7-4902-43ba-a53c-891e382077ce/43+W+Susquehanna+Dr-13.jpg?format=2500w",
+              "type": "image"
+            }
+          ],
+          "all_urls": [
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/cc475bb7-4902-43ba-a53c-891e382077ce/43+W+Susquehanna+Dr-13.jpg",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/cc475bb7-4902-43ba-a53c-891e382077ce/43+W+Susquehanna+Dr-13.jpg?format=100w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/cc475bb7-4902-43ba-a53c-891e382077ce/43+W+Susquehanna+Dr-13.jpg?format=300w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/cc475bb7-4902-43ba-a53c-891e382077ce/43+W+Susquehanna+Dr-13.jpg?format=500w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/cc475bb7-4902-43ba-a53c-891e382077ce/43+W+Susquehanna+Dr-13.jpg?format=750w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/cc475bb7-4902-43ba-a53c-891e382077ce/43+W+Susquehanna+Dr-13.jpg?format=1000w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/cc475bb7-4902-43ba-a53c-891e382077ce/43+W+Susquehanna+Dr-13.jpg?format=1500w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/cc475bb7-4902-43ba-a53c-891e382077ce/43+W+Susquehanna+Dr-13.jpg?format=2500w",
+            "https://definition",
+            "https://image"
+          ]
+        },
+        {
+          "order": 8,
+          "tag": "div",
+          "id": "block-348ee01f8e84578cd516",
+          "classes": [
+            "sqs-block",
+            "website-component-block",
+            "sqs-block-website-component",
+            "sqs-block-image",
+            "image-block"
+          ],
+          "data_block_type": "1337",
+          "data_definition_name": "website.components.imageFluid",
+          "data_section_id": "",
+          "texts_in_order": [],
+          "images_in_order": [
+            {
+              "sources": [
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/732f1be0-80ce-425d-ba1e-498659ed0b1b/14+S+Portland+Dr-22.jpg",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/732f1be0-80ce-425d-ba1e-498659ed0b1b/14+S+Portland+Dr-22.jpg?format=100w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/732f1be0-80ce-425d-ba1e-498659ed0b1b/14+S+Portland+Dr-22.jpg?format=300w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/732f1be0-80ce-425d-ba1e-498659ed0b1b/14+S+Portland+Dr-22.jpg?format=500w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/732f1be0-80ce-425d-ba1e-498659ed0b1b/14+S+Portland+Dr-22.jpg?format=750w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/732f1be0-80ce-425d-ba1e-498659ed0b1b/14+S+Portland+Dr-22.jpg?format=1000w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/732f1be0-80ce-425d-ba1e-498659ed0b1b/14+S+Portland+Dr-22.jpg?format=1500w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/732f1be0-80ce-425d-ba1e-498659ed0b1b/14+S+Portland+Dr-22.jpg?format=2500w"
+              ],
+              "alt": "",
+              "title": ""
+            }
+          ],
+          "youtube_ids": [],
+          "vimeo_ids": [],
+          "media_urls": [
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/732f1be0-80ce-425d-ba1e-498659ed0b1b/14+S+Portland+Dr-22.jpg",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/732f1be0-80ce-425d-ba1e-498659ed0b1b/14+S+Portland+Dr-22.jpg?format=100w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/732f1be0-80ce-425d-ba1e-498659ed0b1b/14+S+Portland+Dr-22.jpg?format=300w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/732f1be0-80ce-425d-ba1e-498659ed0b1b/14+S+Portland+Dr-22.jpg?format=500w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/732f1be0-80ce-425d-ba1e-498659ed0b1b/14+S+Portland+Dr-22.jpg?format=750w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/732f1be0-80ce-425d-ba1e-498659ed0b1b/14+S+Portland+Dr-22.jpg?format=1000w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/732f1be0-80ce-425d-ba1e-498659ed0b1b/14+S+Portland+Dr-22.jpg?format=1500w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/732f1be0-80ce-425d-ba1e-498659ed0b1b/14+S+Portland+Dr-22.jpg?format=2500w",
+              "type": "image"
+            }
+          ],
+          "all_urls": [
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/732f1be0-80ce-425d-ba1e-498659ed0b1b/14+S+Portland+Dr-22.jpg",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/732f1be0-80ce-425d-ba1e-498659ed0b1b/14+S+Portland+Dr-22.jpg?format=100w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/732f1be0-80ce-425d-ba1e-498659ed0b1b/14+S+Portland+Dr-22.jpg?format=300w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/732f1be0-80ce-425d-ba1e-498659ed0b1b/14+S+Portland+Dr-22.jpg?format=500w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/732f1be0-80ce-425d-ba1e-498659ed0b1b/14+S+Portland+Dr-22.jpg?format=750w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/732f1be0-80ce-425d-ba1e-498659ed0b1b/14+S+Portland+Dr-22.jpg?format=1000w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/732f1be0-80ce-425d-ba1e-498659ed0b1b/14+S+Portland+Dr-22.jpg?format=1500w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/732f1be0-80ce-425d-ba1e-498659ed0b1b/14+S+Portland+Dr-22.jpg?format=2500w",
+            "https://definition",
+            "https://image"
+          ]
+        }
+      ]
+    }
+  ],
+  "footer": {
+    "order": 1,
+    "tag": "footer",
+    "id": "footer-sections",
+    "classes": [
+      "sections"
+    ],
+    "data_block_type": "",
+    "data_definition_name": "",
+    "data_section_id": "",
+    "texts_in_order": [
+      {
+        "tag": "p",
+        "text": "Forest Hills, NY"
+      },
+      {
+        "tag": "p",
+        "text": "(929)350-0095"
+      }
+    ],
+    "images_in_order": [
+      {
+        "sources": [
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=100w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=300w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=500w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=750w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=1000w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=1500w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=2500w"
+        ],
+        "alt": "",
+        "title": ""
+      },
+      {
+        "sources": [
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=100w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=300w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=500w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=750w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=1000w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=1500w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=2500w"
+        ],
+        "alt": "Certified minority business enterprise",
+        "title": ""
+      },
+      {
+        "sources": [
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=100w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=300w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=500w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=750w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=1000w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=1500w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=2500w"
+        ],
+        "alt": "Verified federal vendor",
+        "title": ""
+      },
+      {
+        "sources": [
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=100w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=300w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=500w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=750w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=1000w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=1500w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=2500w"
+        ],
+        "alt": "DJI authorized dealer. DJI Enterprise",
+        "title": ""
+      }
+    ],
+    "youtube_ids": [],
+    "vimeo_ids": [],
+    "media_urls": [
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=100w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=300w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=500w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=750w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=1000w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=1500w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=2500w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=100w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=300w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=500w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=750w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=1000w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=1500w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=2500w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=100w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=300w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=500w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=750w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=1000w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=1500w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=2500w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=100w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=300w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=500w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=750w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=1000w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=1500w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=2500w",
+        "type": "image"
+      }
+    ],
+    "all_urls": [
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=100w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=300w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=500w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=750w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=1000w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=1500w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=2500w",
+      "https://www.instagram.com/carpiomedianyc/",
+      "https://www.facebook.com/carpiomedia",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=100w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=300w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=500w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=750w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=1000w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=1500w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=2500w",
+      "https://fedlinks.com/profile/Carpio-Media-LLC-Forest-Hills-NY",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=100w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=300w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=500w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=750w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=1000w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=1500w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=2500w",
+      "https://www.carpiomedia.com/contact",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=100w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=300w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=500w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=750w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=1000w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=1500w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=2500w",
+      "https://definition",
+      "https://image",
+      "https://www.in",
+      "https://fedlink"
+    ]
+  }
+}

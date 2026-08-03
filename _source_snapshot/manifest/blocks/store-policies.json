@@ -1,0 +1,1793 @@
+{
+  "source_file": "_source_snapshot/raw/store-policies.html",
+  "url": "https://www.carpiomedia.com",
+  "title": "Carpio Media  Real Estate Photography & Drone Services in NYC",
+  "header": {
+    "order": 1,
+    "tag": "header",
+    "id": "header",
+    "classes": [
+      "header",
+      "theme-col--primary"
+    ],
+    "data_block_type": "",
+    "data_definition_name": "",
+    "data_section_id": "header",
+    "texts_in_order": [],
+    "images_in_order": [
+      {
+        "sources": [
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5312c5ce-f33b-45b6-9e77-5c431aae6d9f/Carpio+Media+initials+white+nb.png?format=1500w"
+        ],
+        "alt": "Carpio Media",
+        "title": ""
+      },
+      {
+        "sources": [
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=1500w"
+        ],
+        "alt": "Carpio Media",
+        "title": ""
+      },
+      {
+        "sources": [
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5312c5ce-f33b-45b6-9e77-5c431aae6d9f/Carpio+Media+initials+white+nb.png?format=1500w"
+        ],
+        "alt": "Carpio Media",
+        "title": ""
+      },
+      {
+        "sources": [
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=1500w"
+        ],
+        "alt": "Carpio Media",
+        "title": ""
+      }
+    ],
+    "youtube_ids": [],
+    "vimeo_ids": [],
+    "media_urls": [
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=1500w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5312c5ce-f33b-45b6-9e77-5c431aae6d9f/Carpio+Media+initials+white+nb.png?format=1500w",
+        "type": "image"
+      }
+    ],
+    "all_urls": [
+      "https://www.carpiomedia.com",
+      "https://www.carpiomedia.com/",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=1500w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5312c5ce-f33b-45b6-9e77-5c431aae6d9f/Carpio+Media+initials+white+nb.png?format=1500w",
+      "https://www.carpiomedia.com/services-nyc-media",
+      "https://www.carpiomedia.com/about",
+      "https://www.carpiomedia.com/aerial-drone-gallery-nyc",
+      "https://www.carpiomedia.com/contact",
+      "https://www.carpiomedia.com/faq-1",
+      "https://www.instagram.com/carpiomedianyc/",
+      "https://www.facebook.com/carpiomedia",
+      "http://www.w3.org/2000/",
+      "https://www.in"
+    ]
+  },
+  "sections": [
+    {
+      "order": 1,
+      "id": "",
+      "classes": [
+        "page-section",
+        "full-bleed-section",
+        "layout-engine-section",
+        "background-width--full-bleed",
+        "section-height--custom",
+        "content-width--wide",
+        "horizontal-alignment--center",
+        "vertical-alignment--middle"
+      ],
+      "data_section_id": "68647438948672132f9d0f10",
+      "background_media": [],
+      "blocks": [
+        {
+          "order": 1,
+          "tag": "div",
+          "id": "block-yui_3_17_2_1_1751413545063_2671",
+          "classes": [
+            "sqs-block",
+            "website-component-block",
+            "sqs-block-website-component",
+            "sqs-block-html",
+            "html-block"
+          ],
+          "data_block_type": "1337",
+          "data_definition_name": "website.components.html",
+          "data_section_id": "",
+          "texts_in_order": [
+            {
+              "tag": "h1",
+              "text": "FAA-Certified Drone Photography & Video in New York City"
+            }
+          ],
+          "images_in_order": [],
+          "youtube_ids": [],
+          "vimeo_ids": [],
+          "media_urls": [],
+          "all_urls": [
+            "https://definition"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "id": "",
+      "classes": [
+        "page-section",
+        "full-bleed-section",
+        "layout-engine-section",
+        "background-width--inset",
+        "section-height--custom",
+        "content-width--wide",
+        "horizontal-alignment--center",
+        "vertical-alignment--middle"
+      ],
+      "data_section_id": "6359b377da3cc7099b57df5b",
+      "background_media": [],
+      "blocks": [
+        {
+          "order": 1,
+          "tag": "div",
+          "id": "block-yui_3_17_2_1_1750867815667_5280",
+          "classes": [
+            "sqs-block",
+            "website-component-block",
+            "sqs-block-website-component",
+            "sqs-block-video",
+            "video-block"
+          ],
+          "data_block_type": "1337",
+          "data_definition_name": "website.components.video",
+          "data_section_id": "",
+          "texts_in_order": [],
+          "images_in_order": [],
+          "youtube_ids": [],
+          "vimeo_ids": [],
+          "media_urls": [],
+          "all_urls": [
+            "https://definition",
+            "https://video."
+          ]
+        },
+        {
+          "order": 2,
+          "tag": "div",
+          "id": "block-yui_3_17_2_1_1773694698191_24359",
+          "classes": [
+            "sqs-block",
+            "website-component-block",
+            "sqs-block-website-component",
+            "sqs-block-html",
+            "html-block"
+          ],
+          "data_block_type": "1337",
+          "data_definition_name": "website.components.html",
+          "data_section_id": "",
+          "texts_in_order": [
+            {
+              "tag": "p",
+              "text": "Carpio Media is a Queens-based commercial drone company serving New York City, Long Island, Westchester, New Jersey, and Connecticut. FAA Part 107 certification, 9,000+ flight hours, and an airline-aviation safety background support every production. From cinematic FPV and corporate video to events, construction, government work, and luxury real estate."
+            }
+          ],
+          "images_in_order": [],
+          "youtube_ids": [],
+          "vimeo_ids": [],
+          "media_urls": [],
+          "all_urls": [
+            "https://definition"
+          ]
+        },
+        {
+          "order": 3,
+          "tag": "div",
+          "id": "block-yui_3_17_2_1_1775158436843_3469",
+          "classes": [
+            "sqs-block",
+            "website-component-block",
+            "sqs-block-website-component",
+            "sqs-block-button",
+            "button-block"
+          ],
+          "data_block_type": "1337",
+          "data_definition_name": "website.components.button",
+          "data_section_id": "",
+          "texts_in_order": [],
+          "images_in_order": [],
+          "youtube_ids": [],
+          "vimeo_ids": [],
+          "media_urls": [],
+          "all_urls": [
+            "https://www.carpiomedia.com/services-nyc-media/fpv",
+            "https://definition",
+            "https://www.carpiomedia.com/"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "id": "",
+      "classes": [
+        "page-section",
+        "full-bleed-section",
+        "layout-engine-section",
+        "background-width--full-bleed",
+        "section-height--custom",
+        "content-width--wide",
+        "horizontal-alignment--center",
+        "vertical-alignment--middle"
+      ],
+      "data_section_id": "67e4923d9f12a5183f8306a0",
+      "background_media": [],
+      "blocks": [
+        {
+          "order": 1,
+          "tag": "div",
+          "id": "block-yui_3_17_2_1_1743023222363_8003",
+          "classes": [
+            "sqs-block",
+            "website-component-block",
+            "sqs-block-website-component",
+            "sqs-block-html",
+            "html-block"
+          ],
+          "data_block_type": "1337",
+          "data_definition_name": "website.components.html",
+          "data_section_id": "",
+          "texts_in_order": [
+            {
+              "tag": "h2",
+              "text": "Professional NYC Drone Photography and Videography"
+            }
+          ],
+          "images_in_order": [],
+          "youtube_ids": [],
+          "vimeo_ids": [],
+          "media_urls": [],
+          "all_urls": [
+            "https://definition"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "id": "",
+      "classes": [
+        "page-section",
+        "full-bleed-section",
+        "layout-engine-section",
+        "background-width--full-bleed",
+        "section-height--custom",
+        "content-width--wide",
+        "horizontal-alignment--center",
+        "vertical-alignment--middle"
+      ],
+      "data_section_id": "68640d8f4687d440e40227e3",
+      "background_media": [],
+      "blocks": [
+        {
+          "order": 1,
+          "tag": "div",
+          "id": "block-yui_3_17_2_1_1751387280215_2473",
+          "classes": [
+            "sqs-block",
+            "website-component-block",
+            "sqs-block-website-component",
+            "sqs-block-video",
+            "video-block"
+          ],
+          "data_block_type": "1337",
+          "data_definition_name": "website.components.video",
+          "data_section_id": "",
+          "texts_in_order": [],
+          "images_in_order": [],
+          "youtube_ids": [],
+          "vimeo_ids": [],
+          "media_urls": [],
+          "all_urls": [
+            "https://definition",
+            "https://video."
+          ]
+        },
+        {
+          "order": 2,
+          "tag": "div",
+          "id": "block-yui_3_17_2_1_1773694698191_26876",
+          "classes": [
+            "sqs-block",
+            "website-component-block",
+            "sqs-block-website-component",
+            "sqs-block-html",
+            "html-block"
+          ],
+          "data_block_type": "1337",
+          "data_definition_name": "website.components.html",
+          "data_section_id": "",
+          "texts_in_order": [
+            {
+              "tag": "p",
+              "text": "Carpio Media works with brands, agencies, developers, production teams, property professionals, and public-sector organizations. Every project follows a safety-led workflow with clear planning, reliable communication, and polished delivery for commercial campaigns, FPV fly-throughs, construction progress, corporate stories, and events."
+            }
+          ],
+          "images_in_order": [],
+          "youtube_ids": [],
+          "vimeo_ids": [],
+          "media_urls": [],
+          "all_urls": [
+            "https://definition"
+          ]
+        },
+        {
+          "order": 3,
+          "tag": "div",
+          "id": "block-3a6bab7032c9d0ea908e",
+          "classes": [
+            "sqs-block",
+            "website-component-block",
+            "sqs-block-website-component",
+            "sqs-block-button",
+            "button-block"
+          ],
+          "data_block_type": "1337",
+          "data_definition_name": "website.components.button",
+          "data_section_id": "",
+          "texts_in_order": [],
+          "images_in_order": [],
+          "youtube_ids": [],
+          "vimeo_ids": [],
+          "media_urls": [],
+          "all_urls": [
+            "https://www.carpiomedia.com/services-nyc-media/professional-visual-content-creation",
+            "https://definition",
+            "https://www.carpiomedia.com/"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "id": "",
+      "classes": [
+        "page-section",
+        "full-bleed-section",
+        "layout-engine-section",
+        "background-width--full-bleed",
+        "section-height--custom",
+        "content-width--wide",
+        "horizontal-alignment--center",
+        "vertical-alignment--middle"
+      ],
+      "data_section_id": "69cecc6497584871d4ab9da9",
+      "background_media": [],
+      "blocks": [
+        {
+          "order": 1,
+          "tag": "div",
+          "id": "block-a1453dcb747bd807e5e2",
+          "classes": [
+            "sqs-block",
+            "website-component-block",
+            "sqs-block-website-component",
+            "sqs-block-html",
+            "html-block"
+          ],
+          "data_block_type": "1337",
+          "data_definition_name": "website.components.html",
+          "data_section_id": "",
+          "texts_in_order": [
+            {
+              "tag": "h2",
+              "text": "Aerial Drone Photography for NYC Properties and Listings"
+            }
+          ],
+          "images_in_order": [],
+          "youtube_ids": [],
+          "vimeo_ids": [],
+          "media_urls": [],
+          "all_urls": [
+            "https://definition"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "id": "",
+      "classes": [
+        "page-section",
+        "full-bleed-section",
+        "layout-engine-section",
+        "background-width--full-bleed",
+        "section-height--custom",
+        "content-width--wide",
+        "horizontal-alignment--center",
+        "vertical-alignment--middle"
+      ],
+      "data_section_id": "69cecbfe13cf674fc1f398fe",
+      "background_media": [],
+      "blocks": [
+        {
+          "order": 1,
+          "tag": "div",
+          "id": "block-e1de07627efcec3cf897",
+          "classes": [
+            "sqs-block",
+            "website-component-block",
+            "sqs-block-website-component",
+            "sqs-block-video",
+            "video-block"
+          ],
+          "data_block_type": "1337",
+          "data_definition_name": "website.components.video",
+          "data_section_id": "",
+          "texts_in_order": [],
+          "images_in_order": [],
+          "youtube_ids": [],
+          "vimeo_ids": [],
+          "media_urls": [],
+          "all_urls": [
+            "https://definition",
+            "https://video."
+          ]
+        },
+        {
+          "order": 2,
+          "tag": "div",
+          "id": "block-c303939862ac25785dd8",
+          "classes": [
+            "sqs-block",
+            "website-component-block",
+            "sqs-block-website-component",
+            "sqs-block-html",
+            "html-block"
+          ],
+          "data_block_type": "1337",
+          "data_definition_name": "website.components.html",
+          "data_section_id": "",
+          "texts_in_order": [
+            {
+              "tag": "p",
+              "text": "Showcase residential, commercial, and luxury properties with coordinated aerial photography, drone video, interior photography, walkthroughs, and cinematic listing content. Carpio Media serves brokers, developers, property managers, architects, and owners throughout New York and the Tri-State Area."
+            }
+          ],
+          "images_in_order": [],
+          "youtube_ids": [],
+          "vimeo_ids": [],
+          "media_urls": [],
+          "all_urls": [
+            "https://definition"
+          ]
+        },
+        {
+          "order": 3,
+          "tag": "div",
+          "id": "block-0dc4b5d76deb9377fdc0",
+          "classes": [
+            "sqs-block",
+            "website-component-block",
+            "sqs-block-website-component",
+            "sqs-block-button",
+            "button-block"
+          ],
+          "data_block_type": "1337",
+          "data_definition_name": "website.components.button",
+          "data_section_id": "",
+          "texts_in_order": [],
+          "images_in_order": [],
+          "youtube_ids": [],
+          "vimeo_ids": [],
+          "media_urls": [],
+          "all_urls": [
+            "https://www.carpiomedia.com/services-nyc-media/residentialrealestatephotography",
+            "https://definition",
+            "https://www.carpiomedia.com/"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "id": "",
+      "classes": [
+        "page-section",
+        "full-bleed-section",
+        "layout-engine-section",
+        "background-width--full-bleed",
+        "section-height--medium",
+        "content-width--wide",
+        "horizontal-alignment--center",
+        "vertical-alignment--middle"
+      ],
+      "data_section_id": "69cece62e3e5e017545b226d",
+      "background_media": [
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-K6XCHR59PY0LOM97JRMM/image-asset.jpeg",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775519484125-SSSOD80N07DP05J2UZIO/image-asset.jpeg",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-NTKU39A0VSTEG7ZJX0NH/image-asset.jpeg",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163448464-CH67SXZD9A4NC5G8XBRA/image-asset.jpeg",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-YPPB7P2Y1SVJ3QN9MMBS/image-asset.jpeg",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163449192-ZWY1KC4E29M4JUOHHRML/image-asset.jpeg",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-SEDTQ28NJTZ68N5Q3YZ7/image-asset.jpeg",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-HIOMXUTVSBW5RHPAU5NM/image-asset.jpeg",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-DX03RMM34HOSCXTMD5HV/image-asset.jpeg",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-WPT5IZ0FJ8RT7UFQEL7E/image-asset.jpeg",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-K6XCHR59PY0LOM97JRMM/image-asset.jpeg?format=100w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-K6XCHR59PY0LOM97JRMM/image-asset.jpeg?format=300w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-K6XCHR59PY0LOM97JRMM/image-asset.jpeg?format=500w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-K6XCHR59PY0LOM97JRMM/image-asset.jpeg?format=750w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-K6XCHR59PY0LOM97JRMM/image-asset.jpeg?format=1000w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-K6XCHR59PY0LOM97JRMM/image-asset.jpeg?format=1500w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-K6XCHR59PY0LOM97JRMM/image-asset.jpeg?format=2500w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775519484125-SSSOD80N07DP05J2UZIO/image-asset.jpeg?format=100w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775519484125-SSSOD80N07DP05J2UZIO/image-asset.jpeg?format=300w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775519484125-SSSOD80N07DP05J2UZIO/image-asset.jpeg?format=500w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775519484125-SSSOD80N07DP05J2UZIO/image-asset.jpeg?format=750w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775519484125-SSSOD80N07DP05J2UZIO/image-asset.jpeg?format=1000w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775519484125-SSSOD80N07DP05J2UZIO/image-asset.jpeg?format=1500w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775519484125-SSSOD80N07DP05J2UZIO/image-asset.jpeg?format=2500w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-NTKU39A0VSTEG7ZJX0NH/image-asset.jpeg?format=100w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-NTKU39A0VSTEG7ZJX0NH/image-asset.jpeg?format=300w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-NTKU39A0VSTEG7ZJX0NH/image-asset.jpeg?format=500w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-NTKU39A0VSTEG7ZJX0NH/image-asset.jpeg?format=750w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-NTKU39A0VSTEG7ZJX0NH/image-asset.jpeg?format=1000w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-NTKU39A0VSTEG7ZJX0NH/image-asset.jpeg?format=1500w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-NTKU39A0VSTEG7ZJX0NH/image-asset.jpeg?format=2500w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163448464-CH67SXZD9A4NC5G8XBRA/image-asset.jpeg?format=100w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163448464-CH67SXZD9A4NC5G8XBRA/image-asset.jpeg?format=300w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163448464-CH67SXZD9A4NC5G8XBRA/image-asset.jpeg?format=500w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163448464-CH67SXZD9A4NC5G8XBRA/image-asset.jpeg?format=750w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163448464-CH67SXZD9A4NC5G8XBRA/image-asset.jpeg?format=1000w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163448464-CH67SXZD9A4NC5G8XBRA/image-asset.jpeg?format=1500w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163448464-CH67SXZD9A4NC5G8XBRA/image-asset.jpeg?format=2500w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-YPPB7P2Y1SVJ3QN9MMBS/image-asset.jpeg?format=100w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-YPPB7P2Y1SVJ3QN9MMBS/image-asset.jpeg?format=300w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-YPPB7P2Y1SVJ3QN9MMBS/image-asset.jpeg?format=500w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-YPPB7P2Y1SVJ3QN9MMBS/image-asset.jpeg?format=750w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-YPPB7P2Y1SVJ3QN9MMBS/image-asset.jpeg?format=1000w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-YPPB7P2Y1SVJ3QN9MMBS/image-asset.jpeg?format=1500w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-YPPB7P2Y1SVJ3QN9MMBS/image-asset.jpeg?format=2500w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163449192-ZWY1KC4E29M4JUOHHRML/image-asset.jpeg?format=100w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163449192-ZWY1KC4E29M4JUOHHRML/image-asset.jpeg?format=300w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163449192-ZWY1KC4E29M4JUOHHRML/image-asset.jpeg?format=500w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163449192-ZWY1KC4E29M4JUOHHRML/image-asset.jpeg?format=750w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163449192-ZWY1KC4E29M4JUOHHRML/image-asset.jpeg?format=1000w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163449192-ZWY1KC4E29M4JUOHHRML/image-asset.jpeg?format=1500w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163449192-ZWY1KC4E29M4JUOHHRML/image-asset.jpeg?format=2500w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-SEDTQ28NJTZ68N5Q3YZ7/image-asset.jpeg?format=100w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-SEDTQ28NJTZ68N5Q3YZ7/image-asset.jpeg?format=300w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-SEDTQ28NJTZ68N5Q3YZ7/image-asset.jpeg?format=500w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-SEDTQ28NJTZ68N5Q3YZ7/image-asset.jpeg?format=750w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-SEDTQ28NJTZ68N5Q3YZ7/image-asset.jpeg?format=1000w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-SEDTQ28NJTZ68N5Q3YZ7/image-asset.jpeg?format=1500w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-SEDTQ28NJTZ68N5Q3YZ7/image-asset.jpeg?format=2500w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-HIOMXUTVSBW5RHPAU5NM/image-asset.jpeg?format=100w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-HIOMXUTVSBW5RHPAU5NM/image-asset.jpeg?format=300w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-HIOMXUTVSBW5RHPAU5NM/image-asset.jpeg?format=500w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-HIOMXUTVSBW5RHPAU5NM/image-asset.jpeg?format=750w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-HIOMXUTVSBW5RHPAU5NM/image-asset.jpeg?format=1000w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-HIOMXUTVSBW5RHPAU5NM/image-asset.jpeg?format=1500w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-HIOMXUTVSBW5RHPAU5NM/image-asset.jpeg?format=2500w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-DX03RMM34HOSCXTMD5HV/image-asset.jpeg?format=100w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-DX03RMM34HOSCXTMD5HV/image-asset.jpeg?format=300w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-DX03RMM34HOSCXTMD5HV/image-asset.jpeg?format=500w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-DX03RMM34HOSCXTMD5HV/image-asset.jpeg?format=750w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-DX03RMM34HOSCXTMD5HV/image-asset.jpeg?format=1000w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-DX03RMM34HOSCXTMD5HV/image-asset.jpeg?format=1500w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-DX03RMM34HOSCXTMD5HV/image-asset.jpeg?format=2500w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-WPT5IZ0FJ8RT7UFQEL7E/image-asset.jpeg?format=100w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-WPT5IZ0FJ8RT7UFQEL7E/image-asset.jpeg?format=300w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-WPT5IZ0FJ8RT7UFQEL7E/image-asset.jpeg?format=500w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-WPT5IZ0FJ8RT7UFQEL7E/image-asset.jpeg?format=750w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-WPT5IZ0FJ8RT7UFQEL7E/image-asset.jpeg?format=1000w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-WPT5IZ0FJ8RT7UFQEL7E/image-asset.jpeg?format=1500w",
+          "type": "image"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-WPT5IZ0FJ8RT7UFQEL7E/image-asset.jpeg?format=2500w",
+          "type": "image"
+        }
+      ],
+      "blocks": [
+        {
+          "order": 1,
+          "tag": "div",
+          "id": "block-yui_3_17_2_1_1775158435634_3755",
+          "classes": [
+            "sqs-block",
+            "instagram-block",
+            "sqs-block-instagram"
+          ],
+          "data_block_type": "25",
+          "data_definition_name": "",
+          "data_section_id": "",
+          "texts_in_order": [],
+          "images_in_order": [
+            {
+              "sources": [
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-K6XCHR59PY0LOM97JRMM/image-asset.jpeg"
+              ],
+              "alt": "",
+              "title": ""
+            },
+            {
+              "sources": [
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775519484125-SSSOD80N07DP05J2UZIO/image-asset.jpeg"
+              ],
+              "alt": "Fast pace. No hesitation. Just moments you either catch or miss. Frames from this weekend. @nyc_juan18 played with @nytitansfc @cityshowcasetournament all action, no repeats. #nycsoccer #youthsoccer #randallsisland #soccerphotography #newyorkci",
+              "title": ""
+            },
+            {
+              "sources": [
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775519484125-SSSOD80N07DP05J2UZIO/image-asset.jpeg"
+              ],
+              "alt": "Fast pace. No hesitation. Just moments you either catch or miss. Frames from this weekend. @nyc_juan18 played with @nytitansfc @cityshowcasetournament all action, no repeats. #nycsoccer #youthsoccer #randallsisland #soccerphotography #newyorkci",
+              "title": ""
+            },
+            {
+              "sources": [
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-NTKU39A0VSTEG7ZJX0NH/image-asset.jpeg"
+              ],
+              "alt": "",
+              "title": ""
+            },
+            {
+              "sources": [
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163448464-CH67SXZD9A4NC5G8XBRA/image-asset.jpeg"
+              ],
+              "alt": "This is the kind of place that changes how you spend your days. Morning coffee hits different when the water&rsquo;s right there. Windows stay open longer. Nights slow down a little. Some homes you visit&hellip; this one you settle into. 📍Little",
+              "title": ""
+            },
+            {
+              "sources": [
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163448464-CH67SXZD9A4NC5G8XBRA/image-asset.jpeg"
+              ],
+              "alt": "This is the kind of place that changes how you spend your days. Morning coffee hits different when the water&rsquo;s right there. Windows stay open longer. Nights slow down a little. Some homes you visit&hellip; this one you settle into. 📍Little",
+              "title": ""
+            },
+            {
+              "sources": [
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-YPPB7P2Y1SVJ3QN9MMBS/image-asset.jpeg"
+              ],
+              "alt": "",
+              "title": ""
+            },
+            {
+              "sources": [
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163449192-ZWY1KC4E29M4JUOHHRML/image-asset.jpeg"
+              ],
+              "alt": "Most people only see Manhattan Bridge from the street. Few get to see it like this. The river, the towers, and the entire skyline of Lower Manhattan opening up behind it. New York never really stops surprising you&hellip; you just have to change yo",
+              "title": ""
+            },
+            {
+              "sources": [
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163449192-ZWY1KC4E29M4JUOHHRML/image-asset.jpeg"
+              ],
+              "alt": "Most people only see Manhattan Bridge from the street. Few get to see it like this. The river, the towers, and the entire skyline of Lower Manhattan opening up behind it. New York never really stops surprising you&hellip; you just have to change yo",
+              "title": ""
+            },
+            {
+              "sources": [
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-SEDTQ28NJTZ68N5Q3YZ7/image-asset.jpeg"
+              ],
+              "alt": "",
+              "title": ""
+            },
+            {
+              "sources": [
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-HIOMXUTVSBW5RHPAU5NM/image-asset.jpeg"
+              ],
+              "alt": "",
+              "title": ""
+            },
+            {
+              "sources": [
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-DX03RMM34HOSCXTMD5HV/image-asset.jpeg"
+              ],
+              "alt": "",
+              "title": ""
+            },
+            {
+              "sources": [
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-WPT5IZ0FJ8RT7UFQEL7E/image-asset.jpeg"
+              ],
+              "alt": "",
+              "title": ""
+            },
+            {
+              "sources": [
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-K6XCHR59PY0LOM97JRMM/image-asset.jpeg",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-K6XCHR59PY0LOM97JRMM/image-asset.jpeg?format=100w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-K6XCHR59PY0LOM97JRMM/image-asset.jpeg?format=300w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-K6XCHR59PY0LOM97JRMM/image-asset.jpeg?format=500w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-K6XCHR59PY0LOM97JRMM/image-asset.jpeg?format=750w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-K6XCHR59PY0LOM97JRMM/image-asset.jpeg?format=1000w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-K6XCHR59PY0LOM97JRMM/image-asset.jpeg?format=1500w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-K6XCHR59PY0LOM97JRMM/image-asset.jpeg?format=2500w"
+              ],
+              "alt": "Holiday season in the city, done right. A look back at a Christmas event at 1411 Broadway with @hines , bringing the space to life with energy, detail, and everything that makes NYC feel like NYC this time of year. Moments like this are what it&rsq",
+              "title": ""
+            },
+            {
+              "sources": [
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775519484125-SSSOD80N07DP05J2UZIO/image-asset.jpeg",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775519484125-SSSOD80N07DP05J2UZIO/image-asset.jpeg?format=100w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775519484125-SSSOD80N07DP05J2UZIO/image-asset.jpeg?format=300w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775519484125-SSSOD80N07DP05J2UZIO/image-asset.jpeg?format=500w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775519484125-SSSOD80N07DP05J2UZIO/image-asset.jpeg?format=750w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775519484125-SSSOD80N07DP05J2UZIO/image-asset.jpeg?format=1000w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775519484125-SSSOD80N07DP05J2UZIO/image-asset.jpeg?format=1500w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775519484125-SSSOD80N07DP05J2UZIO/image-asset.jpeg?format=2500w"
+              ],
+              "alt": "Fast pace. No hesitation. Just moments you either catch or miss. Frames from this weekend. @nyc_juan18 played with @nytitansfc @cityshowcasetournament all action, no repeats. #nycsoccer #youthsoccer #randallsisland #soccerphotography #newyorkci",
+              "title": ""
+            },
+            {
+              "sources": [
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-NTKU39A0VSTEG7ZJX0NH/image-asset.jpeg",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-NTKU39A0VSTEG7ZJX0NH/image-asset.jpeg?format=100w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-NTKU39A0VSTEG7ZJX0NH/image-asset.jpeg?format=300w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-NTKU39A0VSTEG7ZJX0NH/image-asset.jpeg?format=500w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-NTKU39A0VSTEG7ZJX0NH/image-asset.jpeg?format=750w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-NTKU39A0VSTEG7ZJX0NH/image-asset.jpeg?format=1000w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-NTKU39A0VSTEG7ZJX0NH/image-asset.jpeg?format=1500w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-NTKU39A0VSTEG7ZJX0NH/image-asset.jpeg?format=2500w"
+              ],
+              "alt": "Some places feel like a getaway&hellip; this one just feels like home. Water nearby, light filling every room, and a pace that makes you slow down without trying. A quiet coastal-style property built for how people actually want to live. 📍Tuckert",
+              "title": ""
+            },
+            {
+              "sources": [
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163448464-CH67SXZD9A4NC5G8XBRA/image-asset.jpeg",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163448464-CH67SXZD9A4NC5G8XBRA/image-asset.jpeg?format=100w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163448464-CH67SXZD9A4NC5G8XBRA/image-asset.jpeg?format=300w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163448464-CH67SXZD9A4NC5G8XBRA/image-asset.jpeg?format=500w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163448464-CH67SXZD9A4NC5G8XBRA/image-asset.jpeg?format=750w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163448464-CH67SXZD9A4NC5G8XBRA/image-asset.jpeg?format=1000w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163448464-CH67SXZD9A4NC5G8XBRA/image-asset.jpeg?format=1500w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163448464-CH67SXZD9A4NC5G8XBRA/image-asset.jpeg?format=2500w"
+              ],
+              "alt": "This is the kind of place that changes how you spend your days. Morning coffee hits different when the water&rsquo;s right there. Windows stay open longer. Nights slow down a little. Some homes you visit&hellip; this one you settle into. 📍Little",
+              "title": ""
+            },
+            {
+              "sources": [
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-YPPB7P2Y1SVJ3QN9MMBS/image-asset.jpeg",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-YPPB7P2Y1SVJ3QN9MMBS/image-asset.jpeg?format=100w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-YPPB7P2Y1SVJ3QN9MMBS/image-asset.jpeg?format=300w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-YPPB7P2Y1SVJ3QN9MMBS/image-asset.jpeg?format=500w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-YPPB7P2Y1SVJ3QN9MMBS/image-asset.jpeg?format=750w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-YPPB7P2Y1SVJ3QN9MMBS/image-asset.jpeg?format=1000w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-YPPB7P2Y1SVJ3QN9MMBS/image-asset.jpeg?format=1500w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-YPPB7P2Y1SVJ3QN9MMBS/image-asset.jpeg?format=2500w"
+              ],
+              "alt": "Some homes don&rsquo;t need a tour&hellip; they just need a moment. The light hits right, the spaces open up, and suddenly you can picture yourself there. A small glimpse from a beautiful home. #realestatevideo #listingvideo #realestatevideograph",
+              "title": ""
+            },
+            {
+              "sources": [
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163449192-ZWY1KC4E29M4JUOHHRML/image-asset.jpeg",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163449192-ZWY1KC4E29M4JUOHHRML/image-asset.jpeg?format=100w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163449192-ZWY1KC4E29M4JUOHHRML/image-asset.jpeg?format=300w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163449192-ZWY1KC4E29M4JUOHHRML/image-asset.jpeg?format=500w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163449192-ZWY1KC4E29M4JUOHHRML/image-asset.jpeg?format=750w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163449192-ZWY1KC4E29M4JUOHHRML/image-asset.jpeg?format=1000w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163449192-ZWY1KC4E29M4JUOHHRML/image-asset.jpeg?format=1500w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163449192-ZWY1KC4E29M4JUOHHRML/image-asset.jpeg?format=2500w"
+              ],
+              "alt": "Most people only see Manhattan Bridge from the street. Few get to see it like this. The river, the towers, and the entire skyline of Lower Manhattan opening up behind it. New York never really stops surprising you&hellip; you just have to change yo",
+              "title": ""
+            },
+            {
+              "sources": [
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-SEDTQ28NJTZ68N5Q3YZ7/image-asset.jpeg",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-SEDTQ28NJTZ68N5Q3YZ7/image-asset.jpeg?format=100w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-SEDTQ28NJTZ68N5Q3YZ7/image-asset.jpeg?format=300w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-SEDTQ28NJTZ68N5Q3YZ7/image-asset.jpeg?format=500w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-SEDTQ28NJTZ68N5Q3YZ7/image-asset.jpeg?format=750w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-SEDTQ28NJTZ68N5Q3YZ7/image-asset.jpeg?format=1000w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-SEDTQ28NJTZ68N5Q3YZ7/image-asset.jpeg?format=1500w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-SEDTQ28NJTZ68N5Q3YZ7/image-asset.jpeg?format=2500w"
+              ],
+              "alt": "When the sky shows off, the shot almost makes itself. A clean aerial pullback over Staten Island Mall on one of those perfect New York days. Bright sun, deep blue sky, and the whole scene opening up as the frame pulls wide over Staten Island. #dro",
+              "title": ""
+            },
+            {
+              "sources": [
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-HIOMXUTVSBW5RHPAU5NM/image-asset.jpeg",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-HIOMXUTVSBW5RHPAU5NM/image-asset.jpeg?format=100w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-HIOMXUTVSBW5RHPAU5NM/image-asset.jpeg?format=300w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-HIOMXUTVSBW5RHPAU5NM/image-asset.jpeg?format=500w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-HIOMXUTVSBW5RHPAU5NM/image-asset.jpeg?format=750w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-HIOMXUTVSBW5RHPAU5NM/image-asset.jpeg?format=1000w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-HIOMXUTVSBW5RHPAU5NM/image-asset.jpeg?format=1500w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-HIOMXUTVSBW5RHPAU5NM/image-asset.jpeg?format=2500w"
+              ],
+              "alt": "Sunny afternoon over a rooftop movie setup in Greenpoint. A smooth aerial orbit reveals the scene as the camera pans down into the rooftop theater &mdash; one of those moments where the light, the city, and the timing all line up perfectly. #dronev",
+              "title": ""
+            },
+            {
+              "sources": [
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-DX03RMM34HOSCXTMD5HV/image-asset.jpeg",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-DX03RMM34HOSCXTMD5HV/image-asset.jpeg?format=100w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-DX03RMM34HOSCXTMD5HV/image-asset.jpeg?format=300w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-DX03RMM34HOSCXTMD5HV/image-asset.jpeg?format=500w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-DX03RMM34HOSCXTMD5HV/image-asset.jpeg?format=750w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-DX03RMM34HOSCXTMD5HV/image-asset.jpeg?format=1000w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-DX03RMM34HOSCXTMD5HV/image-asset.jpeg?format=1500w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-DX03RMM34HOSCXTMD5HV/image-asset.jpeg?format=2500w"
+              ],
+              "alt": "A short social commercial created for GoStream. Built around the idea of bringing people together through film, shows, and shared moments because the best stories are the ones we watch together. Let&rsquo;s go stream together. #commercialvideo #br",
+              "title": ""
+            },
+            {
+              "sources": [
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-WPT5IZ0FJ8RT7UFQEL7E/image-asset.jpeg",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-WPT5IZ0FJ8RT7UFQEL7E/image-asset.jpeg?format=100w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-WPT5IZ0FJ8RT7UFQEL7E/image-asset.jpeg?format=300w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-WPT5IZ0FJ8RT7UFQEL7E/image-asset.jpeg?format=500w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-WPT5IZ0FJ8RT7UFQEL7E/image-asset.jpeg?format=750w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-WPT5IZ0FJ8RT7UFQEL7E/image-asset.jpeg?format=1000w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-WPT5IZ0FJ8RT7UFQEL7E/image-asset.jpeg?format=1500w",
+                "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-WPT5IZ0FJ8RT7UFQEL7E/image-asset.jpeg?format=2500w"
+              ],
+              "alt": "Blue hour over Husky Stadium as the stadium lights come alive in Seattle. A quiet aerial look at one of college football&rsquo;s most iconic venues as evening settles over the city. #dronevideography #huskystadium #seattlewa #collegefootball #blueh",
+              "title": ""
+            }
+          ],
+          "youtube_ids": [],
+          "vimeo_ids": [],
+          "media_urls": [
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-K6XCHR59PY0LOM97JRMM/image-asset.jpeg",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775519484125-SSSOD80N07DP05J2UZIO/image-asset.jpeg",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-NTKU39A0VSTEG7ZJX0NH/image-asset.jpeg",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163448464-CH67SXZD9A4NC5G8XBRA/image-asset.jpeg",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-YPPB7P2Y1SVJ3QN9MMBS/image-asset.jpeg",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163449192-ZWY1KC4E29M4JUOHHRML/image-asset.jpeg",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-SEDTQ28NJTZ68N5Q3YZ7/image-asset.jpeg",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-HIOMXUTVSBW5RHPAU5NM/image-asset.jpeg",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-DX03RMM34HOSCXTMD5HV/image-asset.jpeg",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-WPT5IZ0FJ8RT7UFQEL7E/image-asset.jpeg",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-K6XCHR59PY0LOM97JRMM/image-asset.jpeg?format=100w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-K6XCHR59PY0LOM97JRMM/image-asset.jpeg?format=300w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-K6XCHR59PY0LOM97JRMM/image-asset.jpeg?format=500w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-K6XCHR59PY0LOM97JRMM/image-asset.jpeg?format=750w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-K6XCHR59PY0LOM97JRMM/image-asset.jpeg?format=1000w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-K6XCHR59PY0LOM97JRMM/image-asset.jpeg?format=1500w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-K6XCHR59PY0LOM97JRMM/image-asset.jpeg?format=2500w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775519484125-SSSOD80N07DP05J2UZIO/image-asset.jpeg?format=100w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775519484125-SSSOD80N07DP05J2UZIO/image-asset.jpeg?format=300w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775519484125-SSSOD80N07DP05J2UZIO/image-asset.jpeg?format=500w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775519484125-SSSOD80N07DP05J2UZIO/image-asset.jpeg?format=750w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775519484125-SSSOD80N07DP05J2UZIO/image-asset.jpeg?format=1000w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775519484125-SSSOD80N07DP05J2UZIO/image-asset.jpeg?format=1500w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775519484125-SSSOD80N07DP05J2UZIO/image-asset.jpeg?format=2500w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-NTKU39A0VSTEG7ZJX0NH/image-asset.jpeg?format=100w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-NTKU39A0VSTEG7ZJX0NH/image-asset.jpeg?format=300w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-NTKU39A0VSTEG7ZJX0NH/image-asset.jpeg?format=500w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-NTKU39A0VSTEG7ZJX0NH/image-asset.jpeg?format=750w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-NTKU39A0VSTEG7ZJX0NH/image-asset.jpeg?format=1000w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-NTKU39A0VSTEG7ZJX0NH/image-asset.jpeg?format=1500w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-NTKU39A0VSTEG7ZJX0NH/image-asset.jpeg?format=2500w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163448464-CH67SXZD9A4NC5G8XBRA/image-asset.jpeg?format=100w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163448464-CH67SXZD9A4NC5G8XBRA/image-asset.jpeg?format=300w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163448464-CH67SXZD9A4NC5G8XBRA/image-asset.jpeg?format=500w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163448464-CH67SXZD9A4NC5G8XBRA/image-asset.jpeg?format=750w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163448464-CH67SXZD9A4NC5G8XBRA/image-asset.jpeg?format=1000w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163448464-CH67SXZD9A4NC5G8XBRA/image-asset.jpeg?format=1500w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163448464-CH67SXZD9A4NC5G8XBRA/image-asset.jpeg?format=2500w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-YPPB7P2Y1SVJ3QN9MMBS/image-asset.jpeg?format=100w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-YPPB7P2Y1SVJ3QN9MMBS/image-asset.jpeg?format=300w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-YPPB7P2Y1SVJ3QN9MMBS/image-asset.jpeg?format=500w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-YPPB7P2Y1SVJ3QN9MMBS/image-asset.jpeg?format=750w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-YPPB7P2Y1SVJ3QN9MMBS/image-asset.jpeg?format=1000w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-YPPB7P2Y1SVJ3QN9MMBS/image-asset.jpeg?format=1500w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-YPPB7P2Y1SVJ3QN9MMBS/image-asset.jpeg?format=2500w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163449192-ZWY1KC4E29M4JUOHHRML/image-asset.jpeg?format=100w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163449192-ZWY1KC4E29M4JUOHHRML/image-asset.jpeg?format=300w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163449192-ZWY1KC4E29M4JUOHHRML/image-asset.jpeg?format=500w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163449192-ZWY1KC4E29M4JUOHHRML/image-asset.jpeg?format=750w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163449192-ZWY1KC4E29M4JUOHHRML/image-asset.jpeg?format=1000w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163449192-ZWY1KC4E29M4JUOHHRML/image-asset.jpeg?format=1500w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163449192-ZWY1KC4E29M4JUOHHRML/image-asset.jpeg?format=2500w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-SEDTQ28NJTZ68N5Q3YZ7/image-asset.jpeg?format=100w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-SEDTQ28NJTZ68N5Q3YZ7/image-asset.jpeg?format=300w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-SEDTQ28NJTZ68N5Q3YZ7/image-asset.jpeg?format=500w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-SEDTQ28NJTZ68N5Q3YZ7/image-asset.jpeg?format=750w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-SEDTQ28NJTZ68N5Q3YZ7/image-asset.jpeg?format=1000w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-SEDTQ28NJTZ68N5Q3YZ7/image-asset.jpeg?format=1500w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-SEDTQ28NJTZ68N5Q3YZ7/image-asset.jpeg?format=2500w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-HIOMXUTVSBW5RHPAU5NM/image-asset.jpeg?format=100w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-HIOMXUTVSBW5RHPAU5NM/image-asset.jpeg?format=300w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-HIOMXUTVSBW5RHPAU5NM/image-asset.jpeg?format=500w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-HIOMXUTVSBW5RHPAU5NM/image-asset.jpeg?format=750w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-HIOMXUTVSBW5RHPAU5NM/image-asset.jpeg?format=1000w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-HIOMXUTVSBW5RHPAU5NM/image-asset.jpeg?format=1500w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-HIOMXUTVSBW5RHPAU5NM/image-asset.jpeg?format=2500w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-DX03RMM34HOSCXTMD5HV/image-asset.jpeg?format=100w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-DX03RMM34HOSCXTMD5HV/image-asset.jpeg?format=300w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-DX03RMM34HOSCXTMD5HV/image-asset.jpeg?format=500w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-DX03RMM34HOSCXTMD5HV/image-asset.jpeg?format=750w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-DX03RMM34HOSCXTMD5HV/image-asset.jpeg?format=1000w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-DX03RMM34HOSCXTMD5HV/image-asset.jpeg?format=1500w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-DX03RMM34HOSCXTMD5HV/image-asset.jpeg?format=2500w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-WPT5IZ0FJ8RT7UFQEL7E/image-asset.jpeg?format=100w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-WPT5IZ0FJ8RT7UFQEL7E/image-asset.jpeg?format=300w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-WPT5IZ0FJ8RT7UFQEL7E/image-asset.jpeg?format=500w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-WPT5IZ0FJ8RT7UFQEL7E/image-asset.jpeg?format=750w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-WPT5IZ0FJ8RT7UFQEL7E/image-asset.jpeg?format=1000w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-WPT5IZ0FJ8RT7UFQEL7E/image-asset.jpeg?format=1500w",
+              "type": "image"
+            },
+            {
+              "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-WPT5IZ0FJ8RT7UFQEL7E/image-asset.jpeg?format=2500w",
+              "type": "image"
+            }
+          ],
+          "all_urls": [
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-K6XCHR59PY0LOM97JRMM/image-asset.jpeg",
+            "https://www.instagram.com/p/DWzxlc0EUiM/",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775519484125-SSSOD80N07DP05J2UZIO/image-asset.jpeg",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-NTKU39A0VSTEG7ZJX0NH/image-asset.jpeg",
+            "https://www.instagram.com/p/DWFPtOOEf8G/",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163448464-CH67SXZD9A4NC5G8XBRA/image-asset.jpeg",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-YPPB7P2Y1SVJ3QN9MMBS/image-asset.jpeg",
+            "https://www.instagram.com/p/DV6YdFZkQJ_/",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163449192-ZWY1KC4E29M4JUOHHRML/image-asset.jpeg",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-SEDTQ28NJTZ68N5Q3YZ7/image-asset.jpeg",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-HIOMXUTVSBW5RHPAU5NM/image-asset.jpeg",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-DX03RMM34HOSCXTMD5HV/image-asset.jpeg",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-WPT5IZ0FJ8RT7UFQEL7E/image-asset.jpeg",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-K6XCHR59PY0LOM97JRMM/image-asset.jpeg?format=100w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-K6XCHR59PY0LOM97JRMM/image-asset.jpeg?format=300w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-K6XCHR59PY0LOM97JRMM/image-asset.jpeg?format=500w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-K6XCHR59PY0LOM97JRMM/image-asset.jpeg?format=750w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-K6XCHR59PY0LOM97JRMM/image-asset.jpeg?format=1000w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-K6XCHR59PY0LOM97JRMM/image-asset.jpeg?format=1500w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-K6XCHR59PY0LOM97JRMM/image-asset.jpeg?format=2500w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775519484125-SSSOD80N07DP05J2UZIO/image-asset.jpeg?format=100w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775519484125-SSSOD80N07DP05J2UZIO/image-asset.jpeg?format=300w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775519484125-SSSOD80N07DP05J2UZIO/image-asset.jpeg?format=500w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775519484125-SSSOD80N07DP05J2UZIO/image-asset.jpeg?format=750w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775519484125-SSSOD80N07DP05J2UZIO/image-asset.jpeg?format=1000w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775519484125-SSSOD80N07DP05J2UZIO/image-asset.jpeg?format=1500w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775519484125-SSSOD80N07DP05J2UZIO/image-asset.jpeg?format=2500w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-NTKU39A0VSTEG7ZJX0NH/image-asset.jpeg?format=100w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-NTKU39A0VSTEG7ZJX0NH/image-asset.jpeg?format=300w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-NTKU39A0VSTEG7ZJX0NH/image-asset.jpeg?format=500w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-NTKU39A0VSTEG7ZJX0NH/image-asset.jpeg?format=750w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-NTKU39A0VSTEG7ZJX0NH/image-asset.jpeg?format=1000w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-NTKU39A0VSTEG7ZJX0NH/image-asset.jpeg?format=1500w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-NTKU39A0VSTEG7ZJX0NH/image-asset.jpeg?format=2500w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163448464-CH67SXZD9A4NC5G8XBRA/image-asset.jpeg?format=100w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163448464-CH67SXZD9A4NC5G8XBRA/image-asset.jpeg?format=300w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163448464-CH67SXZD9A4NC5G8XBRA/image-asset.jpeg?format=500w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163448464-CH67SXZD9A4NC5G8XBRA/image-asset.jpeg?format=750w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163448464-CH67SXZD9A4NC5G8XBRA/image-asset.jpeg?format=1000w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163448464-CH67SXZD9A4NC5G8XBRA/image-asset.jpeg?format=1500w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163448464-CH67SXZD9A4NC5G8XBRA/image-asset.jpeg?format=2500w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-YPPB7P2Y1SVJ3QN9MMBS/image-asset.jpeg?format=100w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-YPPB7P2Y1SVJ3QN9MMBS/image-asset.jpeg?format=300w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-YPPB7P2Y1SVJ3QN9MMBS/image-asset.jpeg?format=500w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-YPPB7P2Y1SVJ3QN9MMBS/image-asset.jpeg?format=750w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-YPPB7P2Y1SVJ3QN9MMBS/image-asset.jpeg?format=1000w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-YPPB7P2Y1SVJ3QN9MMBS/image-asset.jpeg?format=1500w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-YPPB7P2Y1SVJ3QN9MMBS/image-asset.jpeg?format=2500w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163449192-ZWY1KC4E29M4JUOHHRML/image-asset.jpeg?format=100w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163449192-ZWY1KC4E29M4JUOHHRML/image-asset.jpeg?format=300w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163449192-ZWY1KC4E29M4JUOHHRML/image-asset.jpeg?format=500w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163449192-ZWY1KC4E29M4JUOHHRML/image-asset.jpeg?format=750w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163449192-ZWY1KC4E29M4JUOHHRML/image-asset.jpeg?format=1000w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163449192-ZWY1KC4E29M4JUOHHRML/image-asset.jpeg?format=1500w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775163449192-ZWY1KC4E29M4JUOHHRML/image-asset.jpeg?format=2500w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-SEDTQ28NJTZ68N5Q3YZ7/image-asset.jpeg?format=100w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-SEDTQ28NJTZ68N5Q3YZ7/image-asset.jpeg?format=300w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-SEDTQ28NJTZ68N5Q3YZ7/image-asset.jpeg?format=500w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-SEDTQ28NJTZ68N5Q3YZ7/image-asset.jpeg?format=750w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-SEDTQ28NJTZ68N5Q3YZ7/image-asset.jpeg?format=1000w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-SEDTQ28NJTZ68N5Q3YZ7/image-asset.jpeg?format=1500w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-SEDTQ28NJTZ68N5Q3YZ7/image-asset.jpeg?format=2500w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-HIOMXUTVSBW5RHPAU5NM/image-asset.jpeg?format=100w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-HIOMXUTVSBW5RHPAU5NM/image-asset.jpeg?format=300w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-HIOMXUTVSBW5RHPAU5NM/image-asset.jpeg?format=500w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-HIOMXUTVSBW5RHPAU5NM/image-asset.jpeg?format=750w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-HIOMXUTVSBW5RHPAU5NM/image-asset.jpeg?format=1000w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-HIOMXUTVSBW5RHPAU5NM/image-asset.jpeg?format=1500w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-HIOMXUTVSBW5RHPAU5NM/image-asset.jpeg?format=2500w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-DX03RMM34HOSCXTMD5HV/image-asset.jpeg?format=100w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-DX03RMM34HOSCXTMD5HV/image-asset.jpeg?format=300w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-DX03RMM34HOSCXTMD5HV/image-asset.jpeg?format=500w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-DX03RMM34HOSCXTMD5HV/image-asset.jpeg?format=750w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-DX03RMM34HOSCXTMD5HV/image-asset.jpeg?format=1000w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-DX03RMM34HOSCXTMD5HV/image-asset.jpeg?format=1500w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-DX03RMM34HOSCXTMD5HV/image-asset.jpeg?format=2500w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-WPT5IZ0FJ8RT7UFQEL7E/image-asset.jpeg?format=100w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-WPT5IZ0FJ8RT7UFQEL7E/image-asset.jpeg?format=300w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-WPT5IZ0FJ8RT7UFQEL7E/image-asset.jpeg?format=500w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-WPT5IZ0FJ8RT7UFQEL7E/image-asset.jpeg?format=750w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-WPT5IZ0FJ8RT7UFQEL7E/image-asset.jpeg?format=1000w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-WPT5IZ0FJ8RT7UFQEL7E/image-asset.jpeg?format=1500w",
+            "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/1775874848642-WPT5IZ0FJ8RT7UFQEL7E/image-asset.jpeg?format=2500w",
+            "https://www.in",
+            "https://image"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 8,
+      "id": "",
+      "classes": [
+        "page-section",
+        "full-bleed-section",
+        "layout-engine-section",
+        "background-width--full-bleed",
+        "section-height--medium",
+        "content-width--wide",
+        "horizontal-alignment--center",
+        "vertical-alignment--middle"
+      ],
+      "data_section_id": "6a67d356bc28ff249989ca7a",
+      "background_media": [],
+      "blocks": [
+        {
+          "order": 1,
+          "tag": "div",
+          "id": "block-yui_3_17_2_1_1785188921773_13437",
+          "classes": [
+            "sqs-block",
+            "website-component-block",
+            "sqs-block-website-component",
+            "sqs-block-code",
+            "code-block"
+          ],
+          "data_block_type": "1337",
+          "data_definition_name": "website.components.code",
+          "data_section_id": "",
+          "texts_in_order": [],
+          "images_in_order": [],
+          "youtube_ids": [],
+          "vimeo_ids": [],
+          "media_urls": [],
+          "all_urls": [
+            "https://elfsightcdn.com/platform.js",
+            "https://definition",
+            "https://elf"
+          ]
+        }
+      ]
+    }
+  ],
+  "footer": {
+    "order": 1,
+    "tag": "footer",
+    "id": "footer-sections",
+    "classes": [
+      "sections"
+    ],
+    "data_block_type": "",
+    "data_definition_name": "",
+    "data_section_id": "",
+    "texts_in_order": [
+      {
+        "tag": "p",
+        "text": "Forest Hills, NY"
+      },
+      {
+        "tag": "p",
+        "text": "(929)350-0095"
+      }
+    ],
+    "images_in_order": [
+      {
+        "sources": [
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=100w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=300w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=500w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=750w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=1000w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=1500w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=2500w"
+        ],
+        "alt": "",
+        "title": ""
+      },
+      {
+        "sources": [
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=100w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=300w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=500w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=750w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=1000w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=1500w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=2500w"
+        ],
+        "alt": "Certified minority business enterprise",
+        "title": ""
+      },
+      {
+        "sources": [
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=100w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=300w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=500w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=750w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=1000w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=1500w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=2500w"
+        ],
+        "alt": "Verified federal vendor",
+        "title": ""
+      },
+      {
+        "sources": [
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=100w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=300w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=500w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=750w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=1000w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=1500w",
+          "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=2500w"
+        ],
+        "alt": "DJI authorized dealer. DJI Enterprise",
+        "title": ""
+      }
+    ],
+    "youtube_ids": [],
+    "vimeo_ids": [],
+    "media_urls": [
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=100w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=300w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=500w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=750w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=1000w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=1500w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=2500w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=100w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=300w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=500w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=750w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=1000w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=1500w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=2500w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=100w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=300w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=500w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=750w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=1000w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=1500w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=2500w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=100w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=300w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=500w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=750w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=1000w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=1500w",
+        "type": "image"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=2500w",
+        "type": "image"
+      }
+    ],
+    "all_urls": [
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=100w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=300w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=500w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=750w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=1000w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=1500w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=2500w",
+      "https://www.instagram.com/carpiomedianyc/",
+      "https://www.facebook.com/carpiomedia",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=100w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=300w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=500w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=750w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=1000w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=1500w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=2500w",
+      "https://fedlinks.com/profile/Carpio-Media-LLC-Forest-Hills-NY",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=100w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=300w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=500w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=750w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=1000w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=1500w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=2500w",
+      "https://www.carpiomedia.com/contact",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=100w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=300w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=500w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=750w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=1000w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=1500w",
+      "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=2500w",
+      "https://definition",
+      "https://image",
+      "https://www.in",
+      "https://fedlink"
+    ]
+  }
+}
