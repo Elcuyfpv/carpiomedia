@@ -6,6 +6,7 @@ on:
     paths:
       - '.github/workflows/snapshot-squarespace.yml'
       - 'tools/snapshot_site.py'
+      - 'tools/build_exact_manifest.py'
 
 permissions:
   contents: write
@@ -28,6 +29,9 @@ jobs:
 
       - name: Capture exact public site source
         run: python tools/snapshot_site.py
+
+      - name: Build exact page and media manifests
+        run: python tools/build_exact_manifest.py
 
       - name: Commit source inventory
         run: |
