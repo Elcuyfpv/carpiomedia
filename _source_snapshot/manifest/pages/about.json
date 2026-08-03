@@ -1,0 +1,892 @@
+{
+  "url": "https://www.carpiomedia.com/about",
+  "title": "About Juan Carpio | FAA-Certified NYC Drone Pilot — Carpio Media",
+  "meta": {
+    "meta_0": "IE=edge,chrome=1",
+    "viewport": "width=device-width, initial-scale=1",
+    "meta_3": "Sec-CH-UA-Platform-Version, Sec-CH-UA-Model",
+    "og:site_name": "Carpio Media",
+    "og:title": "About Juan Carpio | FAA-Certified NYC Drone Pilot — Carpio Media",
+    "og:url": "https://www.carpiomedia.com/about",
+    "og:type": "website",
+    "og:description": "Meet Juan Carpio, Carpio Media founder, FAA Part 107 drone pilot and former airline captain with 9,000+ flight hours, serving NYC and the Tri-State Area.",
+    "og:image": "http://static1.squarespace.com/static/634f4ecdfb9bb005906ea9c6/t/65846507a253c661b2497c5d/1703175431607/CM+logo+2.jpg?format=1500w",
+    "og:image:width": "1500",
+    "og:image:height": "751",
+    "meta_12": "About Juan Carpio | FAA-Certified NYC Drone Pilot — Carpio Media",
+    "meta_13": "https://www.carpiomedia.com/about",
+    "meta_14": "Meet Juan Carpio, Carpio Media founder, FAA Part 107 drone pilot and former airline captain with 9,000+ flight hours, serving NYC and the Tri-State Area.",
+    "meta_15": "http://static1.squarespace.com/static/634f4ecdfb9bb005906ea9c6/t/65846507a253c661b2497c5d/1703175431607/CM+logo+2.jpg?format=1500w",
+    "meta_16": "http://static1.squarespace.com/static/634f4ecdfb9bb005906ea9c6/t/65846507a253c661b2497c5d/1703175431607/CM+logo+2.jpg?format=1500w",
+    "twitter:title": "About Juan Carpio | FAA-Certified NYC Drone Pilot — Carpio Media",
+    "twitter:image": "http://static1.squarespace.com/static/634f4ecdfb9bb005906ea9c6/t/65846507a253c661b2497c5d/1703175431607/CM+logo+2.jpg?format=1500w",
+    "twitter:url": "https://www.carpiomedia.com/about",
+    "twitter:card": "summary",
+    "twitter:description": "Meet Juan Carpio, Carpio Media founder, FAA Part 107 drone pilot and former airline captain with 9,000+ flight hours, serving NYC and the Tri-State Area.",
+    "description": "Meet Juan Carpio, Carpio Media founder, FAA Part 107 drone pilot and former airline captain with 9,000+ flight hours, serving NYC and the Tri-State Area."
+  },
+  "visible_blocks_in_order": [
+    {
+      "tag": "h1",
+      "text": "About Carpio Media"
+    },
+    {
+      "tag": "h4",
+      "text": "Juan Carpio, Founder"
+    },
+    {
+      "tag": "p",
+      "text": "Great work feels easy when the people behind it are prepared. Carpio Media brings a calm, hands on approach to every project so clients can feel confident from the first conversation through final delivery."
+    },
+    {
+      "tag": "p",
+      "text": "Founder Juan Carpio brings more than two decades of aviation experience to the work. As a former airline captain and instructor with more than 9,000 flight hours, he built Carpio Media on preparation, communication, precision, and sound judgment. He became an FAA Part 107 certified drone pilot in 2018 and expanded into FPV, photography, video, and real estate media."
+    },
+    {
+      "tag": "p",
+      "text": "That background makes a difference on every production. Whether we are filming a property, creating content for a brand, documenting a construction site, or supporting a broadcast crew, Juan is directly involved in location review, flight planning, piloting, photography, and creative direction."
+    },
+    {
+      "tag": "p",
+      "text": "Carpio Media has supported work for organizations including ABC and ESPN while staying rooted in the clients and neighborhoods that make New York special. We serve Queens, New York City, Long Island, Westchester, New Jersey, and Connecticut with the same focus, care, and professional standards."
+    },
+    {
+      "tag": "p",
+      "text": "The goal is simple. Create visuals that make people stop, look closer, and want to know more about your story, property, or brand."
+    },
+    {
+      "tag": "p",
+      "text": "Carpio Media is proudly based in Forest Hills. The company was inspired by the Forest Hills Youth Athletics sponsor wall, a reminder that strong local businesses give energy back to the community that supports them."
+    },
+    {
+      "tag": "p",
+      "text": "Forest Hills, NY"
+    },
+    {
+      "tag": "p",
+      "text": "(929)350-0095"
+    }
+  ],
+  "links_in_dom_order": [
+    {
+      "dom_index": 1,
+      "text": "0",
+      "href": "https://www.carpiomedia.com/cart",
+      "aria_label": "",
+      "classes": [
+        "icon",
+        "icon--stroke",
+        "icon--fill",
+        "icon--cart",
+        "sqs-custom-cart"
+      ],
+      "ancestry": [
+        "a.icon.icon--stroke.icon--fill.icon--cart",
+        "div#floatingCart.floating-cart.hidden",
+        "div#siteWrapper.clearfix.site-wrapper",
+        "body#collection-635814813ada477189b52848.tweak-blog-alternating-side-by-side-width-full.tweak-blog-alternating-side-by-side-image-aspect-ratio-11-square.tweak-blog-alternating-side-by-side-text-alignment-left.tweak-blog-alternating-side-by-side-read-more-style-show",
+        "html",
+        "[document]"
+      ]
+    },
+    {
+      "dom_index": 2,
+      "text": "Skip to Content",
+      "href": "https://www.carpiomedia.com/about",
+      "aria_label": "",
+      "classes": [
+        "header-skip-link",
+        "sqs-button-element--primary"
+      ],
+      "ancestry": [
+        "a.header-skip-link.sqs-button-element--primary",
+        "div.header-announcement-bar-wrapper",
+        "header#header.header.theme-col--primary",
+        "div#siteWrapper.clearfix.site-wrapper",
+        "body#collection-635814813ada477189b52848.tweak-blog-alternating-side-by-side-width-full.tweak-blog-alternating-side-by-side-image-aspect-ratio-11-square.tweak-blog-alternating-side-by-side-text-alignment-left.tweak-blog-alternating-side-by-side-read-more-style-show",
+        "html"
+      ]
+    },
+    {
+      "dom_index": 3,
+      "text": "",
+      "href": "https://www.carpiomedia.com/",
+      "aria_label": "",
+      "classes": [],
+      "ancestry": [
+        "a",
+        "div.header-title-logo",
+        "div.header-title.header-title--use-mobile-logo",
+        "div.header-title-nav-wrapper",
+        "div.header-display-desktop",
+        "div.header-inner.container--fluid.header-mobile-layout-logo-left-nav-right.header-layout-nav-right"
+      ]
+    },
+    {
+      "dom_index": 4,
+      "text": "",
+      "href": "https://www.carpiomedia.com/",
+      "aria_label": "",
+      "classes": [],
+      "ancestry": [
+        "a",
+        "div.header-mobile-logo",
+        "div.header-title.header-title--use-mobile-logo",
+        "div.header-title-nav-wrapper",
+        "div.header-display-desktop",
+        "div.header-inner.container--fluid.header-mobile-layout-logo-left-nav-right.header-layout-nav-right"
+      ]
+    },
+    {
+      "dom_index": 5,
+      "text": "Home",
+      "href": "https://www.carpiomedia.com/",
+      "aria_label": "",
+      "classes": [],
+      "ancestry": [
+        "a",
+        "div.header-nav-item.header-nav-item--collection.header-nav-item--homepage",
+        "nav.header-nav-list",
+        "div.header-nav-wrapper",
+        "div.header-nav",
+        "div.header-title-nav-wrapper"
+      ]
+    },
+    {
+      "dom_index": 6,
+      "text": "Our Services",
+      "href": "https://www.carpiomedia.com/services-nyc-media",
+      "aria_label": "",
+      "classes": [],
+      "ancestry": [
+        "a",
+        "div.header-nav-item.header-nav-item--collection",
+        "nav.header-nav-list",
+        "div.header-nav-wrapper",
+        "div.header-nav",
+        "div.header-title-nav-wrapper"
+      ]
+    },
+    {
+      "dom_index": 7,
+      "text": "About",
+      "href": "https://www.carpiomedia.com/about",
+      "aria_label": "",
+      "classes": [],
+      "ancestry": [
+        "a",
+        "div.header-nav-item.header-nav-item--collection.header-nav-item--active",
+        "nav.header-nav-list",
+        "div.header-nav-wrapper",
+        "div.header-nav",
+        "div.header-title-nav-wrapper"
+      ]
+    },
+    {
+      "dom_index": 8,
+      "text": "Gallery",
+      "href": "https://www.carpiomedia.com/aerial-drone-gallery-nyc",
+      "aria_label": "",
+      "classes": [],
+      "ancestry": [
+        "a",
+        "div.header-nav-item.header-nav-item--collection",
+        "nav.header-nav-list",
+        "div.header-nav-wrapper",
+        "div.header-nav",
+        "div.header-title-nav-wrapper"
+      ]
+    },
+    {
+      "dom_index": 9,
+      "text": "Contact",
+      "href": "https://www.carpiomedia.com/contact",
+      "aria_label": "",
+      "classes": [],
+      "ancestry": [
+        "a",
+        "div.header-nav-item.header-nav-item--collection",
+        "nav.header-nav-list",
+        "div.header-nav-wrapper",
+        "div.header-nav",
+        "div.header-title-nav-wrapper"
+      ]
+    },
+    {
+      "dom_index": 10,
+      "text": "FAQ",
+      "href": "https://www.carpiomedia.com/faq-1",
+      "aria_label": "",
+      "classes": [],
+      "ancestry": [
+        "a",
+        "div.header-nav-item.header-nav-item--collection",
+        "nav.header-nav-list",
+        "div.header-nav-wrapper",
+        "div.header-nav",
+        "div.header-title-nav-wrapper"
+      ]
+    },
+    {
+      "dom_index": 11,
+      "text": "",
+      "href": "https://www.instagram.com/carpiomedianyc/",
+      "aria_label": "Instagram",
+      "classes": [
+        "icon",
+        "icon--fill",
+        "header-icon",
+        "header-icon-border-shape-none",
+        "header-icon-border-style-outline"
+      ],
+      "ancestry": [
+        "a.icon.icon--fill.header-icon.header-icon-border-shape-none",
+        "div.header-actions-action.header-actions-action--social",
+        "div.header-actions.header-actions--right",
+        "div.header-display-desktop",
+        "div.header-inner.container--fluid.header-mobile-layout-logo-left-nav-right.header-layout-nav-right",
+        "div.header-announcement-bar-wrapper"
+      ]
+    },
+    {
+      "dom_index": 12,
+      "text": "",
+      "href": "https://www.facebook.com/carpiomedia",
+      "aria_label": "Facebook",
+      "classes": [
+        "icon",
+        "icon--fill",
+        "header-icon",
+        "header-icon-border-shape-none",
+        "header-icon-border-style-outline"
+      ],
+      "ancestry": [
+        "a.icon.icon--fill.header-icon.header-icon-border-shape-none",
+        "div.header-actions-action.header-actions-action--social",
+        "div.header-actions.header-actions--right",
+        "div.header-display-desktop",
+        "div.header-inner.container--fluid.header-mobile-layout-logo-left-nav-right.header-layout-nav-right",
+        "div.header-announcement-bar-wrapper"
+      ]
+    },
+    {
+      "dom_index": 13,
+      "text": "",
+      "href": "https://www.carpiomedia.com/",
+      "aria_label": "",
+      "classes": [],
+      "ancestry": [
+        "a",
+        "div.header-title-logo",
+        "div.header-title.header-title--use-mobile-logo",
+        "div.header-title-nav-wrapper",
+        "div.header-display-mobile",
+        "div.header-inner.container--fluid.header-mobile-layout-logo-left-nav-right.header-layout-nav-right"
+      ]
+    },
+    {
+      "dom_index": 14,
+      "text": "",
+      "href": "https://www.carpiomedia.com/",
+      "aria_label": "",
+      "classes": [],
+      "ancestry": [
+        "a",
+        "div.header-mobile-logo",
+        "div.header-title.header-title--use-mobile-logo",
+        "div.header-title-nav-wrapper",
+        "div.header-display-mobile",
+        "div.header-inner.container--fluid.header-mobile-layout-logo-left-nav-right.header-layout-nav-right"
+      ]
+    },
+    {
+      "dom_index": 15,
+      "text": "Home",
+      "href": "https://www.carpiomedia.com/",
+      "aria_label": "",
+      "classes": [],
+      "ancestry": [
+        "a",
+        "div.header-nav-item.header-nav-item--collection.header-nav-item--homepage",
+        "nav.header-nav-list",
+        "div.header-nav-wrapper",
+        "div.header-nav",
+        "div.header-title-nav-wrapper"
+      ]
+    },
+    {
+      "dom_index": 16,
+      "text": "Our Services",
+      "href": "https://www.carpiomedia.com/services-nyc-media",
+      "aria_label": "",
+      "classes": [],
+      "ancestry": [
+        "a",
+        "div.header-nav-item.header-nav-item--collection",
+        "nav.header-nav-list",
+        "div.header-nav-wrapper",
+        "div.header-nav",
+        "div.header-title-nav-wrapper"
+      ]
+    },
+    {
+      "dom_index": 17,
+      "text": "About",
+      "href": "https://www.carpiomedia.com/about",
+      "aria_label": "",
+      "classes": [],
+      "ancestry": [
+        "a",
+        "div.header-nav-item.header-nav-item--collection.header-nav-item--active",
+        "nav.header-nav-list",
+        "div.header-nav-wrapper",
+        "div.header-nav",
+        "div.header-title-nav-wrapper"
+      ]
+    },
+    {
+      "dom_index": 18,
+      "text": "Gallery",
+      "href": "https://www.carpiomedia.com/aerial-drone-gallery-nyc",
+      "aria_label": "",
+      "classes": [],
+      "ancestry": [
+        "a",
+        "div.header-nav-item.header-nav-item--collection",
+        "nav.header-nav-list",
+        "div.header-nav-wrapper",
+        "div.header-nav",
+        "div.header-title-nav-wrapper"
+      ]
+    },
+    {
+      "dom_index": 19,
+      "text": "Contact",
+      "href": "https://www.carpiomedia.com/contact",
+      "aria_label": "",
+      "classes": [],
+      "ancestry": [
+        "a",
+        "div.header-nav-item.header-nav-item--collection",
+        "nav.header-nav-list",
+        "div.header-nav-wrapper",
+        "div.header-nav",
+        "div.header-title-nav-wrapper"
+      ]
+    },
+    {
+      "dom_index": 20,
+      "text": "FAQ",
+      "href": "https://www.carpiomedia.com/faq-1",
+      "aria_label": "",
+      "classes": [],
+      "ancestry": [
+        "a",
+        "div.header-nav-item.header-nav-item--collection",
+        "nav.header-nav-list",
+        "div.header-nav-wrapper",
+        "div.header-nav",
+        "div.header-title-nav-wrapper"
+      ]
+    },
+    {
+      "dom_index": 21,
+      "text": "",
+      "href": "https://www.instagram.com/carpiomedianyc/",
+      "aria_label": "Instagram",
+      "classes": [
+        "icon",
+        "icon--fill",
+        "header-icon",
+        "header-icon-border-shape-none",
+        "header-icon-border-style-outline"
+      ],
+      "ancestry": [
+        "a.icon.icon--fill.header-icon.header-icon-border-shape-none",
+        "div.header-actions-action.header-actions-action--social",
+        "div.header-actions.header-actions--right",
+        "div.header-display-mobile",
+        "div.header-inner.container--fluid.header-mobile-layout-logo-left-nav-right.header-layout-nav-right",
+        "div.header-announcement-bar-wrapper"
+      ]
+    },
+    {
+      "dom_index": 22,
+      "text": "",
+      "href": "https://www.facebook.com/carpiomedia",
+      "aria_label": "Facebook",
+      "classes": [
+        "icon",
+        "icon--fill",
+        "header-icon",
+        "header-icon-border-shape-none",
+        "header-icon-border-style-outline"
+      ],
+      "ancestry": [
+        "a.icon.icon--fill.header-icon.header-icon-border-shape-none",
+        "div.header-actions-action.header-actions-action--social",
+        "div.header-actions.header-actions--right",
+        "div.header-display-mobile",
+        "div.header-inner.container--fluid.header-mobile-layout-logo-left-nav-right.header-layout-nav-right",
+        "div.header-announcement-bar-wrapper"
+      ]
+    },
+    {
+      "dom_index": 23,
+      "text": "Home",
+      "href": "https://www.carpiomedia.com/",
+      "aria_label": "",
+      "classes": [],
+      "ancestry": [
+        "a",
+        "div.container.header-menu-nav-item.header-menu-nav-item--collection.header-menu-nav-item--homepage",
+        "div.header-menu-nav-wrapper",
+        "div.header-menu-nav-folder-content",
+        "div.header-menu-nav-folder",
+        "nav.header-menu-nav-list"
+      ]
+    },
+    {
+      "dom_index": 24,
+      "text": "Our Services",
+      "href": "https://www.carpiomedia.com/services-nyc-media",
+      "aria_label": "",
+      "classes": [],
+      "ancestry": [
+        "a",
+        "div.container.header-menu-nav-item.header-menu-nav-item--collection",
+        "div.header-menu-nav-wrapper",
+        "div.header-menu-nav-folder-content",
+        "div.header-menu-nav-folder",
+        "nav.header-menu-nav-list"
+      ]
+    },
+    {
+      "dom_index": 25,
+      "text": "About",
+      "href": "https://www.carpiomedia.com/about",
+      "aria_label": "",
+      "classes": [],
+      "ancestry": [
+        "a",
+        "div.container.header-menu-nav-item.header-menu-nav-item--collection.header-menu-nav-item--active",
+        "div.header-menu-nav-wrapper",
+        "div.header-menu-nav-folder-content",
+        "div.header-menu-nav-folder",
+        "nav.header-menu-nav-list"
+      ]
+    },
+    {
+      "dom_index": 26,
+      "text": "Gallery",
+      "href": "https://www.carpiomedia.com/aerial-drone-gallery-nyc",
+      "aria_label": "",
+      "classes": [],
+      "ancestry": [
+        "a",
+        "div.container.header-menu-nav-item.header-menu-nav-item--collection",
+        "div.header-menu-nav-wrapper",
+        "div.header-menu-nav-folder-content",
+        "div.header-menu-nav-folder",
+        "nav.header-menu-nav-list"
+      ]
+    },
+    {
+      "dom_index": 27,
+      "text": "Contact",
+      "href": "https://www.carpiomedia.com/contact",
+      "aria_label": "",
+      "classes": [],
+      "ancestry": [
+        "a",
+        "div.container.header-menu-nav-item.header-menu-nav-item--collection",
+        "div.header-menu-nav-wrapper",
+        "div.header-menu-nav-folder-content",
+        "div.header-menu-nav-folder",
+        "nav.header-menu-nav-list"
+      ]
+    },
+    {
+      "dom_index": 28,
+      "text": "FAQ",
+      "href": "https://www.carpiomedia.com/faq-1",
+      "aria_label": "",
+      "classes": [],
+      "ancestry": [
+        "a",
+        "div.container.header-menu-nav-item.header-menu-nav-item--collection",
+        "div.header-menu-nav-wrapper",
+        "div.header-menu-nav-folder-content",
+        "div.header-menu-nav-folder",
+        "nav.header-menu-nav-list"
+      ]
+    },
+    {
+      "dom_index": 29,
+      "text": "",
+      "href": "https://www.instagram.com/carpiomedianyc/",
+      "aria_label": "Instagram",
+      "classes": [
+        "icon",
+        "icon--lg",
+        "icon--fill",
+        "header-icon",
+        "header-icon-border-shape-none",
+        "header-icon-border-style-outline"
+      ],
+      "ancestry": [
+        "a.icon.icon--lg.icon--fill.header-icon",
+        "div.header-menu-actions-action.header-menu-actions-action--social.mobile",
+        "div.header-menu-actions.social-accounts",
+        "div.header-menu-nav-folder",
+        "nav.header-menu-nav-list",
+        "div.header-menu-nav"
+      ]
+    },
+    {
+      "dom_index": 30,
+      "text": "",
+      "href": "https://www.facebook.com/carpiomedia",
+      "aria_label": "Facebook",
+      "classes": [
+        "icon",
+        "icon--lg",
+        "icon--fill",
+        "header-icon",
+        "header-icon-border-shape-none",
+        "header-icon-border-style-outline"
+      ],
+      "ancestry": [
+        "a.icon.icon--lg.icon--fill.header-icon",
+        "div.header-menu-actions-action.header-menu-actions-action--social.mobile",
+        "div.header-menu-actions.social-accounts",
+        "div.header-menu-nav-folder",
+        "nav.header-menu-nav-list",
+        "div.header-menu-nav"
+      ]
+    },
+    {
+      "dom_index": 31,
+      "text": "",
+      "href": "https://www.instagram.com/carpiomedianyc/",
+      "aria_label": "Instagram",
+      "classes": [
+        "sqs-svg-icon--wrapper",
+        "instagram-unauth"
+      ],
+      "ancestry": [
+        "a.sqs-svg-icon--wrapper.instagram-unauth",
+        "nav.sqs-svg-icon--list",
+        "div.sqs-svg-icon--outer.social-icon-alignment-left.social-icons-color-black.social-icons-size-medium",
+        "div.sqs-block-socialaccountlinks-content",
+        "div.sqs-block-content",
+        "div#block-yui_3_17_2_1_1674492961936_8141.sqs-block.website-component-block.sqs-block-website-component.sqs-block-socialaccountlinks"
+      ]
+    },
+    {
+      "dom_index": 32,
+      "text": "",
+      "href": "https://www.facebook.com/carpiomedia",
+      "aria_label": "Facebook",
+      "classes": [
+        "sqs-svg-icon--wrapper",
+        "facebook-unauth"
+      ],
+      "ancestry": [
+        "a.sqs-svg-icon--wrapper.facebook-unauth",
+        "nav.sqs-svg-icon--list",
+        "div.sqs-svg-icon--outer.social-icon-alignment-left.social-icons-color-black.social-icons-size-medium",
+        "div.sqs-block-socialaccountlinks-content",
+        "div.sqs-block-content",
+        "div#block-yui_3_17_2_1_1674492961936_8141.sqs-block.website-component-block.sqs-block-website-component.sqs-block-socialaccountlinks"
+      ]
+    },
+    {
+      "dom_index": 33,
+      "text": "",
+      "href": "https://fedlinks.com/profile/Carpio-Media-LLC-Forest-Hills-NY",
+      "aria_label": "",
+      "classes": [
+        "sqs-block-image-link",
+        "js-content-mode-element",
+        "content-fit"
+      ],
+      "ancestry": [
+        "a.sqs-block-image-link.js-content-mode-element.content-fit",
+        "div.js-content-mode-element-wrapper.js-content-mode-element-system_desktop",
+        "div.fluid-image-container.sqs-image-content.js-image-container.visitor-mode",
+        "div.fluid-image-animation-wrapper.sqs-image.sqs-block-alignment-wrapper",
+        "div.fluid-image-component-root.image-block-outer-wrapper.design-layout-fluid.image-position-center",
+        "div.sqs-block-content"
+      ]
+    },
+    {
+      "dom_index": 34,
+      "text": "",
+      "href": "https://www.carpiomedia.com/contact",
+      "aria_label": "",
+      "classes": [
+        "sqs-block-image-link",
+        "js-content-mode-element",
+        "content-fit"
+      ],
+      "ancestry": [
+        "a.sqs-block-image-link.js-content-mode-element.content-fit",
+        "div.js-content-mode-element-wrapper.js-content-mode-element-system_desktop",
+        "div.fluid-image-container.sqs-image-content.js-image-container.visitor-mode",
+        "div.fluid-image-animation-wrapper.sqs-image.sqs-block-alignment-wrapper",
+        "div.fluid-image-component-root.image-block-outer-wrapper.design-layout-fluid.image-position-center",
+        "div.sqs-block-content"
+      ]
+    }
+  ],
+  "images_in_dom_order": [
+    {
+      "dom_index": 1,
+      "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5312c5ce-f33b-45b6-9e77-5c431aae6d9f/Carpio+Media+initials+white+nb.png?format=1500w",
+      "all_sources": [
+        "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5312c5ce-f33b-45b6-9e77-5c431aae6d9f/Carpio+Media+initials+white+nb.png?format=1500w"
+      ],
+      "alt": "Carpio Media",
+      "title": "",
+      "data_image_id": "",
+      "ancestry": [
+        "img",
+        "source",
+        "source",
+        "picture",
+        "a",
+        "div.header-title-logo"
+      ],
+      "context": {}
+    },
+    {
+      "dom_index": 2,
+      "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=1500w",
+      "all_sources": [
+        "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=1500w"
+      ],
+      "alt": "Carpio Media",
+      "title": "",
+      "data_image_id": "",
+      "ancestry": [
+        "img",
+        "source",
+        "source",
+        "picture",
+        "a",
+        "div.header-mobile-logo"
+      ],
+      "context": {
+        "next": "Home Our Services About Gallery Contact FAQ"
+      }
+    },
+    {
+      "dom_index": 3,
+      "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5312c5ce-f33b-45b6-9e77-5c431aae6d9f/Carpio+Media+initials+white+nb.png?format=1500w",
+      "all_sources": [
+        "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5312c5ce-f33b-45b6-9e77-5c431aae6d9f/Carpio+Media+initials+white+nb.png?format=1500w"
+      ],
+      "alt": "Carpio Media",
+      "title": "",
+      "data_image_id": "",
+      "ancestry": [
+        "img",
+        "source",
+        "source",
+        "picture",
+        "a",
+        "div.header-title-logo"
+      ],
+      "context": {}
+    },
+    {
+      "dom_index": 4,
+      "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=1500w",
+      "all_sources": [
+        "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=1500w"
+      ],
+      "alt": "Carpio Media",
+      "title": "",
+      "data_image_id": "",
+      "ancestry": [
+        "img",
+        "source",
+        "source",
+        "picture",
+        "a",
+        "div.header-mobile-logo"
+      ],
+      "context": {
+        "next": "Home Our Services About Gallery Contact FAQ"
+      }
+    },
+    {
+      "dom_index": 5,
+      "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/faa957ae-8244-4660-a1e1-64c00822209d/IMG_6984.jpg",
+      "all_sources": [
+        "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/faa957ae-8244-4660-a1e1-64c00822209d/IMG_6984.jpg",
+        "https://www.carpiomedia.com/false",
+        "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/faa957ae-8244-4660-a1e1-64c00822209d/IMG_6984.jpg?format=100w",
+        "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/faa957ae-8244-4660-a1e1-64c00822209d/IMG_6984.jpg?format=300w",
+        "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/faa957ae-8244-4660-a1e1-64c00822209d/IMG_6984.jpg?format=500w",
+        "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/faa957ae-8244-4660-a1e1-64c00822209d/IMG_6984.jpg?format=750w",
+        "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/faa957ae-8244-4660-a1e1-64c00822209d/IMG_6984.jpg?format=1000w",
+        "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/faa957ae-8244-4660-a1e1-64c00822209d/IMG_6984.jpg?format=1500w",
+        "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/faa957ae-8244-4660-a1e1-64c00822209d/IMG_6984.jpg?format=2500w"
+      ],
+      "alt": "Juan Carpio, founder of Carpio Media and FAA Part 107 drone pilot in Forest Hills, Queens.",
+      "title": "",
+      "data_image_id": "",
+      "ancestry": [
+        "img",
+        "div.js-content-mode-element.content-fill",
+        "div.js-content-mode-element-wrapper.js-content-mode-element-system_desktop",
+        "div.fluid-image-container.sqs-image-content.js-image-container.visitor-mode",
+        "div.fluid-image-animation-wrapper.sqs-image.sqs-block-alignment-wrapper",
+        "div.fluid-image-component-root.image-block-outer-wrapper.design-layout-fluid.image-position-left"
+      ],
+      "context": {}
+    },
+    {
+      "dom_index": 6,
+      "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/0f7f8124-3bb1-44c7-8dca-1e6e8dbaba71/wall+of+sponsors.jpeg",
+      "all_sources": [
+        "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/0f7f8124-3bb1-44c7-8dca-1e6e8dbaba71/wall+of+sponsors.jpeg",
+        "https://www.carpiomedia.com/false",
+        "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/0f7f8124-3bb1-44c7-8dca-1e6e8dbaba71/wall+of+sponsors.jpeg?format=100w",
+        "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/0f7f8124-3bb1-44c7-8dca-1e6e8dbaba71/wall+of+sponsors.jpeg?format=300w",
+        "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/0f7f8124-3bb1-44c7-8dca-1e6e8dbaba71/wall+of+sponsors.jpeg?format=500w",
+        "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/0f7f8124-3bb1-44c7-8dca-1e6e8dbaba71/wall+of+sponsors.jpeg?format=750w",
+        "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/0f7f8124-3bb1-44c7-8dca-1e6e8dbaba71/wall+of+sponsors.jpeg?format=1000w",
+        "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/0f7f8124-3bb1-44c7-8dca-1e6e8dbaba71/wall+of+sponsors.jpeg?format=1500w",
+        "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/0f7f8124-3bb1-44c7-8dca-1e6e8dbaba71/wall+of+sponsors.jpeg?format=2500w"
+      ],
+      "alt": "Forest Hills Youth Athletics sponsor wall in Forest Hills, Queens.",
+      "title": "",
+      "data_image_id": "",
+      "ancestry": [
+        "img",
+        "div.js-content-mode-element.content-fill",
+        "div.js-content-mode-element-wrapper.js-content-mode-element-system_desktop",
+        "div.fluid-image-container.sqs-image-content.js-image-container.visitor-mode",
+        "div.fluid-image-animation-wrapper.sqs-image.sqs-block-alignment-wrapper",
+        "div.fluid-image-component-root.image-block-outer-wrapper.design-layout-fluid.image-position-center"
+      ],
+      "context": {}
+    },
+    {
+      "dom_index": 7,
+      "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png",
+      "all_sources": [
+        "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png",
+        "https://www.carpiomedia.com/false",
+        "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=100w",
+        "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=300w",
+        "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=500w",
+        "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=750w",
+        "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=1000w",
+        "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=1500w",
+        "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4935f0ce-881a-4965-8af5-adf963475adf/Carpio+Media+initials.png?format=2500w"
+      ],
+      "alt": "",
+      "title": "",
+      "data_image_id": "",
+      "ancestry": [
+        "img",
+        "div.js-content-mode-element.content-fit",
+        "div.js-content-mode-element-wrapper.js-content-mode-element-system_desktop",
+        "div.fluid-image-container.sqs-image-content.js-image-container.visitor-mode",
+        "div.fluid-image-animation-wrapper.sqs-image.sqs-block-alignment-wrapper",
+        "div.fluid-image-component-root.image-block-outer-wrapper.design-layout-fluid.image-position-left"
+      ],
+      "context": {}
+    },
+    {
+      "dom_index": 8,
+      "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png",
+      "all_sources": [
+        "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png",
+        "https://www.carpiomedia.com/false",
+        "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=100w",
+        "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=300w",
+        "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=500w",
+        "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=750w",
+        "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=1000w",
+        "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=1500w",
+        "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d2f19764-c8de-4d86-9b73-fe57746230e7/png-transparent-corporation-certification-supplier-diversity-minority-business-enterprise-minority-blue-company-text.png?format=2500w"
+      ],
+      "alt": "Certified minority business enterprise",
+      "title": "",
+      "data_image_id": "",
+      "ancestry": [
+        "img",
+        "div.js-content-mode-element.content-fit",
+        "div.js-content-mode-element-wrapper.js-content-mode-element-system_desktop",
+        "div.fluid-image-container.sqs-image-content.js-image-container.visitor-mode",
+        "div.fluid-image-animation-wrapper.sqs-image.sqs-block-alignment-wrapper",
+        "div.fluid-image-component-root.image-block-outer-wrapper.design-layout-fluid.image-position-center"
+      ],
+      "context": {}
+    },
+    {
+      "dom_index": 9,
+      "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png",
+      "all_sources": [
+        "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png",
+        "https://www.carpiomedia.com/false",
+        "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=100w",
+        "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=300w",
+        "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=500w",
+        "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=750w",
+        "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=1000w",
+        "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=1500w",
+        "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/f7b90f9c-8cc5-4344-8140-3b9d5262bda9/Fedlinks_badge_big_whitestroke2-1024x770.png?format=2500w"
+      ],
+      "alt": "Verified federal vendor",
+      "title": "",
+      "data_image_id": "",
+      "ancestry": [
+        "img",
+        "a.sqs-block-image-link.js-content-mode-element.content-fit",
+        "div.js-content-mode-element-wrapper.js-content-mode-element-system_desktop",
+        "div.fluid-image-container.sqs-image-content.js-image-container.visitor-mode",
+        "div.fluid-image-animation-wrapper.sqs-image.sqs-block-alignment-wrapper",
+        "div.fluid-image-component-root.image-block-outer-wrapper.design-layout-fluid.image-position-center"
+      ],
+      "context": {}
+    },
+    {
+      "dom_index": 10,
+      "url": "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png",
+      "all_sources": [
+        "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png",
+        "https://www.carpiomedia.com/false",
+        "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=100w",
+        "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=300w",
+        "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=500w",
+        "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=750w",
+        "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=1000w",
+        "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=1500w",
+        "https://images.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/241bd9f6-9445-4078-9d4a-ee6fc0e58a2a/DJI+logo+dealer.png?format=2500w"
+      ],
+      "alt": "DJI authorized dealer. DJI Enterprise",
+      "title": "",
+      "data_image_id": "",
+      "ancestry": [
+        "img",
+        "a.sqs-block-image-link.js-content-mode-element.content-fit",
+        "div.js-content-mode-element-wrapper.js-content-mode-element-system_desktop",
+        "div.fluid-image-container.sqs-image-content.js-image-container.visitor-mode",
+        "div.fluid-image-animation-wrapper.sqs-image.sqs-block-alignment-wrapper",
+        "div.fluid-image-component-root.image-block-outer-wrapper.design-layout-fluid.image-position-center"
+      ],
+      "context": {}
+    }
+  ],
+  "media_in_dom_and_source_order": [],
+  "youtube_ids": [],
+  "youtube_metadata": {},
+  "vimeo_ids": [],
+  "squarespace_media_urls": []
+}
