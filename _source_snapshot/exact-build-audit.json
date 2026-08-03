@@ -1,0 +1,385 @@
+{
+  "passed": true,
+  "template_source": "_source_snapshot/raw/root.html",
+  "output": "exact-preview.html",
+  "page_audits": [
+    {
+      "path": "/",
+      "source_text_blocks": 6,
+      "output_text_blocks": 6,
+      "exact_text_sequence": true,
+      "source_youtube_ids": []
+    },
+    {
+      "path": "/services-nyc-media",
+      "source_text_blocks": 7,
+      "output_text_blocks": 7,
+      "exact_text_sequence": true,
+      "source_youtube_ids": []
+    },
+    {
+      "path": "/services-nyc-media/residentialrealestatephotography",
+      "source_text_blocks": 6,
+      "output_text_blocks": 6,
+      "exact_text_sequence": true,
+      "source_youtube_ids": []
+    },
+    {
+      "path": "/services-nyc-media/commercialrealestatephotography",
+      "source_text_blocks": 7,
+      "output_text_blocks": 7,
+      "exact_text_sequence": true,
+      "source_youtube_ids": []
+    },
+    {
+      "path": "/services-nyc-media/professional-visual-content-creation",
+      "source_text_blocks": 11,
+      "output_text_blocks": 11,
+      "exact_text_sequence": true,
+      "source_youtube_ids": []
+    },
+    {
+      "path": "/services-nyc-media/fpv",
+      "source_text_blocks": 11,
+      "output_text_blocks": 11,
+      "exact_text_sequence": true,
+      "source_youtube_ids": [
+        "cTEpPO-g57Q",
+        "D92xaYArbhk",
+        "zq9GlfkxEvE"
+      ]
+    },
+    {
+      "path": "/services-nyc-media/cinematic-drone-content-creation-for-film-tv",
+      "source_text_blocks": 8,
+      "output_text_blocks": 8,
+      "exact_text_sequence": true,
+      "source_youtube_ids": [
+        "XT-qiigoDJ4"
+      ]
+    },
+    {
+      "path": "/about",
+      "source_text_blocks": 8,
+      "output_text_blocks": 8,
+      "exact_text_sequence": true,
+      "source_youtube_ids": []
+    },
+    {
+      "path": "/aerial-drone-gallery-nyc",
+      "source_text_blocks": 37,
+      "output_text_blocks": 37,
+      "exact_text_sequence": true,
+      "source_youtube_ids": [
+        "MwDPxPpI8v0",
+        "Jco_GMVw7g0",
+        "Ob7PonWBWvE",
+        "9TrfCgzSfMo",
+        "aiu4sq4mXIg",
+        "tIOIFH925qY",
+        "DWr6SH8RM48",
+        "rlHR5vuYRq0",
+        "cTEpPO-g57Q",
+        "D92xaYArbhk",
+        "zq9GlfkxEvE",
+        "PAN5pfmX0TU"
+      ]
+    },
+    {
+      "path": "/contact",
+      "source_text_blocks": 3,
+      "output_text_blocks": 3,
+      "exact_text_sequence": true,
+      "source_youtube_ids": []
+    },
+    {
+      "path": "/faq-1",
+      "source_text_blocks": 46,
+      "output_text_blocks": 46,
+      "exact_text_sequence": true,
+      "source_youtube_ids": []
+    }
+  ],
+  "first_text_mismatches": [],
+  "source_youtube_ids": [
+    "cTEpPO-g57Q",
+    "D92xaYArbhk",
+    "zq9GlfkxEvE",
+    "XT-qiigoDJ4",
+    "MwDPxPpI8v0",
+    "Jco_GMVw7g0",
+    "Ob7PonWBWvE",
+    "9TrfCgzSfMo",
+    "aiu4sq4mXIg",
+    "tIOIFH925qY",
+    "DWr6SH8RM48",
+    "rlHR5vuYRq0",
+    "PAN5pfmX0TU"
+  ],
+  "output_youtube_ids": [
+    "cTEpPO-g57Q",
+    "D92xaYArbhk",
+    "zq9GlfkxEvE",
+    "XT-qiigoDJ4",
+    "MwDPxPpI8v0",
+    "Jco_GMVw7g0",
+    "Ob7PonWBWvE",
+    "9TrfCgzSfMo",
+    "aiu4sq4mXIg",
+    "tIOIFH925qY",
+    "DWr6SH8RM48",
+    "rlHR5vuYRq0",
+    "PAN5pfmX0TU"
+  ],
+  "source_native_video_ids": [
+    "0119af6b-ab9c-4d61-96cf-183357950607",
+    "114c39dc-93c8-403e-b133-d664ecb459f7",
+    "317a8d57-5115-400b-bf32-03b82a8e2554",
+    "4034102b-431e-42e0-b560-bd80a47f0506",
+    "43d5c9af-040e-43d4-927f-4cf487f1bba2",
+    "5332ba40-218e-464b-9ee8-984ef2fb6433",
+    "56063987-36c7-4927-84bc-b30784c28171",
+    "5855200a-cd96-4694-b03e-9e920cdadea3",
+    "5a6ce940-8936-4676-a982-a732c7b4c111",
+    "605c740a-3f83-4add-96e9-58a10b67933a",
+    "67c7a4e5-dac5-419b-ac96-a1013dfe63d5",
+    "6c93af36-532b-4b9a-9a35-051e6543b9c2",
+    "7fc58dc6-c78c-4940-8f43-f55a51a8fed6",
+    "91d9af55-057b-47fa-a93d-bc81eb376eaa",
+    "98587308-b5ac-4587-a55a-640f770159b1",
+    "a6c091bc-50e1-48b4-a04a-3e6c0627a4b5",
+    "a8ccdbf9-0c8e-48fa-a13c-26fc28a74681",
+    "b3bd86e3-866f-4e4b-a7e0-f7edfcaa375b",
+    "b3da89b4-fee2-4dfd-9565-25bb90fa5917",
+    "d907d5cb-dad0-42e4-a636-6c624eacb454",
+    "e2622605-60f6-429b-b65e-ae79977fdf9b",
+    "e85927df-c358-41d9-bf21-4f5a5cdbf9ca"
+  ],
+  "output_native_video_ids": [
+    "0119af6b-ab9c-4d61-96cf-183357950607",
+    "114c39dc-93c8-403e-b133-d664ecb459f7",
+    "317a8d57-5115-400b-bf32-03b82a8e2554",
+    "4034102b-431e-42e0-b560-bd80a47f0506",
+    "43d5c9af-040e-43d4-927f-4cf487f1bba2",
+    "5332ba40-218e-464b-9ee8-984ef2fb6433",
+    "56063987-36c7-4927-84bc-b30784c28171",
+    "5855200a-cd96-4694-b03e-9e920cdadea3",
+    "5a6ce940-8936-4676-a982-a732c7b4c111",
+    "605c740a-3f83-4add-96e9-58a10b67933a",
+    "67c7a4e5-dac5-419b-ac96-a1013dfe63d5",
+    "6c93af36-532b-4b9a-9a35-051e6543b9c2",
+    "7fc58dc6-c78c-4940-8f43-f55a51a8fed6",
+    "91d9af55-057b-47fa-a93d-bc81eb376eaa",
+    "98587308-b5ac-4587-a55a-640f770159b1",
+    "a6c091bc-50e1-48b4-a04a-3e6c0627a4b5",
+    "a8ccdbf9-0c8e-48fa-a13c-26fc28a74681",
+    "b3bd86e3-866f-4e4b-a7e0-f7edfcaa375b",
+    "b3da89b4-fee2-4dfd-9565-25bb90fa5917",
+    "d907d5cb-dad0-42e4-a636-6c624eacb454",
+    "e2622605-60f6-429b-b65e-ae79977fdf9b",
+    "e85927df-c358-41d9-bf21-4f5a5cdbf9ca"
+  ],
+  "footer_preserved": true,
+  "required_asset_and_link_checks": {
+    "instagram": true,
+    "facebook": true,
+    "fedlinks": true,
+    "mbe_asset": true,
+    "desktop_logo_asset": true
+  },
+  "native_video_records": [
+    {
+      "block_id": "block-yui_3_17_2_1_1750867815667_5280",
+      "caption": "",
+      "system_data_id": "114c39dc-93c8-403e-b133-d664ecb459f7",
+      "playlist": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/114c39dc-93c8-403e-b133-d664ecb459f7/playlist.m3u8",
+      "aspect_ratio": 1.7777777777777777,
+      "duration_seconds": 42.609233
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1751387280215_2473",
+      "caption": "",
+      "system_data_id": "a8ccdbf9-0c8e-48fa-a13c-26fc28a74681",
+      "playlist": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/playlist.m3u8",
+      "aspect_ratio": 1.7777777777777777,
+      "duration_seconds": 46.166667
+    },
+    {
+      "block_id": "block-e1de07627efcec3cf897",
+      "caption": "",
+      "system_data_id": "605c740a-3f83-4add-96e9-58a10b67933a",
+      "playlist": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/605c740a-3f83-4add-96e9-58a10b67933a/playlist.m3u8",
+      "aspect_ratio": 1.7777777777777777,
+      "duration_seconds": 70.266667
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1750867815667_2180",
+      "caption": "",
+      "system_data_id": "5a6ce940-8936-4676-a982-a732c7b4c111",
+      "playlist": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5a6ce940-8936-4676-a982-a732c7b4c111/playlist.m3u8",
+      "aspect_ratio": 1.7777777777777777,
+      "duration_seconds": 48.3
+    },
+    {
+      "block_id": "block-e6779ff3c52ef704bd0a",
+      "caption": "",
+      "system_data_id": "0119af6b-ab9c-4d61-96cf-183357950607",
+      "playlist": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/0119af6b-ab9c-4d61-96cf-183357950607/playlist.m3u8",
+      "aspect_ratio": 1.7777777777777777,
+      "duration_seconds": 53.8
+    },
+    {
+      "block_id": "block-fae8f6430bceb9e87165",
+      "caption": "",
+      "system_data_id": "7fc58dc6-c78c-4940-8f43-f55a51a8fed6",
+      "playlist": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/7fc58dc6-c78c-4940-8f43-f55a51a8fed6/playlist.m3u8",
+      "aspect_ratio": 1.7777777777777777,
+      "duration_seconds": 48.133333
+    },
+    {
+      "block_id": "block-808651ab8b30f0ba3359",
+      "caption": "",
+      "system_data_id": "56063987-36c7-4927-84bc-b30784c28171",
+      "playlist": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/56063987-36c7-4927-84bc-b30784c28171/playlist.m3u8",
+      "aspect_ratio": 1.7777777777777777,
+      "duration_seconds": 58.066667
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1751413545063_7077",
+      "caption": "",
+      "system_data_id": "e85927df-c358-41d9-bf21-4f5a5cdbf9ca",
+      "playlist": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e85927df-c358-41d9-bf21-4f5a5cdbf9ca/playlist.m3u8",
+      "aspect_ratio": 1.7777777777777777,
+      "duration_seconds": 60.066667
+    },
+    {
+      "block_id": "block-9ec9c220e518c815ca1a",
+      "caption": "",
+      "system_data_id": "5855200a-cd96-4694-b03e-9e920cdadea3",
+      "playlist": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5855200a-cd96-4694-b03e-9e920cdadea3/playlist.m3u8",
+      "aspect_ratio": 1.7777777777777777,
+      "duration_seconds": 59.843177
+    },
+    {
+      "block_id": "block-bfb531d23a6945ba2fa9",
+      "caption": "3 Bryant Park Christmas Social",
+      "system_data_id": "6c93af36-532b-4b9a-9a35-051e6543b9c2",
+      "playlist": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/6c93af36-532b-4b9a-9a35-051e6543b9c2/playlist.m3u8",
+      "aspect_ratio": 1.7777777777777777,
+      "duration_seconds": 37.625
+    },
+    {
+      "block_id": "block-047390a28703663360ad",
+      "caption": "1411 Broadway Christmas Gathering",
+      "system_data_id": "a8ccdbf9-0c8e-48fa-a13c-26fc28a74681",
+      "playlist": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/playlist.m3u8",
+      "aspect_ratio": 1.7777777777777777,
+      "duration_seconds": 46.166667
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1740085995759_3802",
+      "caption": "Purple Bitcoin: Next Level Crypto Content Creation",
+      "system_data_id": "d907d5cb-dad0-42e4-a636-6c624eacb454",
+      "playlist": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d907d5cb-dad0-42e4-a636-6c624eacb454/playlist.m3u8",
+      "aspect_ratio": 1.7777777777777777,
+      "duration_seconds": 108.533333
+    },
+    {
+      "block_id": "block-6c1c7098271080588535",
+      "caption": "GoStream: Stream Without Limits",
+      "system_data_id": "98587308-b5ac-4587-a55a-640f770159b1",
+      "playlist": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/98587308-b5ac-4587-a55a-640f770159b1/playlist.m3u8",
+      "aspect_ratio": 1.7777777777777777,
+      "duration_seconds": 28.3
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1687201534364_3607",
+      "caption": "URBN Playground amenities",
+      "system_data_id": "43d5c9af-040e-43d4-927f-4cf487f1bba2",
+      "playlist": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/playlist.m3u8",
+      "aspect_ratio": 1.7777777777777777,
+      "duration_seconds": 89.133333
+    },
+    {
+      "block_id": "block-ec217bc346714b7ed3cd",
+      "caption": "Elevate Your Property's Amenities with URBN Playground",
+      "system_data_id": "43d5c9af-040e-43d4-927f-4cf487f1bba2",
+      "playlist": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/playlist.m3u8",
+      "aspect_ratio": 1.7777777777777777,
+      "duration_seconds": 89.133333
+    },
+    {
+      "block_id": "block-ef30f3fc615402aceccc",
+      "caption": "FHYAA 2023 Spring Fling",
+      "system_data_id": "a6c091bc-50e1-48b4-a04a-3e6c0627a4b5",
+      "playlist": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a6c091bc-50e1-48b4-a04a-3e6c0627a4b5/playlist.m3u8",
+      "aspect_ratio": 1.7777777777777777,
+      "duration_seconds": 47.666667
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1673046080136_39718",
+      "caption": "Freedom Tower from SoHo",
+      "system_data_id": "e2622605-60f6-429b-b65e-ae79977fdf9b",
+      "playlist": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e2622605-60f6-429b-b65e-ae79977fdf9b/playlist.m3u8",
+      "aspect_ratio": 1.7777777777777777,
+      "duration_seconds": 15.06505
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1673548525326_13954",
+      "caption": "A view of the Empire State Building from Soho",
+      "system_data_id": "91d9af55-057b-47fa-a93d-bc81eb376eaa",
+      "playlist": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/91d9af55-057b-47fa-a93d-bc81eb376eaa/playlist.m3u8",
+      "aspect_ratio": 1.7777777777777777,
+      "duration_seconds": 7.65
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1673046080136_35153",
+      "caption": "Rotterdam leaving New York City",
+      "system_data_id": "b3da89b4-fee2-4dfd-9565-25bb90fa5917",
+      "playlist": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3da89b4-fee2-4dfd-9565-25bb90fa5917/playlist.m3u8",
+      "aspect_ratio": 1.7777777777777777,
+      "duration_seconds": 22.405717
+    },
+    {
+      "block_id": "block-62ea6b40336e0194527c",
+      "caption": "Knob Creek distillery.",
+      "system_data_id": "b3bd86e3-866f-4e4b-a7e0-f7edfcaa375b",
+      "playlist": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3bd86e3-866f-4e4b-a7e0-f7edfcaa375b/playlist.m3u8",
+      "aspect_ratio": 1.7777777777777777,
+      "duration_seconds": 23.05
+    },
+    {
+      "block_id": "block-8e81e59085a704d85397",
+      "caption": "Eagles Football Club practice over Victory Field",
+      "system_data_id": "4034102b-431e-42e0-b560-bd80a47f0506",
+      "playlist": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4034102b-431e-42e0-b560-bd80a47f0506/playlist.m3u8",
+      "aspect_ratio": 1.7777777777777777,
+      "duration_seconds": 33.983333
+    },
+    {
+      "block_id": "block-80766c05cbdcead31042",
+      "caption": "Metropolitan Blvd at dusk.",
+      "system_data_id": "317a8d57-5115-400b-bf32-03b82a8e2554",
+      "playlist": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/317a8d57-5115-400b-bf32-03b82a8e2554/playlist.m3u8",
+      "aspect_ratio": 1.7777777777777777,
+      "duration_seconds": 15.016667
+    },
+    {
+      "block_id": "block-c910b888b16179193745",
+      "caption": "Forest Hills Youth Athletic League Soccer Season",
+      "system_data_id": "5332ba40-218e-464b-9ee8-984ef2fb6433",
+      "playlist": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5332ba40-218e-464b-9ee8-984ef2fb6433/playlist.m3u8",
+      "aspect_ratio": 1.7777777777777777,
+      "duration_seconds": 29.216667
+    },
+    {
+      "block_id": "block-6d66942b4bf3414a774c",
+      "caption": "Golden hour in Forest Hills Station Square.",
+      "system_data_id": "67c7a4e5-dac5-419b-ac96-a1013dfe63d5",
+      "playlist": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/67c7a4e5-dac5-419b-ac96-a1013dfe63d5/playlist.m3u8",
+      "aspect_ratio": 1.7777777777777777,
+      "duration_seconds": 14.833333
+    }
+  ],
+  "main_text_block_total": 150
+}
