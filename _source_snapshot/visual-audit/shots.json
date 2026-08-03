@@ -1,0 +1,15 @@
+{
+  "desktopShots": [
+    "_source_snapshot/visual-audit/desktop-home.jpg",
+    "_source_snapshot/visual-audit/desktop-services.jpg",
+    "_source_snapshot/visual-audit/desktop-about.jpg",
+    "_source_snapshot/visual-audit/desktop-gallery.jpg",
+    "_source_snapshot/visual-audit/desktop-contact.jpg",
+    "_source_snapshot/visual-audit/desktop-faq.jpg"
+  ],
+  "mobileShots": [
+    "_source_snapshot/visual-audit/mobile-home.jpg",
+    "_source_snapshot/visual-audit/mobile-gallery.jpg",
+    "_source_snapshot/visual-audit/mobile-contact.jpg"
+  ]
+}
