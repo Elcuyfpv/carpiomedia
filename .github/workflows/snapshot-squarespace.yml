@@ -11,6 +11,8 @@ on:
       - 'tools/extract_video_blocks.py'
       - 'tools/resolve_native_videos.py'
       - 'tools/build_one_page_exact.py'
+      - 'tools/visual_audit.mjs'
+      - 'tools/make_contact_sheet.py'
 
 permissions:
   contents: write
@@ -28,8 +30,8 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Install parser
-        run: python -m pip install --disable-pip-version-check beautifulsoup4==4.12.3 lxml==5.3.0
+      - name: Install Python tools
+        run: python -m pip install --disable-pip-version-check beautifulsoup4==4.12.3 lxml==5.3.0 Pillow==11.0.0
 
       - name: Capture exact public site source
         run: python tools/snapshot_site.py
@@ -51,6 +53,34 @@ jobs:
         continue-on-error: true
         run: python tools/build_one_page_exact.py
 
+      - name: Set up Node
+        if: steps.exact_build.outcome == 'success'
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Chromium
+        if: steps.exact_build.outcome == 'success'
+        run: |
+          npm install --no-save playwright@1.48.2
+          npx playwright install --with-deps chromium
+
+      - name: Render desktop and mobile review
+        id: visual_audit
+        if: steps.exact_build.outcome == 'success'
+        continue-on-error: true
+        run: |
+          python -m http.server 8000 >/tmp/carpio-http.log 2>&1 &
+          SERVER_PID=$!
+          trap 'kill $SERVER_PID || true' EXIT
+          sleep 2
+          node tools/visual_audit.mjs
+          python tools/make_contact_sheet.py
+
+      - name: Preserve contact sheet after a visual warning
+        if: steps.exact_build.outcome == 'success' && steps.visual_audit.outcome != 'success'
+        run: python tools/make_contact_sheet.py || true
+
       - name: Commit source inventory, audit and preview
         run: |
           git config user.name "github-actions[bot]"
@@ -60,10 +90,14 @@ jobs:
           if git diff --cached --quiet; then
             echo "No inventory, audit or preview changes"
           else
-            git commit -m "Build exact one-page Squarespace consolidation [skip ci]"
+            git commit -m "Build and render exact one-page Squarespace consolidation [skip ci]"
             git push
           fi
 
       - name: Enforce exact-build audit
         if: steps.exact_build.outcome != 'success'
+        run: exit 1
+
+      - name: Enforce rendered visual audit
+        if: steps.exact_build.outcome == 'success' && steps.visual_audit.outcome != 'success'
         run: exit 1
