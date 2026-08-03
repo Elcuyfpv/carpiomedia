@@ -1,0 +1,386 @@
+{
+  "url": "https://www.carpiomedia.com/services-nyc-media/residentialrealestatephotography",
+  "source_file": "_source_snapshot/raw/services-nyc-media__residentialrealestatephotography.html",
+  "video_blocks": [
+    {
+      "order": 1,
+      "tag": "div",
+      "id": "block-yui_3_17_2_1_1750867815667_2180",
+      "classes": [
+        "sqs-block",
+        "website-component-block",
+        "sqs-block-website-component",
+        "sqs-block-video",
+        "video-block"
+      ],
+      "attrs": {
+        "class": [
+          "sqs-block",
+          "website-component-block",
+          "sqs-block-website-component",
+          "sqs-block-video",
+          "video-block"
+        ],
+        "data-block-css": "[\"https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/f4fab1b5-9724-4478-be19-b08d36e66cf2_549/website.components.video.styles.css\"]",
+        "data-block-scripts": "[\"https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/f4fab1b5-9724-4478-be19-b08d36e66cf2_549/4032.js\",\"https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/f4fab1b5-9724-4478-be19-b08d36e66cf2_549/website.components.video.visitor.js\"]",
+        "data-block-type": "1337",
+        "data-definition-name": "website.components.video",
+        "data-sqsp-block": "video",
+        "data-website-component-id": "yui_3_17_2_1_1750867815667_2180",
+        "id": "block-yui_3_17_2_1_1750867815667_2180"
+      },
+      "text": "",
+      "descendants": [
+        {
+          "tag": "div",
+          "attrs": {
+            "class": [
+              "sqs-block-content"
+            ]
+          },
+          "text": ""
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": [
+              "intrinsic"
+            ],
+            "style": "max-width:100%"
+          },
+          "text": ""
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": [
+              "embed-block-wrapper"
+            ]
+          },
+          "text": ""
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": [
+              "sqs-native-video"
+            ],
+            "data-config-settings": "{\"muted\":true,\"autoPlay\":true,\"loop\":true,\"controls\":\"full\"}",
+            "data-config-video": "{\"systemDataSourceType\":\"mp4\",\"alexandriaUrl\":\"https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5a6ce940-8936-4676-a982-a732c7b4c111/{variant}\",\"durationSeconds\":48.3,\"aspectRatio\":1.7777777777777777,\"id\":\"685c21b31317a12c732a2388\",\"systemDataVariants\":\"1920:1080,640:360\",\"alexandriaLibraryId\":\"634f4ecdfb9bb005906ea9c6\",\"audioCodec\":\"aac\",\"systemDataId\":\"5a6ce940-8936-4676-a982-a732c7b4c111\",\"videoCodec\":\"h264\"}"
+          },
+          "text": ""
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": [
+              "native-video-player",
+              "native-video-player--has-aspect-ratio"
+            ],
+            "style": "aspect-ratio:16/9;"
+          },
+          "text": ""
+        },
+        {
+          "tag": "style",
+          "attrs": {
+            "class": [
+              "transform-overrides-vars"
+            ]
+          },
+          "text": ""
+        }
+      ],
+      "urls_in_raw_html": [
+        "https://definition",
+        "https://video."
+      ],
+      "raw_html": "<div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-video video-block\" data-block-css='[\"https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/f4fab1b5-9724-4478-be19-b08d36e66cf2_549/website.components.video.styles.css\"]' data-block-scripts='[\"https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/f4fab1b5-9724-4478-be19-b08d36e66cf2_549/4032.js\",\"https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/f4fab1b5-9724-4478-be19-b08d36e66cf2_549/website.components.video.visitor.js\"]' data-block-type=\"1337\" data-definition-name=\"website.components.video\" data-sqsp-block=\"video\" data-website-component-id=\"yui_3_17_2_1_1750867815667_2180\" id=\"block-yui_3_17_2_1_1750867815667_2180\"><div class=\"sqs-block-content\">\n<div class=\"intrinsic\" style=\"max-width:100%\">\n<div class=\"embed-block-wrapper\">\n<div class=\"sqs-native-video\" data-config-settings='{\"muted\":true,\"autoPlay\":true,\"loop\":true,\"controls\":\"full\"}' data-config-video='{\"systemDataSourceType\":\"mp4\",\"alexandriaUrl\":\"https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5a6ce940-8936-4676-a982-a732c7b4c111/{variant}\",\"durationSeconds\":48.3,\"aspectRatio\":1.7777777777777777,\"id\":\"685c21b31317a12c732a2388\",\"systemDataVariants\":\"1920:1080,640:360\",\"alexandriaLibraryId\":\"634f4ecdfb9bb005906ea9c6\",\"audioCodec\":\"aac\",\"systemDataId\":\"5a6ce940-8936-4676-a982-a732c7b4c111\",\"videoCodec\":\"h264\"}'>\n<div class=\"native-video-player native-video-player--has-aspect-ratio\" style=\"aspect-ratio:16/9;\">\n</div>\n</div>\n</div>\n</div>\n<style class=\"transform-overrides-vars\">\n</style>\n</div></div>"
+    },
+    {
+      "order": 2,
+      "tag": "div",
+      "id": "block-e6779ff3c52ef704bd0a",
+      "classes": [
+        "sqs-block",
+        "website-component-block",
+        "sqs-block-website-component",
+        "sqs-block-video",
+        "video-block"
+      ],
+      "attrs": {
+        "class": [
+          "sqs-block",
+          "website-component-block",
+          "sqs-block-website-component",
+          "sqs-block-video",
+          "video-block"
+        ],
+        "data-block-css": "[\"https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/f4fab1b5-9724-4478-be19-b08d36e66cf2_549/website.components.video.styles.css\"]",
+        "data-block-scripts": "[\"https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/f4fab1b5-9724-4478-be19-b08d36e66cf2_549/4032.js\",\"https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/f4fab1b5-9724-4478-be19-b08d36e66cf2_549/website.components.video.visitor.js\"]",
+        "data-block-type": "1337",
+        "data-definition-name": "website.components.video",
+        "data-sqsp-block": "video",
+        "data-website-component-id": "e6779ff3c52ef704bd0a",
+        "id": "block-e6779ff3c52ef704bd0a"
+      },
+      "text": "",
+      "descendants": [
+        {
+          "tag": "div",
+          "attrs": {
+            "class": [
+              "sqs-block-content"
+            ]
+          },
+          "text": ""
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": [
+              "intrinsic"
+            ],
+            "style": "max-width:100%"
+          },
+          "text": ""
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": [
+              "embed-block-wrapper"
+            ]
+          },
+          "text": ""
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": [
+              "sqs-native-video"
+            ],
+            "data-config-settings": "{\"muted\":true,\"autoPlay\":true,\"loop\":true,\"controls\":\"full\"}",
+            "data-config-video": "{\"systemDataSourceType\":\"mp4\",\"alexandriaUrl\":\"https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/0119af6b-ab9c-4d61-96cf-183357950607/{variant}\",\"durationSeconds\":53.8,\"aspectRatio\":1.7777777777777777,\"id\":\"685c223536c5624e68fd8268\",\"systemDataVariants\":\"1920:1080,640:360\",\"alexandriaLibraryId\":\"634f4ecdfb9bb005906ea9c6\",\"audioCodec\":\"aac\",\"systemDataId\":\"0119af6b-ab9c-4d61-96cf-183357950607\",\"videoCodec\":\"h264\"}"
+          },
+          "text": ""
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": [
+              "native-video-player",
+              "native-video-player--has-aspect-ratio"
+            ],
+            "style": "aspect-ratio:16/9;"
+          },
+          "text": ""
+        },
+        {
+          "tag": "style",
+          "attrs": {
+            "class": [
+              "transform-overrides-vars"
+            ]
+          },
+          "text": ""
+        }
+      ],
+      "urls_in_raw_html": [
+        "https://definition",
+        "https://video."
+      ],
+      "raw_html": "<div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-video video-block\" data-block-css='[\"https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/f4fab1b5-9724-4478-be19-b08d36e66cf2_549/website.components.video.styles.css\"]' data-block-scripts='[\"https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/f4fab1b5-9724-4478-be19-b08d36e66cf2_549/4032.js\",\"https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/f4fab1b5-9724-4478-be19-b08d36e66cf2_549/website.components.video.visitor.js\"]' data-block-type=\"1337\" data-definition-name=\"website.components.video\" data-sqsp-block=\"video\" data-website-component-id=\"e6779ff3c52ef704bd0a\" id=\"block-e6779ff3c52ef704bd0a\"><div class=\"sqs-block-content\">\n<div class=\"intrinsic\" style=\"max-width:100%\">\n<div class=\"embed-block-wrapper\">\n<div class=\"sqs-native-video\" data-config-settings='{\"muted\":true,\"autoPlay\":true,\"loop\":true,\"controls\":\"full\"}' data-config-video='{\"systemDataSourceType\":\"mp4\",\"alexandriaUrl\":\"https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/0119af6b-ab9c-4d61-96cf-183357950607/{variant}\",\"durationSeconds\":53.8,\"aspectRatio\":1.7777777777777777,\"id\":\"685c223536c5624e68fd8268\",\"systemDataVariants\":\"1920:1080,640:360\",\"alexandriaLibraryId\":\"634f4ecdfb9bb005906ea9c6\",\"audioCodec\":\"aac\",\"systemDataId\":\"0119af6b-ab9c-4d61-96cf-183357950607\",\"videoCodec\":\"h264\"}'>\n<div class=\"native-video-player native-video-player--has-aspect-ratio\" style=\"aspect-ratio:16/9;\">\n</div>\n</div>\n</div>\n</div>\n<style class=\"transform-overrides-vars\">\n</style>\n</div></div>"
+    },
+    {
+      "order": 3,
+      "tag": "div",
+      "id": "block-fae8f6430bceb9e87165",
+      "classes": [
+        "sqs-block",
+        "website-component-block",
+        "sqs-block-website-component",
+        "sqs-block-video",
+        "video-block"
+      ],
+      "attrs": {
+        "class": [
+          "sqs-block",
+          "website-component-block",
+          "sqs-block-website-component",
+          "sqs-block-video",
+          "video-block"
+        ],
+        "data-block-css": "[\"https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/f4fab1b5-9724-4478-be19-b08d36e66cf2_549/website.components.video.styles.css\"]",
+        "data-block-scripts": "[\"https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/f4fab1b5-9724-4478-be19-b08d36e66cf2_549/4032.js\",\"https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/f4fab1b5-9724-4478-be19-b08d36e66cf2_549/website.components.video.visitor.js\"]",
+        "data-block-type": "1337",
+        "data-definition-name": "website.components.video",
+        "data-sqsp-block": "video",
+        "data-website-component-id": "fae8f6430bceb9e87165",
+        "id": "block-fae8f6430bceb9e87165"
+      },
+      "text": "",
+      "descendants": [
+        {
+          "tag": "div",
+          "attrs": {
+            "class": [
+              "sqs-block-content"
+            ]
+          },
+          "text": ""
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": [
+              "intrinsic"
+            ],
+            "style": "max-width:100%"
+          },
+          "text": ""
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": [
+              "embed-block-wrapper"
+            ]
+          },
+          "text": ""
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": [
+              "sqs-native-video"
+            ],
+            "data-config-settings": "{\"muted\":true,\"autoPlay\":true,\"loop\":true,\"controls\":\"full\"}",
+            "data-config-video": "{\"systemDataSourceType\":\"mp4\",\"alexandriaUrl\":\"https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/7fc58dc6-c78c-4940-8f43-f55a51a8fed6/{variant}\",\"durationSeconds\":48.133333,\"aspectRatio\":1.7777777777777777,\"id\":\"6877cf820b77267a48c76623\",\"systemDataVariants\":\"1920:1080,640:360\",\"alexandriaLibraryId\":\"634f4ecdfb9bb005906ea9c6\",\"audioCodec\":\"aac\",\"systemDataId\":\"7fc58dc6-c78c-4940-8f43-f55a51a8fed6\",\"videoCodec\":\"h264\"}"
+          },
+          "text": ""
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": [
+              "native-video-player",
+              "native-video-player--has-aspect-ratio"
+            ],
+            "style": "aspect-ratio:16/9;"
+          },
+          "text": ""
+        },
+        {
+          "tag": "style",
+          "attrs": {
+            "class": [
+              "transform-overrides-vars"
+            ]
+          },
+          "text": ""
+        }
+      ],
+      "urls_in_raw_html": [
+        "https://definition",
+        "https://video."
+      ],
+      "raw_html": "<div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-video video-block\" data-block-css='[\"https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/f4fab1b5-9724-4478-be19-b08d36e66cf2_549/website.components.video.styles.css\"]' data-block-scripts='[\"https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/f4fab1b5-9724-4478-be19-b08d36e66cf2_549/4032.js\",\"https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/f4fab1b5-9724-4478-be19-b08d36e66cf2_549/website.components.video.visitor.js\"]' data-block-type=\"1337\" data-definition-name=\"website.components.video\" data-sqsp-block=\"video\" data-website-component-id=\"fae8f6430bceb9e87165\" id=\"block-fae8f6430bceb9e87165\"><div class=\"sqs-block-content\">\n<div class=\"intrinsic\" style=\"max-width:100%\">\n<div class=\"embed-block-wrapper\">\n<div class=\"sqs-native-video\" data-config-settings='{\"muted\":true,\"autoPlay\":true,\"loop\":true,\"controls\":\"full\"}' data-config-video='{\"systemDataSourceType\":\"mp4\",\"alexandriaUrl\":\"https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/7fc58dc6-c78c-4940-8f43-f55a51a8fed6/{variant}\",\"durationSeconds\":48.133333,\"aspectRatio\":1.7777777777777777,\"id\":\"6877cf820b77267a48c76623\",\"systemDataVariants\":\"1920:1080,640:360\",\"alexandriaLibraryId\":\"634f4ecdfb9bb005906ea9c6\",\"audioCodec\":\"aac\",\"systemDataId\":\"7fc58dc6-c78c-4940-8f43-f55a51a8fed6\",\"videoCodec\":\"h264\"}'>\n<div class=\"native-video-player native-video-player--has-aspect-ratio\" style=\"aspect-ratio:16/9;\">\n</div>\n</div>\n</div>\n</div>\n<style class=\"transform-overrides-vars\">\n</style>\n</div></div>"
+    },
+    {
+      "order": 4,
+      "tag": "div",
+      "id": "block-808651ab8b30f0ba3359",
+      "classes": [
+        "sqs-block",
+        "website-component-block",
+        "sqs-block-website-component",
+        "sqs-block-video",
+        "video-block"
+      ],
+      "attrs": {
+        "class": [
+          "sqs-block",
+          "website-component-block",
+          "sqs-block-website-component",
+          "sqs-block-video",
+          "video-block"
+        ],
+        "data-block-css": "[\"https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/f4fab1b5-9724-4478-be19-b08d36e66cf2_549/website.components.video.styles.css\"]",
+        "data-block-scripts": "[\"https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/f4fab1b5-9724-4478-be19-b08d36e66cf2_549/4032.js\",\"https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/f4fab1b5-9724-4478-be19-b08d36e66cf2_549/website.components.video.visitor.js\"]",
+        "data-block-type": "1337",
+        "data-definition-name": "website.components.video",
+        "data-sqsp-block": "video",
+        "data-website-component-id": "808651ab8b30f0ba3359",
+        "id": "block-808651ab8b30f0ba3359"
+      },
+      "text": "",
+      "descendants": [
+        {
+          "tag": "div",
+          "attrs": {
+            "class": [
+              "sqs-block-content"
+            ]
+          },
+          "text": ""
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": [
+              "intrinsic"
+            ],
+            "style": "max-width:100%"
+          },
+          "text": ""
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": [
+              "embed-block-wrapper"
+            ]
+          },
+          "text": ""
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": [
+              "sqs-native-video"
+            ],
+            "data-config-settings": "{\"muted\":true,\"autoPlay\":true,\"loop\":true,\"controls\":\"full\"}",
+            "data-config-video": "{\"systemDataSourceType\":\"mp4\",\"alexandriaUrl\":\"https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/56063987-36c7-4927-84bc-b30784c28171/{variant}\",\"durationSeconds\":58.066667,\"aspectRatio\":1.7777777777777777,\"id\":\"685c250966fc52661201d7e8\",\"systemDataVariants\":\"1920:1080,640:360\",\"alexandriaLibraryId\":\"634f4ecdfb9bb005906ea9c6\",\"audioCodec\":\"aac\",\"systemDataId\":\"56063987-36c7-4927-84bc-b30784c28171\",\"videoCodec\":\"h264\"}"
+          },
+          "text": ""
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": [
+              "native-video-player",
+              "native-video-player--has-aspect-ratio"
+            ],
+            "style": "aspect-ratio:16/9;"
+          },
+          "text": ""
+        },
+        {
+          "tag": "style",
+          "attrs": {
+            "class": [
+              "transform-overrides-vars"
+            ]
+          },
+          "text": ""
+        }
+      ],
+      "urls_in_raw_html": [
+        "https://definition",
+        "https://video."
+      ],
+      "raw_html": "<div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-video video-block\" data-block-css='[\"https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/f4fab1b5-9724-4478-be19-b08d36e66cf2_549/website.components.video.styles.css\"]' data-block-scripts='[\"https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/f4fab1b5-9724-4478-be19-b08d36e66cf2_549/4032.js\",\"https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/f4fab1b5-9724-4478-be19-b08d36e66cf2_549/website.components.video.visitor.js\"]' data-block-type=\"1337\" data-definition-name=\"website.components.video\" data-sqsp-block=\"video\" data-website-component-id=\"808651ab8b30f0ba3359\" id=\"block-808651ab8b30f0ba3359\"><div class=\"sqs-block-content\">\n<div class=\"intrinsic\" style=\"max-width:100%\">\n<div class=\"embed-block-wrapper\">\n<div class=\"sqs-native-video\" data-config-settings='{\"muted\":true,\"autoPlay\":true,\"loop\":true,\"controls\":\"full\"}' data-config-video='{\"systemDataSourceType\":\"mp4\",\"alexandriaUrl\":\"https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/56063987-36c7-4927-84bc-b30784c28171/{variant}\",\"durationSeconds\":58.066667,\"aspectRatio\":1.7777777777777777,\"id\":\"685c250966fc52661201d7e8\",\"systemDataVariants\":\"1920:1080,640:360\",\"alexandriaLibraryId\":\"634f4ecdfb9bb005906ea9c6\",\"audioCodec\":\"aac\",\"systemDataId\":\"56063987-36c7-4927-84bc-b30784c28171\",\"videoCodec\":\"h264\"}'>\n<div class=\"native-video-player native-video-player--has-aspect-ratio\" style=\"aspect-ratio:16/9;\">\n</div>\n</div>\n</div>\n</div>\n<style class=\"transform-overrides-vars\">\n</style>\n</div></div>"
+    }
+  ]
+}

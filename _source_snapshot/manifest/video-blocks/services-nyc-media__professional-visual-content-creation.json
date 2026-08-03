@@ -1,0 +1,490 @@
+{
+  "url": "https://www.carpiomedia.com/services-nyc-media/professional-visual-content-creation",
+  "source_file": "_source_snapshot/raw/services-nyc-media__professional-visual-content-creation.html",
+  "video_blocks": [
+    {
+      "order": 1,
+      "tag": "div",
+      "id": "block-bfb531d23a6945ba2fa9",
+      "classes": [
+        "sqs-block",
+        "website-component-block",
+        "sqs-block-website-component",
+        "sqs-block-video",
+        "video-block"
+      ],
+      "attrs": {
+        "class": [
+          "sqs-block",
+          "website-component-block",
+          "sqs-block-website-component",
+          "sqs-block-video",
+          "video-block"
+        ],
+        "data-block-css": "[\"https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/f4fab1b5-9724-4478-be19-b08d36e66cf2_549/website.components.video.styles.css\"]",
+        "data-block-scripts": "[\"https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/f4fab1b5-9724-4478-be19-b08d36e66cf2_549/4032.js\",\"https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/f4fab1b5-9724-4478-be19-b08d36e66cf2_549/website.components.video.visitor.js\"]",
+        "data-block-type": "1337",
+        "data-definition-name": "website.components.video",
+        "data-sqsp-block": "video",
+        "data-website-component-id": "bfb531d23a6945ba2fa9",
+        "id": "block-bfb531d23a6945ba2fa9"
+      },
+      "text": "3 Bryant Park Christmas Social",
+      "descendants": [
+        {
+          "tag": "div",
+          "attrs": {
+            "class": [
+              "sqs-block-content"
+            ]
+          },
+          "text": ""
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": [
+              "intrinsic"
+            ],
+            "style": "max-width:100%"
+          },
+          "text": ""
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": [
+              "embed-block-wrapper"
+            ]
+          },
+          "text": ""
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": [
+              "sqs-native-video"
+            ],
+            "data-config-settings": "{\"muted\":true,\"autoPlay\":true,\"loop\":true,\"controls\":\"full\"}",
+            "data-config-video": "{\"systemDataSourceType\":\"mp4\",\"alexandriaUrl\":\"https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/6c93af36-532b-4b9a-9a35-051e6543b9c2/{variant}\",\"durationSeconds\":37.625,\"aspectRatio\":1.7777777777777777,\"id\":\"69b86ab8c5a62d2bc1280088\",\"systemDataVariants\":\"1920:1080,640:360\",\"alexandriaLibraryId\":\"634f4ecdfb9bb005906ea9c6\",\"audioCodec\":\"aac\",\"systemDataId\":\"6c93af36-532b-4b9a-9a35-051e6543b9c2\",\"videoCodec\":\"h264\"}"
+          },
+          "text": ""
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": [
+              "native-video-player",
+              "native-video-player--has-aspect-ratio"
+            ],
+            "style": "aspect-ratio:16/9;"
+          },
+          "text": ""
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": [
+              "video-caption-wrapper"
+            ]
+          },
+          "text": ""
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": [
+              "video-caption"
+            ]
+          },
+          "text": ""
+        },
+        {
+          "tag": "p",
+          "attrs": {
+            "data-rte-preserve-empty": "true",
+            "style": "white-space:pre-wrap;"
+          },
+          "text": ""
+        },
+        {
+          "tag": "style",
+          "attrs": {
+            "class": [
+              "transform-overrides-vars"
+            ]
+          },
+          "text": ""
+        }
+      ],
+      "urls_in_raw_html": [
+        "https://definition",
+        "https://video."
+      ],
+      "raw_html": "<div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-video video-block\" data-block-css='[\"https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/f4fab1b5-9724-4478-be19-b08d36e66cf2_549/website.components.video.styles.css\"]' data-block-scripts='[\"https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/f4fab1b5-9724-4478-be19-b08d36e66cf2_549/4032.js\",\"https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/f4fab1b5-9724-4478-be19-b08d36e66cf2_549/website.components.video.visitor.js\"]' data-block-type=\"1337\" data-definition-name=\"website.components.video\" data-sqsp-block=\"video\" data-website-component-id=\"bfb531d23a6945ba2fa9\" id=\"block-bfb531d23a6945ba2fa9\"><div class=\"sqs-block-content\">\n<div class=\"intrinsic\" style=\"max-width:100%\">\n<div class=\"embed-block-wrapper\">\n<div class=\"sqs-native-video\" data-config-settings='{\"muted\":true,\"autoPlay\":true,\"loop\":true,\"controls\":\"full\"}' data-config-video='{\"systemDataSourceType\":\"mp4\",\"alexandriaUrl\":\"https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/6c93af36-532b-4b9a-9a35-051e6543b9c2/{variant}\",\"durationSeconds\":37.625,\"aspectRatio\":1.7777777777777777,\"id\":\"69b86ab8c5a62d2bc1280088\",\"systemDataVariants\":\"1920:1080,640:360\",\"alexandriaLibraryId\":\"634f4ecdfb9bb005906ea9c6\",\"audioCodec\":\"aac\",\"systemDataId\":\"6c93af36-532b-4b9a-9a35-051e6543b9c2\",\"videoCodec\":\"h264\"}'>\n<div class=\"native-video-player native-video-player--has-aspect-ratio\" style=\"aspect-ratio:16/9;\">\n</div>\n</div>\n</div>\n<div class=\"video-caption-wrapper\">\n<div class=\"video-caption\">\n<p data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\">3 Bryant Park Christmas Social</p>\n</div>\n</div>\n</div>\n<style class=\"transform-overrides-vars\">\n</style>\n</div></div>"
+    },
+    {
+      "order": 2,
+      "tag": "div",
+      "id": "block-047390a28703663360ad",
+      "classes": [
+        "sqs-block",
+        "website-component-block",
+        "sqs-block-website-component",
+        "sqs-block-video",
+        "video-block"
+      ],
+      "attrs": {
+        "class": [
+          "sqs-block",
+          "website-component-block",
+          "sqs-block-website-component",
+          "sqs-block-video",
+          "video-block"
+        ],
+        "data-block-css": "[\"https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/f4fab1b5-9724-4478-be19-b08d36e66cf2_549/website.components.video.styles.css\"]",
+        "data-block-scripts": "[\"https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/f4fab1b5-9724-4478-be19-b08d36e66cf2_549/4032.js\",\"https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/f4fab1b5-9724-4478-be19-b08d36e66cf2_549/website.components.video.visitor.js\"]",
+        "data-block-type": "1337",
+        "data-definition-name": "website.components.video",
+        "data-sqsp-block": "video",
+        "data-website-component-id": "047390a28703663360ad",
+        "id": "block-047390a28703663360ad"
+      },
+      "text": "1411 Broadway Christmas Gathering",
+      "descendants": [
+        {
+          "tag": "div",
+          "attrs": {
+            "class": [
+              "sqs-block-content"
+            ]
+          },
+          "text": ""
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": [
+              "intrinsic"
+            ],
+            "style": "max-width:100%"
+          },
+          "text": ""
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": [
+              "embed-block-wrapper"
+            ]
+          },
+          "text": ""
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": [
+              "sqs-native-video"
+            ],
+            "data-config-settings": "{\"muted\":true,\"autoPlay\":true,\"loop\":true,\"controls\":\"full\"}",
+            "data-config-video": "{\"systemDataSourceType\":\"mp4\",\"alexandriaUrl\":\"https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/{variant}\",\"durationSeconds\":46.166667,\"aspectRatio\":1.7777777777777777,\"id\":\"69b86b267f466035cd932c2f\",\"systemDataVariants\":\"1920:1080,640:360\",\"alexandriaLibraryId\":\"634f4ecdfb9bb005906ea9c6\",\"audioCodec\":\"aac\",\"systemDataId\":\"a8ccdbf9-0c8e-48fa-a13c-26fc28a74681\",\"videoCodec\":\"h264\"}"
+          },
+          "text": ""
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": [
+              "native-video-player",
+              "native-video-player--has-aspect-ratio"
+            ],
+            "style": "aspect-ratio:16/9;"
+          },
+          "text": ""
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": [
+              "video-caption-wrapper"
+            ]
+          },
+          "text": ""
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": [
+              "video-caption"
+            ]
+          },
+          "text": ""
+        },
+        {
+          "tag": "p",
+          "attrs": {
+            "data-rte-preserve-empty": "true",
+            "style": "white-space:pre-wrap;"
+          },
+          "text": ""
+        },
+        {
+          "tag": "style",
+          "attrs": {
+            "class": [
+              "transform-overrides-vars"
+            ]
+          },
+          "text": ""
+        }
+      ],
+      "urls_in_raw_html": [
+        "https://definition",
+        "https://video."
+      ],
+      "raw_html": "<div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-video video-block\" data-block-css='[\"https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/f4fab1b5-9724-4478-be19-b08d36e66cf2_549/website.components.video.styles.css\"]' data-block-scripts='[\"https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/f4fab1b5-9724-4478-be19-b08d36e66cf2_549/4032.js\",\"https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/f4fab1b5-9724-4478-be19-b08d36e66cf2_549/website.components.video.visitor.js\"]' data-block-type=\"1337\" data-definition-name=\"website.components.video\" data-sqsp-block=\"video\" data-website-component-id=\"047390a28703663360ad\" id=\"block-047390a28703663360ad\"><div class=\"sqs-block-content\">\n<div class=\"intrinsic\" style=\"max-width:100%\">\n<div class=\"embed-block-wrapper\">\n<div class=\"sqs-native-video\" data-config-settings='{\"muted\":true,\"autoPlay\":true,\"loop\":true,\"controls\":\"full\"}' data-config-video='{\"systemDataSourceType\":\"mp4\",\"alexandriaUrl\":\"https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/{variant}\",\"durationSeconds\":46.166667,\"aspectRatio\":1.7777777777777777,\"id\":\"69b86b267f466035cd932c2f\",\"systemDataVariants\":\"1920:1080,640:360\",\"alexandriaLibraryId\":\"634f4ecdfb9bb005906ea9c6\",\"audioCodec\":\"aac\",\"systemDataId\":\"a8ccdbf9-0c8e-48fa-a13c-26fc28a74681\",\"videoCodec\":\"h264\"}'>\n<div class=\"native-video-player native-video-player--has-aspect-ratio\" style=\"aspect-ratio:16/9;\">\n</div>\n</div>\n</div>\n<div class=\"video-caption-wrapper\">\n<div class=\"video-caption\">\n<p data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\">1411 Broadway Christmas Gathering</p>\n</div>\n</div>\n</div>\n<style class=\"transform-overrides-vars\">\n</style>\n</div></div>"
+    },
+    {
+      "order": 3,
+      "tag": "div",
+      "id": "block-yui_3_17_2_1_1740085995759_3802",
+      "classes": [
+        "sqs-block",
+        "website-component-block",
+        "sqs-block-website-component",
+        "sqs-block-video",
+        "video-block"
+      ],
+      "attrs": {
+        "class": [
+          "sqs-block",
+          "website-component-block",
+          "sqs-block-website-component",
+          "sqs-block-video",
+          "video-block"
+        ],
+        "data-block-css": "[\"https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/f4fab1b5-9724-4478-be19-b08d36e66cf2_549/website.components.video.styles.css\"]",
+        "data-block-scripts": "[\"https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/f4fab1b5-9724-4478-be19-b08d36e66cf2_549/4032.js\",\"https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/f4fab1b5-9724-4478-be19-b08d36e66cf2_549/website.components.video.visitor.js\"]",
+        "data-block-type": "1337",
+        "data-definition-name": "website.components.video",
+        "data-sqsp-block": "video",
+        "data-website-component-id": "yui_3_17_2_1_1740085995759_3802",
+        "id": "block-yui_3_17_2_1_1740085995759_3802"
+      },
+      "text": "Purple Bitcoin: Next Level Crypto Content Creation",
+      "descendants": [
+        {
+          "tag": "div",
+          "attrs": {
+            "class": [
+              "sqs-block-content"
+            ]
+          },
+          "text": ""
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": [
+              "intrinsic"
+            ],
+            "style": "max-width:100%"
+          },
+          "text": ""
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": [
+              "embed-block-wrapper"
+            ]
+          },
+          "text": ""
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": [
+              "sqs-native-video"
+            ],
+            "data-config-settings": "{\"muted\":true,\"autoPlay\":true,\"loop\":true,\"controls\":\"full\"}",
+            "data-config-video": "{\"systemDataSourceType\":\"mp4\",\"alexandriaUrl\":\"https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d907d5cb-dad0-42e4-a636-6c624eacb454/{variant}\",\"durationSeconds\":108.533333,\"aspectRatio\":1.7777777777777777,\"id\":\"67b79e2de7e33d6e60d5f0c4\",\"systemDataVariants\":\"1920:1080,640:360\",\"alexandriaLibraryId\":\"634f4ecdfb9bb005906ea9c6\",\"audioCodec\":\"aac\",\"systemDataId\":\"d907d5cb-dad0-42e4-a636-6c624eacb454\",\"videoCodec\":\"h264\"}"
+          },
+          "text": ""
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": [
+              "native-video-player",
+              "native-video-player--has-aspect-ratio"
+            ],
+            "style": "aspect-ratio:16/9;"
+          },
+          "text": ""
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": [
+              "video-caption-wrapper"
+            ]
+          },
+          "text": ""
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": [
+              "video-caption"
+            ]
+          },
+          "text": ""
+        },
+        {
+          "tag": "p",
+          "attrs": {
+            "data-rte-preserve-empty": "true",
+            "style": "white-space:pre-wrap;"
+          },
+          "text": ""
+        },
+        {
+          "tag": "style",
+          "attrs": {
+            "class": [
+              "transform-overrides-vars"
+            ]
+          },
+          "text": ""
+        }
+      ],
+      "urls_in_raw_html": [
+        "https://definition",
+        "https://video."
+      ],
+      "raw_html": "<div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-video video-block\" data-block-css='[\"https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/f4fab1b5-9724-4478-be19-b08d36e66cf2_549/website.components.video.styles.css\"]' data-block-scripts='[\"https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/f4fab1b5-9724-4478-be19-b08d36e66cf2_549/4032.js\",\"https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/f4fab1b5-9724-4478-be19-b08d36e66cf2_549/website.components.video.visitor.js\"]' data-block-type=\"1337\" data-definition-name=\"website.components.video\" data-sqsp-block=\"video\" data-website-component-id=\"yui_3_17_2_1_1740085995759_3802\" id=\"block-yui_3_17_2_1_1740085995759_3802\"><div class=\"sqs-block-content\">\n<div class=\"intrinsic\" style=\"max-width:100%\">\n<div class=\"embed-block-wrapper\">\n<div class=\"sqs-native-video\" data-config-settings='{\"muted\":true,\"autoPlay\":true,\"loop\":true,\"controls\":\"full\"}' data-config-video='{\"systemDataSourceType\":\"mp4\",\"alexandriaUrl\":\"https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d907d5cb-dad0-42e4-a636-6c624eacb454/{variant}\",\"durationSeconds\":108.533333,\"aspectRatio\":1.7777777777777777,\"id\":\"67b79e2de7e33d6e60d5f0c4\",\"systemDataVariants\":\"1920:1080,640:360\",\"alexandriaLibraryId\":\"634f4ecdfb9bb005906ea9c6\",\"audioCodec\":\"aac\",\"systemDataId\":\"d907d5cb-dad0-42e4-a636-6c624eacb454\",\"videoCodec\":\"h264\"}'>\n<div class=\"native-video-player native-video-player--has-aspect-ratio\" style=\"aspect-ratio:16/9;\">\n</div>\n</div>\n</div>\n<div class=\"video-caption-wrapper\">\n<div class=\"video-caption\">\n<p data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\">Purple Bitcoin: Next Level Crypto Content Creation</p>\n</div>\n</div>\n</div>\n<style class=\"transform-overrides-vars\">\n</style>\n</div></div>"
+    },
+    {
+      "order": 4,
+      "tag": "div",
+      "id": "block-6c1c7098271080588535",
+      "classes": [
+        "sqs-block",
+        "website-component-block",
+        "sqs-block-website-component",
+        "sqs-block-video",
+        "video-block"
+      ],
+      "attrs": {
+        "class": [
+          "sqs-block",
+          "website-component-block",
+          "sqs-block-website-component",
+          "sqs-block-video",
+          "video-block"
+        ],
+        "data-block-css": "[\"https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/f4fab1b5-9724-4478-be19-b08d36e66cf2_549/website.components.video.styles.css\"]",
+        "data-block-scripts": "[\"https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/f4fab1b5-9724-4478-be19-b08d36e66cf2_549/4032.js\",\"https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/f4fab1b5-9724-4478-be19-b08d36e66cf2_549/website.components.video.visitor.js\"]",
+        "data-block-type": "1337",
+        "data-definition-name": "website.components.video",
+        "data-sqsp-block": "video",
+        "data-website-component-id": "6c1c7098271080588535",
+        "id": "block-6c1c7098271080588535"
+      },
+      "text": "GoStream: Stream Without Limits",
+      "descendants": [
+        {
+          "tag": "div",
+          "attrs": {
+            "class": [
+              "sqs-block-content"
+            ]
+          },
+          "text": ""
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": [
+              "intrinsic"
+            ],
+            "style": "max-width:100%"
+          },
+          "text": ""
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": [
+              "embed-block-wrapper"
+            ]
+          },
+          "text": ""
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": [
+              "sqs-native-video"
+            ],
+            "data-config-settings": "{\"muted\":true,\"autoPlay\":true,\"loop\":true,\"controls\":\"full\"}",
+            "data-config-video": "{\"systemDataSourceType\":\"mp4\",\"alexandriaUrl\":\"https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/98587308-b5ac-4587-a55a-640f770159b1/{variant}\",\"durationSeconds\":28.3,\"aspectRatio\":1.7777777777777777,\"id\":\"67b79f49a053d97e70050ce6\",\"systemDataVariants\":\"1920:1080,640:360\",\"alexandriaLibraryId\":\"634f4ecdfb9bb005906ea9c6\",\"audioCodec\":\"aac\",\"systemDataId\":\"98587308-b5ac-4587-a55a-640f770159b1\",\"videoCodec\":\"h264\"}"
+          },
+          "text": ""
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": [
+              "native-video-player",
+              "native-video-player--has-aspect-ratio"
+            ],
+            "style": "aspect-ratio:16/9;"
+          },
+          "text": ""
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": [
+              "video-caption-wrapper"
+            ]
+          },
+          "text": ""
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": [
+              "video-caption"
+            ]
+          },
+          "text": ""
+        },
+        {
+          "tag": "p",
+          "attrs": {
+            "data-rte-preserve-empty": "true",
+            "style": "white-space:pre-wrap;"
+          },
+          "text": ""
+        },
+        {
+          "tag": "style",
+          "attrs": {
+            "class": [
+              "transform-overrides-vars"
+            ]
+          },
+          "text": ""
+        }
+      ],
+      "urls_in_raw_html": [
+        "https://definition",
+        "https://video."
+      ],
+      "raw_html": "<div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-video video-block\" data-block-css='[\"https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/f4fab1b5-9724-4478-be19-b08d36e66cf2_549/website.components.video.styles.css\"]' data-block-scripts='[\"https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/f4fab1b5-9724-4478-be19-b08d36e66cf2_549/4032.js\",\"https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/f4fab1b5-9724-4478-be19-b08d36e66cf2_549/website.components.video.visitor.js\"]' data-block-type=\"1337\" data-definition-name=\"website.components.video\" data-sqsp-block=\"video\" data-website-component-id=\"6c1c7098271080588535\" id=\"block-6c1c7098271080588535\"><div class=\"sqs-block-content\">\n<div class=\"intrinsic\" style=\"max-width:100%\">\n<div class=\"embed-block-wrapper\">\n<div class=\"sqs-native-video\" data-config-settings='{\"muted\":true,\"autoPlay\":true,\"loop\":true,\"controls\":\"full\"}' data-config-video='{\"systemDataSourceType\":\"mp4\",\"alexandriaUrl\":\"https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/98587308-b5ac-4587-a55a-640f770159b1/{variant}\",\"durationSeconds\":28.3,\"aspectRatio\":1.7777777777777777,\"id\":\"67b79f49a053d97e70050ce6\",\"systemDataVariants\":\"1920:1080,640:360\",\"alexandriaLibraryId\":\"634f4ecdfb9bb005906ea9c6\",\"audioCodec\":\"aac\",\"systemDataId\":\"98587308-b5ac-4587-a55a-640f770159b1\",\"videoCodec\":\"h264\"}'>\n<div class=\"native-video-player native-video-player--has-aspect-ratio\" style=\"aspect-ratio:16/9;\">\n</div>\n</div>\n</div>\n<div class=\"video-caption-wrapper\">\n<div class=\"video-caption\">\n<p data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\">GoStream: Stream Without Limits</p>\n</div>\n</div>\n</div>\n<style class=\"transform-overrides-vars\">\n</style>\n</div></div>"
+    }
+  ]
+}

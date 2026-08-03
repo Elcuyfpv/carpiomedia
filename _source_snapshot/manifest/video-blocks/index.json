@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://www.carpiomedia.com/aerial-drone-gallery-nyc",
+    "file": "_source_snapshot/manifest/video-blocks/aerial-drone-gallery-nyc.json",
+    "video_blocks": 10
+  },
+  {
+    "url": "https://www.carpiomedia.com/aerial-drone-gallery-nyc",
+    "file": "_source_snapshot/manifest/video-blocks/gallery.json",
+    "video_blocks": 10
+  },
+  {
+    "url": "https://www.carpiomedia.com",
+    "file": "_source_snapshot/manifest/video-blocks/home.json",
+    "video_blocks": 3
+  },
+  {
+    "url": "https://www.carpiomedia.com",
+    "file": "_source_snapshot/manifest/video-blocks/root.json",
+    "video_blocks": 3
+  },
+  {
+    "url": "https://www.carpiomedia.com/services-nyc-media/commercialrealestatephotography",
+    "file": "_source_snapshot/manifest/video-blocks/services-nyc-media__commercialrealestatephotography.json",
+    "video_blocks": 2
+  },
+  {
+    "url": "https://www.carpiomedia.com/services-nyc-media/fpv",
+    "file": "_source_snapshot/manifest/video-blocks/services-nyc-media__fpv.json",
+    "video_blocks": 1
+  },
+  {
+    "url": "https://www.carpiomedia.com/services-nyc-media/professional-visual-content-creation",
+    "file": "_source_snapshot/manifest/video-blocks/services-nyc-media__professional-visual-content-creation.json",
+    "video_blocks": 4
+  },
+  {
+    "url": "https://www.carpiomedia.com/services-nyc-media/residentialrealestatephotography",
+    "file": "_source_snapshot/manifest/video-blocks/services-nyc-media__residentialrealestatephotography.json",
+    "video_blocks": 4
+  },
+  {
+    "url": "https://www.carpiomedia.com",
+    "file": "_source_snapshot/manifest/video-blocks/store-policies.json",
+    "video_blocks": 3
+  }
+]
