@@ -11,6 +11,7 @@ on:
       - 'tools/extract_video_blocks.py'
       - 'tools/resolve_native_videos.py'
       - 'tools/build_one_page_exact.py'
+      - 'tools/postprocess_exact_preview.py'
       - 'tools/visual_audit.mjs'
       - 'tools/make_contact_sheet.py'
 
@@ -51,7 +52,9 @@ jobs:
       - name: Build audited one-page preview
         id: exact_build
         continue-on-error: true
-        run: python tools/build_one_page_exact.py
+        run: |
+          python tools/build_one_page_exact.py
+          python tools/postprocess_exact_preview.py
 
       - name: Set up Node
         if: steps.exact_build.outcome == 'success'
