@@ -17,121 +17,14 @@
       "systemDataId": "43d5c9af-040e-43d4-927f-4cf487f1bba2",
       "videoCodec": "h264"
     },
-    "resolved_url": null,
-    "attempts": [
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/1920:1080",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/1920:1080",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/1920x1080",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/1920x1080",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/1920w",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/1920w",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/1920",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/1920",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/1920:1080.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/1920:1080.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/1920x1080.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/1920x1080.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/1920w.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/1920w.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/640:360",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/640:360",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/640x360",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/640x360",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/640w",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/640w",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/640",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/640",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/640:360.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/640:360.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/640x360.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/640x360.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/640w.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/640w.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/original",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/original",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/original.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/original.mp4",
-        "error": "HTTP Error 404: Not Found"
-      }
-    ]
+    "resolved_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/playlist.m3u8",
+    "verification": {
+      "ok": true,
+      "status": 200,
+      "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/playlist.m3u8",
+      "content_type": "application/x-mpegURL",
+      "sample": "#EXTM3U\n#EXT-X-VERSION:7\n\n#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID=\"audio\",LANGUAGE=\"und\",NAME=\"Undetermined\",AUTOSELECT=YES,DEFAULT=NO,URI=\"https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9"
+    }
   },
   {
     "page_url": "https://www.carpiomedia.com/aerial-drone-gallery-nyc",
@@ -151,121 +44,14 @@
       "systemDataId": "a6c091bc-50e1-48b4-a04a-3e6c0627a4b5",
       "videoCodec": "h264"
     },
-    "resolved_url": null,
-    "attempts": [
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a6c091bc-50e1-48b4-a04a-3e6c0627a4b5/1920:1080",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a6c091bc-50e1-48b4-a04a-3e6c0627a4b5/1920:1080",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a6c091bc-50e1-48b4-a04a-3e6c0627a4b5/1920x1080",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a6c091bc-50e1-48b4-a04a-3e6c0627a4b5/1920x1080",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a6c091bc-50e1-48b4-a04a-3e6c0627a4b5/1920w",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a6c091bc-50e1-48b4-a04a-3e6c0627a4b5/1920w",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a6c091bc-50e1-48b4-a04a-3e6c0627a4b5/1920",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a6c091bc-50e1-48b4-a04a-3e6c0627a4b5/1920",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a6c091bc-50e1-48b4-a04a-3e6c0627a4b5/1920:1080.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a6c091bc-50e1-48b4-a04a-3e6c0627a4b5/1920:1080.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a6c091bc-50e1-48b4-a04a-3e6c0627a4b5/1920x1080.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a6c091bc-50e1-48b4-a04a-3e6c0627a4b5/1920x1080.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a6c091bc-50e1-48b4-a04a-3e6c0627a4b5/1920w.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a6c091bc-50e1-48b4-a04a-3e6c0627a4b5/1920w.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a6c091bc-50e1-48b4-a04a-3e6c0627a4b5/640:360",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a6c091bc-50e1-48b4-a04a-3e6c0627a4b5/640:360",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a6c091bc-50e1-48b4-a04a-3e6c0627a4b5/640x360",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a6c091bc-50e1-48b4-a04a-3e6c0627a4b5/640x360",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a6c091bc-50e1-48b4-a04a-3e6c0627a4b5/640w",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a6c091bc-50e1-48b4-a04a-3e6c0627a4b5/640w",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a6c091bc-50e1-48b4-a04a-3e6c0627a4b5/640",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a6c091bc-50e1-48b4-a04a-3e6c0627a4b5/640",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a6c091bc-50e1-48b4-a04a-3e6c0627a4b5/640:360.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a6c091bc-50e1-48b4-a04a-3e6c0627a4b5/640:360.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a6c091bc-50e1-48b4-a04a-3e6c0627a4b5/640x360.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a6c091bc-50e1-48b4-a04a-3e6c0627a4b5/640x360.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a6c091bc-50e1-48b4-a04a-3e6c0627a4b5/640w.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a6c091bc-50e1-48b4-a04a-3e6c0627a4b5/640w.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a6c091bc-50e1-48b4-a04a-3e6c0627a4b5/original",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a6c091bc-50e1-48b4-a04a-3e6c0627a4b5/original",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a6c091bc-50e1-48b4-a04a-3e6c0627a4b5/original.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a6c091bc-50e1-48b4-a04a-3e6c0627a4b5/original.mp4",
-        "error": "HTTP Error 404: Not Found"
-      }
-    ]
+    "resolved_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a6c091bc-50e1-48b4-a04a-3e6c0627a4b5/playlist.m3u8",
+    "verification": {
+      "ok": true,
+      "status": 200,
+      "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a6c091bc-50e1-48b4-a04a-3e6c0627a4b5/playlist.m3u8",
+      "content_type": "application/x-mpegURL",
+      "sample": "#EXTM3U\n#EXT-X-VERSION:7\n\n#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID=\"audio\",LANGUAGE=\"und\",NAME=\"Undetermined\",AUTOSELECT=YES,DEFAULT=NO,URI=\"https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9"
+    }
   },
   {
     "page_url": "https://www.carpiomedia.com/aerial-drone-gallery-nyc",
@@ -285,121 +71,14 @@
       "systemDataId": "e2622605-60f6-429b-b65e-ae79977fdf9b",
       "videoCodec": "h264"
     },
-    "resolved_url": null,
-    "attempts": [
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e2622605-60f6-429b-b65e-ae79977fdf9b/1920:1080",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e2622605-60f6-429b-b65e-ae79977fdf9b/1920:1080",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e2622605-60f6-429b-b65e-ae79977fdf9b/1920x1080",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e2622605-60f6-429b-b65e-ae79977fdf9b/1920x1080",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e2622605-60f6-429b-b65e-ae79977fdf9b/1920w",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e2622605-60f6-429b-b65e-ae79977fdf9b/1920w",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e2622605-60f6-429b-b65e-ae79977fdf9b/1920",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e2622605-60f6-429b-b65e-ae79977fdf9b/1920",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e2622605-60f6-429b-b65e-ae79977fdf9b/1920:1080.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e2622605-60f6-429b-b65e-ae79977fdf9b/1920:1080.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e2622605-60f6-429b-b65e-ae79977fdf9b/1920x1080.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e2622605-60f6-429b-b65e-ae79977fdf9b/1920x1080.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e2622605-60f6-429b-b65e-ae79977fdf9b/1920w.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e2622605-60f6-429b-b65e-ae79977fdf9b/1920w.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e2622605-60f6-429b-b65e-ae79977fdf9b/640:360",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e2622605-60f6-429b-b65e-ae79977fdf9b/640:360",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e2622605-60f6-429b-b65e-ae79977fdf9b/640x360",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e2622605-60f6-429b-b65e-ae79977fdf9b/640x360",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e2622605-60f6-429b-b65e-ae79977fdf9b/640w",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e2622605-60f6-429b-b65e-ae79977fdf9b/640w",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e2622605-60f6-429b-b65e-ae79977fdf9b/640",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e2622605-60f6-429b-b65e-ae79977fdf9b/640",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e2622605-60f6-429b-b65e-ae79977fdf9b/640:360.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e2622605-60f6-429b-b65e-ae79977fdf9b/640:360.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e2622605-60f6-429b-b65e-ae79977fdf9b/640x360.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e2622605-60f6-429b-b65e-ae79977fdf9b/640x360.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e2622605-60f6-429b-b65e-ae79977fdf9b/640w.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e2622605-60f6-429b-b65e-ae79977fdf9b/640w.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e2622605-60f6-429b-b65e-ae79977fdf9b/original",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e2622605-60f6-429b-b65e-ae79977fdf9b/original",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e2622605-60f6-429b-b65e-ae79977fdf9b/original.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e2622605-60f6-429b-b65e-ae79977fdf9b/original.mp4",
-        "error": "HTTP Error 404: Not Found"
-      }
-    ]
+    "resolved_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e2622605-60f6-429b-b65e-ae79977fdf9b/playlist.m3u8",
+    "verification": {
+      "ok": true,
+      "status": 200,
+      "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e2622605-60f6-429b-b65e-ae79977fdf9b/playlist.m3u8",
+      "content_type": "application/x-mpegURL",
+      "sample": "#EXTM3U\n#EXT-X-VERSION:7\n\n#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID=\"audio\",LANGUAGE=\"und\",NAME=\"Undetermined\",AUTOSELECT=YES,DEFAULT=NO,URI=\"https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9"
+    }
   },
   {
     "page_url": "https://www.carpiomedia.com/aerial-drone-gallery-nyc",
@@ -419,121 +98,14 @@
       "systemDataId": "91d9af55-057b-47fa-a93d-bc81eb376eaa",
       "videoCodec": "h264"
     },
-    "resolved_url": null,
-    "attempts": [
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/91d9af55-057b-47fa-a93d-bc81eb376eaa/1920:1080",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/91d9af55-057b-47fa-a93d-bc81eb376eaa/1920:1080",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/91d9af55-057b-47fa-a93d-bc81eb376eaa/1920x1080",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/91d9af55-057b-47fa-a93d-bc81eb376eaa/1920x1080",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/91d9af55-057b-47fa-a93d-bc81eb376eaa/1920w",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/91d9af55-057b-47fa-a93d-bc81eb376eaa/1920w",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/91d9af55-057b-47fa-a93d-bc81eb376eaa/1920",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/91d9af55-057b-47fa-a93d-bc81eb376eaa/1920",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/91d9af55-057b-47fa-a93d-bc81eb376eaa/1920:1080.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/91d9af55-057b-47fa-a93d-bc81eb376eaa/1920:1080.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/91d9af55-057b-47fa-a93d-bc81eb376eaa/1920x1080.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/91d9af55-057b-47fa-a93d-bc81eb376eaa/1920x1080.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/91d9af55-057b-47fa-a93d-bc81eb376eaa/1920w.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/91d9af55-057b-47fa-a93d-bc81eb376eaa/1920w.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/91d9af55-057b-47fa-a93d-bc81eb376eaa/640:360",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/91d9af55-057b-47fa-a93d-bc81eb376eaa/640:360",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/91d9af55-057b-47fa-a93d-bc81eb376eaa/640x360",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/91d9af55-057b-47fa-a93d-bc81eb376eaa/640x360",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/91d9af55-057b-47fa-a93d-bc81eb376eaa/640w",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/91d9af55-057b-47fa-a93d-bc81eb376eaa/640w",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/91d9af55-057b-47fa-a93d-bc81eb376eaa/640",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/91d9af55-057b-47fa-a93d-bc81eb376eaa/640",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/91d9af55-057b-47fa-a93d-bc81eb376eaa/640:360.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/91d9af55-057b-47fa-a93d-bc81eb376eaa/640:360.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/91d9af55-057b-47fa-a93d-bc81eb376eaa/640x360.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/91d9af55-057b-47fa-a93d-bc81eb376eaa/640x360.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/91d9af55-057b-47fa-a93d-bc81eb376eaa/640w.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/91d9af55-057b-47fa-a93d-bc81eb376eaa/640w.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/91d9af55-057b-47fa-a93d-bc81eb376eaa/original",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/91d9af55-057b-47fa-a93d-bc81eb376eaa/original",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/91d9af55-057b-47fa-a93d-bc81eb376eaa/original.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/91d9af55-057b-47fa-a93d-bc81eb376eaa/original.mp4",
-        "error": "HTTP Error 404: Not Found"
-      }
-    ]
+    "resolved_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/91d9af55-057b-47fa-a93d-bc81eb376eaa/playlist.m3u8",
+    "verification": {
+      "ok": true,
+      "status": 200,
+      "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/91d9af55-057b-47fa-a93d-bc81eb376eaa/playlist.m3u8",
+      "content_type": "application/x-mpegURL",
+      "sample": "#EXTM3U\n#EXT-X-VERSION:7\n\n#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID=\"audio\",LANGUAGE=\"und\",NAME=\"Undetermined\",AUTOSELECT=YES,DEFAULT=NO,URI=\"https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9"
+    }
   },
   {
     "page_url": "https://www.carpiomedia.com/aerial-drone-gallery-nyc",
@@ -553,121 +125,14 @@
       "systemDataId": "b3da89b4-fee2-4dfd-9565-25bb90fa5917",
       "videoCodec": "h264"
     },
-    "resolved_url": null,
-    "attempts": [
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3da89b4-fee2-4dfd-9565-25bb90fa5917/1920:1080",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3da89b4-fee2-4dfd-9565-25bb90fa5917/1920:1080",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3da89b4-fee2-4dfd-9565-25bb90fa5917/1920x1080",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3da89b4-fee2-4dfd-9565-25bb90fa5917/1920x1080",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3da89b4-fee2-4dfd-9565-25bb90fa5917/1920w",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3da89b4-fee2-4dfd-9565-25bb90fa5917/1920w",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3da89b4-fee2-4dfd-9565-25bb90fa5917/1920",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3da89b4-fee2-4dfd-9565-25bb90fa5917/1920",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3da89b4-fee2-4dfd-9565-25bb90fa5917/1920:1080.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3da89b4-fee2-4dfd-9565-25bb90fa5917/1920:1080.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3da89b4-fee2-4dfd-9565-25bb90fa5917/1920x1080.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3da89b4-fee2-4dfd-9565-25bb90fa5917/1920x1080.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3da89b4-fee2-4dfd-9565-25bb90fa5917/1920w.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3da89b4-fee2-4dfd-9565-25bb90fa5917/1920w.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3da89b4-fee2-4dfd-9565-25bb90fa5917/640:360",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3da89b4-fee2-4dfd-9565-25bb90fa5917/640:360",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3da89b4-fee2-4dfd-9565-25bb90fa5917/640x360",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3da89b4-fee2-4dfd-9565-25bb90fa5917/640x360",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3da89b4-fee2-4dfd-9565-25bb90fa5917/640w",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3da89b4-fee2-4dfd-9565-25bb90fa5917/640w",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3da89b4-fee2-4dfd-9565-25bb90fa5917/640",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3da89b4-fee2-4dfd-9565-25bb90fa5917/640",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3da89b4-fee2-4dfd-9565-25bb90fa5917/640:360.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3da89b4-fee2-4dfd-9565-25bb90fa5917/640:360.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3da89b4-fee2-4dfd-9565-25bb90fa5917/640x360.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3da89b4-fee2-4dfd-9565-25bb90fa5917/640x360.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3da89b4-fee2-4dfd-9565-25bb90fa5917/640w.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3da89b4-fee2-4dfd-9565-25bb90fa5917/640w.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3da89b4-fee2-4dfd-9565-25bb90fa5917/original",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3da89b4-fee2-4dfd-9565-25bb90fa5917/original",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3da89b4-fee2-4dfd-9565-25bb90fa5917/original.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3da89b4-fee2-4dfd-9565-25bb90fa5917/original.mp4",
-        "error": "HTTP Error 404: Not Found"
-      }
-    ]
+    "resolved_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3da89b4-fee2-4dfd-9565-25bb90fa5917/playlist.m3u8",
+    "verification": {
+      "ok": true,
+      "status": 200,
+      "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3da89b4-fee2-4dfd-9565-25bb90fa5917/playlist.m3u8",
+      "content_type": "application/x-mpegURL",
+      "sample": "#EXTM3U\n#EXT-X-VERSION:7\n\n#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID=\"audio\",LANGUAGE=\"und\",NAME=\"Undetermined\",AUTOSELECT=YES,DEFAULT=NO,URI=\"https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9"
+    }
   },
   {
     "page_url": "https://www.carpiomedia.com/aerial-drone-gallery-nyc",
@@ -687,121 +152,14 @@
       "systemDataId": "b3bd86e3-866f-4e4b-a7e0-f7edfcaa375b",
       "videoCodec": "h264"
     },
-    "resolved_url": null,
-    "attempts": [
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3bd86e3-866f-4e4b-a7e0-f7edfcaa375b/1920:1080",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3bd86e3-866f-4e4b-a7e0-f7edfcaa375b/1920:1080",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3bd86e3-866f-4e4b-a7e0-f7edfcaa375b/1920x1080",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3bd86e3-866f-4e4b-a7e0-f7edfcaa375b/1920x1080",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3bd86e3-866f-4e4b-a7e0-f7edfcaa375b/1920w",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3bd86e3-866f-4e4b-a7e0-f7edfcaa375b/1920w",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3bd86e3-866f-4e4b-a7e0-f7edfcaa375b/1920",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3bd86e3-866f-4e4b-a7e0-f7edfcaa375b/1920",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3bd86e3-866f-4e4b-a7e0-f7edfcaa375b/1920:1080.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3bd86e3-866f-4e4b-a7e0-f7edfcaa375b/1920:1080.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3bd86e3-866f-4e4b-a7e0-f7edfcaa375b/1920x1080.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3bd86e3-866f-4e4b-a7e0-f7edfcaa375b/1920x1080.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3bd86e3-866f-4e4b-a7e0-f7edfcaa375b/1920w.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3bd86e3-866f-4e4b-a7e0-f7edfcaa375b/1920w.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3bd86e3-866f-4e4b-a7e0-f7edfcaa375b/640:360",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3bd86e3-866f-4e4b-a7e0-f7edfcaa375b/640:360",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3bd86e3-866f-4e4b-a7e0-f7edfcaa375b/640x360",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3bd86e3-866f-4e4b-a7e0-f7edfcaa375b/640x360",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3bd86e3-866f-4e4b-a7e0-f7edfcaa375b/640w",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3bd86e3-866f-4e4b-a7e0-f7edfcaa375b/640w",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3bd86e3-866f-4e4b-a7e0-f7edfcaa375b/640",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3bd86e3-866f-4e4b-a7e0-f7edfcaa375b/640",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3bd86e3-866f-4e4b-a7e0-f7edfcaa375b/640:360.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3bd86e3-866f-4e4b-a7e0-f7edfcaa375b/640:360.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3bd86e3-866f-4e4b-a7e0-f7edfcaa375b/640x360.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3bd86e3-866f-4e4b-a7e0-f7edfcaa375b/640x360.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3bd86e3-866f-4e4b-a7e0-f7edfcaa375b/640w.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3bd86e3-866f-4e4b-a7e0-f7edfcaa375b/640w.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3bd86e3-866f-4e4b-a7e0-f7edfcaa375b/original",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3bd86e3-866f-4e4b-a7e0-f7edfcaa375b/original",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3bd86e3-866f-4e4b-a7e0-f7edfcaa375b/original.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3bd86e3-866f-4e4b-a7e0-f7edfcaa375b/original.mp4",
-        "error": "HTTP Error 404: Not Found"
-      }
-    ]
+    "resolved_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3bd86e3-866f-4e4b-a7e0-f7edfcaa375b/playlist.m3u8",
+    "verification": {
+      "ok": true,
+      "status": 200,
+      "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/b3bd86e3-866f-4e4b-a7e0-f7edfcaa375b/playlist.m3u8",
+      "content_type": "application/x-mpegURL",
+      "sample": "#EXTM3U\n#EXT-X-VERSION:7\n\n#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID=\"audio\",LANGUAGE=\"und\",NAME=\"Undetermined\",AUTOSELECT=YES,DEFAULT=NO,URI=\"https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9"
+    }
   },
   {
     "page_url": "https://www.carpiomedia.com/aerial-drone-gallery-nyc",
@@ -821,121 +179,14 @@
       "systemDataId": "4034102b-431e-42e0-b560-bd80a47f0506",
       "videoCodec": "h264"
     },
-    "resolved_url": null,
-    "attempts": [
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4034102b-431e-42e0-b560-bd80a47f0506/1920:1080",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4034102b-431e-42e0-b560-bd80a47f0506/1920:1080",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4034102b-431e-42e0-b560-bd80a47f0506/1920x1080",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4034102b-431e-42e0-b560-bd80a47f0506/1920x1080",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4034102b-431e-42e0-b560-bd80a47f0506/1920w",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4034102b-431e-42e0-b560-bd80a47f0506/1920w",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4034102b-431e-42e0-b560-bd80a47f0506/1920",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4034102b-431e-42e0-b560-bd80a47f0506/1920",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4034102b-431e-42e0-b560-bd80a47f0506/1920:1080.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4034102b-431e-42e0-b560-bd80a47f0506/1920:1080.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4034102b-431e-42e0-b560-bd80a47f0506/1920x1080.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4034102b-431e-42e0-b560-bd80a47f0506/1920x1080.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4034102b-431e-42e0-b560-bd80a47f0506/1920w.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4034102b-431e-42e0-b560-bd80a47f0506/1920w.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4034102b-431e-42e0-b560-bd80a47f0506/640:360",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4034102b-431e-42e0-b560-bd80a47f0506/640:360",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4034102b-431e-42e0-b560-bd80a47f0506/640x360",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4034102b-431e-42e0-b560-bd80a47f0506/640x360",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4034102b-431e-42e0-b560-bd80a47f0506/640w",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4034102b-431e-42e0-b560-bd80a47f0506/640w",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4034102b-431e-42e0-b560-bd80a47f0506/640",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4034102b-431e-42e0-b560-bd80a47f0506/640",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4034102b-431e-42e0-b560-bd80a47f0506/640:360.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4034102b-431e-42e0-b560-bd80a47f0506/640:360.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4034102b-431e-42e0-b560-bd80a47f0506/640x360.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4034102b-431e-42e0-b560-bd80a47f0506/640x360.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4034102b-431e-42e0-b560-bd80a47f0506/640w.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4034102b-431e-42e0-b560-bd80a47f0506/640w.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4034102b-431e-42e0-b560-bd80a47f0506/original",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4034102b-431e-42e0-b560-bd80a47f0506/original",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4034102b-431e-42e0-b560-bd80a47f0506/original.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4034102b-431e-42e0-b560-bd80a47f0506/original.mp4",
-        "error": "HTTP Error 404: Not Found"
-      }
-    ]
+    "resolved_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4034102b-431e-42e0-b560-bd80a47f0506/playlist.m3u8",
+    "verification": {
+      "ok": true,
+      "status": 200,
+      "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/4034102b-431e-42e0-b560-bd80a47f0506/playlist.m3u8",
+      "content_type": "application/x-mpegURL",
+      "sample": "#EXTM3U\n#EXT-X-VERSION:7\n\n#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID=\"audio\",LANGUAGE=\"und\",NAME=\"Undetermined\",AUTOSELECT=YES,DEFAULT=NO,URI=\"https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9"
+    }
   },
   {
     "page_url": "https://www.carpiomedia.com/aerial-drone-gallery-nyc",
@@ -955,121 +206,14 @@
       "systemDataId": "317a8d57-5115-400b-bf32-03b82a8e2554",
       "videoCodec": "h264"
     },
-    "resolved_url": null,
-    "attempts": [
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/317a8d57-5115-400b-bf32-03b82a8e2554/1920:1080",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/317a8d57-5115-400b-bf32-03b82a8e2554/1920:1080",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/317a8d57-5115-400b-bf32-03b82a8e2554/1920x1080",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/317a8d57-5115-400b-bf32-03b82a8e2554/1920x1080",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/317a8d57-5115-400b-bf32-03b82a8e2554/1920w",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/317a8d57-5115-400b-bf32-03b82a8e2554/1920w",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/317a8d57-5115-400b-bf32-03b82a8e2554/1920",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/317a8d57-5115-400b-bf32-03b82a8e2554/1920",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/317a8d57-5115-400b-bf32-03b82a8e2554/1920:1080.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/317a8d57-5115-400b-bf32-03b82a8e2554/1920:1080.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/317a8d57-5115-400b-bf32-03b82a8e2554/1920x1080.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/317a8d57-5115-400b-bf32-03b82a8e2554/1920x1080.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/317a8d57-5115-400b-bf32-03b82a8e2554/1920w.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/317a8d57-5115-400b-bf32-03b82a8e2554/1920w.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/317a8d57-5115-400b-bf32-03b82a8e2554/640:360",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/317a8d57-5115-400b-bf32-03b82a8e2554/640:360",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/317a8d57-5115-400b-bf32-03b82a8e2554/640x360",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/317a8d57-5115-400b-bf32-03b82a8e2554/640x360",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/317a8d57-5115-400b-bf32-03b82a8e2554/640w",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/317a8d57-5115-400b-bf32-03b82a8e2554/640w",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/317a8d57-5115-400b-bf32-03b82a8e2554/640",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/317a8d57-5115-400b-bf32-03b82a8e2554/640",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/317a8d57-5115-400b-bf32-03b82a8e2554/640:360.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/317a8d57-5115-400b-bf32-03b82a8e2554/640:360.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/317a8d57-5115-400b-bf32-03b82a8e2554/640x360.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/317a8d57-5115-400b-bf32-03b82a8e2554/640x360.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/317a8d57-5115-400b-bf32-03b82a8e2554/640w.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/317a8d57-5115-400b-bf32-03b82a8e2554/640w.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/317a8d57-5115-400b-bf32-03b82a8e2554/original",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/317a8d57-5115-400b-bf32-03b82a8e2554/original",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/317a8d57-5115-400b-bf32-03b82a8e2554/original.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/317a8d57-5115-400b-bf32-03b82a8e2554/original.mp4",
-        "error": "HTTP Error 404: Not Found"
-      }
-    ]
+    "resolved_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/317a8d57-5115-400b-bf32-03b82a8e2554/playlist.m3u8",
+    "verification": {
+      "ok": true,
+      "status": 200,
+      "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/317a8d57-5115-400b-bf32-03b82a8e2554/playlist.m3u8",
+      "content_type": "application/x-mpegURL",
+      "sample": "#EXTM3U\n#EXT-X-VERSION:7\n\n#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID=\"audio\",LANGUAGE=\"und\",NAME=\"Undetermined\",AUTOSELECT=YES,DEFAULT=NO,URI=\"https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9"
+    }
   },
   {
     "page_url": "https://www.carpiomedia.com/aerial-drone-gallery-nyc",
@@ -1089,121 +233,14 @@
       "systemDataId": "5332ba40-218e-464b-9ee8-984ef2fb6433",
       "videoCodec": "h264"
     },
-    "resolved_url": null,
-    "attempts": [
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5332ba40-218e-464b-9ee8-984ef2fb6433/1920:1080",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5332ba40-218e-464b-9ee8-984ef2fb6433/1920:1080",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5332ba40-218e-464b-9ee8-984ef2fb6433/1920x1080",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5332ba40-218e-464b-9ee8-984ef2fb6433/1920x1080",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5332ba40-218e-464b-9ee8-984ef2fb6433/1920w",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5332ba40-218e-464b-9ee8-984ef2fb6433/1920w",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5332ba40-218e-464b-9ee8-984ef2fb6433/1920",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5332ba40-218e-464b-9ee8-984ef2fb6433/1920",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5332ba40-218e-464b-9ee8-984ef2fb6433/1920:1080.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5332ba40-218e-464b-9ee8-984ef2fb6433/1920:1080.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5332ba40-218e-464b-9ee8-984ef2fb6433/1920x1080.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5332ba40-218e-464b-9ee8-984ef2fb6433/1920x1080.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5332ba40-218e-464b-9ee8-984ef2fb6433/1920w.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5332ba40-218e-464b-9ee8-984ef2fb6433/1920w.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5332ba40-218e-464b-9ee8-984ef2fb6433/640:360",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5332ba40-218e-464b-9ee8-984ef2fb6433/640:360",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5332ba40-218e-464b-9ee8-984ef2fb6433/640x360",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5332ba40-218e-464b-9ee8-984ef2fb6433/640x360",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5332ba40-218e-464b-9ee8-984ef2fb6433/640w",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5332ba40-218e-464b-9ee8-984ef2fb6433/640w",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5332ba40-218e-464b-9ee8-984ef2fb6433/640",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5332ba40-218e-464b-9ee8-984ef2fb6433/640",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5332ba40-218e-464b-9ee8-984ef2fb6433/640:360.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5332ba40-218e-464b-9ee8-984ef2fb6433/640:360.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5332ba40-218e-464b-9ee8-984ef2fb6433/640x360.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5332ba40-218e-464b-9ee8-984ef2fb6433/640x360.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5332ba40-218e-464b-9ee8-984ef2fb6433/640w.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5332ba40-218e-464b-9ee8-984ef2fb6433/640w.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5332ba40-218e-464b-9ee8-984ef2fb6433/original",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5332ba40-218e-464b-9ee8-984ef2fb6433/original",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5332ba40-218e-464b-9ee8-984ef2fb6433/original.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5332ba40-218e-464b-9ee8-984ef2fb6433/original.mp4",
-        "error": "HTTP Error 404: Not Found"
-      }
-    ]
+    "resolved_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5332ba40-218e-464b-9ee8-984ef2fb6433/playlist.m3u8",
+    "verification": {
+      "ok": true,
+      "status": 200,
+      "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5332ba40-218e-464b-9ee8-984ef2fb6433/playlist.m3u8",
+      "content_type": "application/x-mpegURL",
+      "sample": "#EXTM3U\n#EXT-X-VERSION:7\n\n#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID=\"audio\",LANGUAGE=\"und\",NAME=\"Undetermined\",AUTOSELECT=YES,DEFAULT=NO,URI=\"https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9"
+    }
   },
   {
     "page_url": "https://www.carpiomedia.com/aerial-drone-gallery-nyc",
@@ -1223,121 +260,14 @@
       "systemDataId": "67c7a4e5-dac5-419b-ac96-a1013dfe63d5",
       "videoCodec": "h264"
     },
-    "resolved_url": null,
-    "attempts": [
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/67c7a4e5-dac5-419b-ac96-a1013dfe63d5/1920:1080",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/67c7a4e5-dac5-419b-ac96-a1013dfe63d5/1920:1080",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/67c7a4e5-dac5-419b-ac96-a1013dfe63d5/1920x1080",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/67c7a4e5-dac5-419b-ac96-a1013dfe63d5/1920x1080",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/67c7a4e5-dac5-419b-ac96-a1013dfe63d5/1920w",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/67c7a4e5-dac5-419b-ac96-a1013dfe63d5/1920w",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/67c7a4e5-dac5-419b-ac96-a1013dfe63d5/1920",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/67c7a4e5-dac5-419b-ac96-a1013dfe63d5/1920",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/67c7a4e5-dac5-419b-ac96-a1013dfe63d5/1920:1080.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/67c7a4e5-dac5-419b-ac96-a1013dfe63d5/1920:1080.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/67c7a4e5-dac5-419b-ac96-a1013dfe63d5/1920x1080.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/67c7a4e5-dac5-419b-ac96-a1013dfe63d5/1920x1080.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/67c7a4e5-dac5-419b-ac96-a1013dfe63d5/1920w.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/67c7a4e5-dac5-419b-ac96-a1013dfe63d5/1920w.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/67c7a4e5-dac5-419b-ac96-a1013dfe63d5/640:360",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/67c7a4e5-dac5-419b-ac96-a1013dfe63d5/640:360",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/67c7a4e5-dac5-419b-ac96-a1013dfe63d5/640x360",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/67c7a4e5-dac5-419b-ac96-a1013dfe63d5/640x360",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/67c7a4e5-dac5-419b-ac96-a1013dfe63d5/640w",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/67c7a4e5-dac5-419b-ac96-a1013dfe63d5/640w",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/67c7a4e5-dac5-419b-ac96-a1013dfe63d5/640",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/67c7a4e5-dac5-419b-ac96-a1013dfe63d5/640",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/67c7a4e5-dac5-419b-ac96-a1013dfe63d5/640:360.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/67c7a4e5-dac5-419b-ac96-a1013dfe63d5/640:360.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/67c7a4e5-dac5-419b-ac96-a1013dfe63d5/640x360.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/67c7a4e5-dac5-419b-ac96-a1013dfe63d5/640x360.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/67c7a4e5-dac5-419b-ac96-a1013dfe63d5/640w.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/67c7a4e5-dac5-419b-ac96-a1013dfe63d5/640w.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/67c7a4e5-dac5-419b-ac96-a1013dfe63d5/original",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/67c7a4e5-dac5-419b-ac96-a1013dfe63d5/original",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/67c7a4e5-dac5-419b-ac96-a1013dfe63d5/original.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/67c7a4e5-dac5-419b-ac96-a1013dfe63d5/original.mp4",
-        "error": "HTTP Error 404: Not Found"
-      }
-    ]
+    "resolved_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/67c7a4e5-dac5-419b-ac96-a1013dfe63d5/playlist.m3u8",
+    "verification": {
+      "ok": true,
+      "status": 200,
+      "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/67c7a4e5-dac5-419b-ac96-a1013dfe63d5/playlist.m3u8",
+      "content_type": "application/x-mpegURL",
+      "sample": "#EXTM3U\n#EXT-X-VERSION:7\n\n#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID=\"audio\",LANGUAGE=\"und\",NAME=\"Undetermined\",AUTOSELECT=YES,DEFAULT=NO,URI=\"https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9"
+    }
   },
   {
     "page_url": "https://www.carpiomedia.com",
@@ -1357,121 +287,14 @@
       "systemDataId": "114c39dc-93c8-403e-b133-d664ecb459f7",
       "videoCodec": "h264"
     },
-    "resolved_url": null,
-    "attempts": [
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/114c39dc-93c8-403e-b133-d664ecb459f7/1920:1080",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/114c39dc-93c8-403e-b133-d664ecb459f7/1920:1080",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/114c39dc-93c8-403e-b133-d664ecb459f7/1920x1080",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/114c39dc-93c8-403e-b133-d664ecb459f7/1920x1080",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/114c39dc-93c8-403e-b133-d664ecb459f7/1920w",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/114c39dc-93c8-403e-b133-d664ecb459f7/1920w",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/114c39dc-93c8-403e-b133-d664ecb459f7/1920",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/114c39dc-93c8-403e-b133-d664ecb459f7/1920",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/114c39dc-93c8-403e-b133-d664ecb459f7/1920:1080.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/114c39dc-93c8-403e-b133-d664ecb459f7/1920:1080.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/114c39dc-93c8-403e-b133-d664ecb459f7/1920x1080.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/114c39dc-93c8-403e-b133-d664ecb459f7/1920x1080.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/114c39dc-93c8-403e-b133-d664ecb459f7/1920w.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/114c39dc-93c8-403e-b133-d664ecb459f7/1920w.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/114c39dc-93c8-403e-b133-d664ecb459f7/640:360",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/114c39dc-93c8-403e-b133-d664ecb459f7/640:360",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/114c39dc-93c8-403e-b133-d664ecb459f7/640x360",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/114c39dc-93c8-403e-b133-d664ecb459f7/640x360",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/114c39dc-93c8-403e-b133-d664ecb459f7/640w",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/114c39dc-93c8-403e-b133-d664ecb459f7/640w",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/114c39dc-93c8-403e-b133-d664ecb459f7/640",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/114c39dc-93c8-403e-b133-d664ecb459f7/640",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/114c39dc-93c8-403e-b133-d664ecb459f7/640:360.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/114c39dc-93c8-403e-b133-d664ecb459f7/640:360.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/114c39dc-93c8-403e-b133-d664ecb459f7/640x360.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/114c39dc-93c8-403e-b133-d664ecb459f7/640x360.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/114c39dc-93c8-403e-b133-d664ecb459f7/640w.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/114c39dc-93c8-403e-b133-d664ecb459f7/640w.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/114c39dc-93c8-403e-b133-d664ecb459f7/original",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/114c39dc-93c8-403e-b133-d664ecb459f7/original",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/114c39dc-93c8-403e-b133-d664ecb459f7/original.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/114c39dc-93c8-403e-b133-d664ecb459f7/original.mp4",
-        "error": "HTTP Error 404: Not Found"
-      }
-    ]
+    "resolved_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/114c39dc-93c8-403e-b133-d664ecb459f7/playlist.m3u8",
+    "verification": {
+      "ok": true,
+      "status": 200,
+      "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/114c39dc-93c8-403e-b133-d664ecb459f7/playlist.m3u8",
+      "content_type": "application/x-mpegURL",
+      "sample": "#EXTM3U\n#EXT-X-VERSION:7\n\n#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID=\"audio\",LANGUAGE=\"und\",NAME=\"Undetermined\",AUTOSELECT=YES,DEFAULT=NO,URI=\"https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9"
+    }
   },
   {
     "page_url": "https://www.carpiomedia.com",
@@ -1491,121 +314,14 @@
       "systemDataId": "a8ccdbf9-0c8e-48fa-a13c-26fc28a74681",
       "videoCodec": "h264"
     },
-    "resolved_url": null,
-    "attempts": [
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/1920:1080",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/1920:1080",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/1920x1080",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/1920x1080",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/1920w",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/1920w",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/1920",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/1920",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/1920:1080.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/1920:1080.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/1920x1080.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/1920x1080.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/1920w.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/1920w.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/640:360",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/640:360",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/640x360",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/640x360",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/640w",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/640w",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/640",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/640",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/640:360.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/640:360.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/640x360.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/640x360.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/640w.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/640w.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/original",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/original",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/original.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/original.mp4",
-        "error": "HTTP Error 404: Not Found"
-      }
-    ]
+    "resolved_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/playlist.m3u8",
+    "verification": {
+      "ok": true,
+      "status": 200,
+      "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/playlist.m3u8",
+      "content_type": "application/x-mpegURL",
+      "sample": "#EXTM3U\n#EXT-X-VERSION:7\n\n#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID=\"audio\",LANGUAGE=\"und\",NAME=\"Undetermined\",AUTOSELECT=YES,DEFAULT=NO,URI=\"https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9"
+    }
   },
   {
     "page_url": "https://www.carpiomedia.com",
@@ -1625,121 +341,14 @@
       "systemDataId": "605c740a-3f83-4add-96e9-58a10b67933a",
       "videoCodec": "h264"
     },
-    "resolved_url": null,
-    "attempts": [
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/605c740a-3f83-4add-96e9-58a10b67933a/1920:1080",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/605c740a-3f83-4add-96e9-58a10b67933a/1920:1080",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/605c740a-3f83-4add-96e9-58a10b67933a/1920x1080",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/605c740a-3f83-4add-96e9-58a10b67933a/1920x1080",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/605c740a-3f83-4add-96e9-58a10b67933a/1920w",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/605c740a-3f83-4add-96e9-58a10b67933a/1920w",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/605c740a-3f83-4add-96e9-58a10b67933a/1920",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/605c740a-3f83-4add-96e9-58a10b67933a/1920",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/605c740a-3f83-4add-96e9-58a10b67933a/1920:1080.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/605c740a-3f83-4add-96e9-58a10b67933a/1920:1080.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/605c740a-3f83-4add-96e9-58a10b67933a/1920x1080.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/605c740a-3f83-4add-96e9-58a10b67933a/1920x1080.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/605c740a-3f83-4add-96e9-58a10b67933a/1920w.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/605c740a-3f83-4add-96e9-58a10b67933a/1920w.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/605c740a-3f83-4add-96e9-58a10b67933a/640:360",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/605c740a-3f83-4add-96e9-58a10b67933a/640:360",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/605c740a-3f83-4add-96e9-58a10b67933a/640x360",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/605c740a-3f83-4add-96e9-58a10b67933a/640x360",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/605c740a-3f83-4add-96e9-58a10b67933a/640w",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/605c740a-3f83-4add-96e9-58a10b67933a/640w",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/605c740a-3f83-4add-96e9-58a10b67933a/640",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/605c740a-3f83-4add-96e9-58a10b67933a/640",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/605c740a-3f83-4add-96e9-58a10b67933a/640:360.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/605c740a-3f83-4add-96e9-58a10b67933a/640:360.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/605c740a-3f83-4add-96e9-58a10b67933a/640x360.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/605c740a-3f83-4add-96e9-58a10b67933a/640x360.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/605c740a-3f83-4add-96e9-58a10b67933a/640w.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/605c740a-3f83-4add-96e9-58a10b67933a/640w.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/605c740a-3f83-4add-96e9-58a10b67933a/original",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/605c740a-3f83-4add-96e9-58a10b67933a/original",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/605c740a-3f83-4add-96e9-58a10b67933a/original.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/605c740a-3f83-4add-96e9-58a10b67933a/original.mp4",
-        "error": "HTTP Error 404: Not Found"
-      }
-    ]
+    "resolved_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/605c740a-3f83-4add-96e9-58a10b67933a/playlist.m3u8",
+    "verification": {
+      "ok": true,
+      "status": 200,
+      "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/605c740a-3f83-4add-96e9-58a10b67933a/playlist.m3u8",
+      "content_type": "application/x-mpegURL",
+      "sample": "#EXTM3U\n#EXT-X-VERSION:7\n\n#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID=\"audio\",LANGUAGE=\"und\",NAME=\"Undetermined\",AUTOSELECT=YES,DEFAULT=NO,URI=\"https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9"
+    }
   },
   {
     "page_url": "https://www.carpiomedia.com/services-nyc-media/commercialrealestatephotography",
@@ -1759,121 +368,14 @@
       "systemDataId": "e85927df-c358-41d9-bf21-4f5a5cdbf9ca",
       "videoCodec": "h264"
     },
-    "resolved_url": null,
-    "attempts": [
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e85927df-c358-41d9-bf21-4f5a5cdbf9ca/1920:1080",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e85927df-c358-41d9-bf21-4f5a5cdbf9ca/1920:1080",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e85927df-c358-41d9-bf21-4f5a5cdbf9ca/1920x1080",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e85927df-c358-41d9-bf21-4f5a5cdbf9ca/1920x1080",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e85927df-c358-41d9-bf21-4f5a5cdbf9ca/1920w",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e85927df-c358-41d9-bf21-4f5a5cdbf9ca/1920w",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e85927df-c358-41d9-bf21-4f5a5cdbf9ca/1920",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e85927df-c358-41d9-bf21-4f5a5cdbf9ca/1920",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e85927df-c358-41d9-bf21-4f5a5cdbf9ca/1920:1080.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e85927df-c358-41d9-bf21-4f5a5cdbf9ca/1920:1080.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e85927df-c358-41d9-bf21-4f5a5cdbf9ca/1920x1080.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e85927df-c358-41d9-bf21-4f5a5cdbf9ca/1920x1080.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e85927df-c358-41d9-bf21-4f5a5cdbf9ca/1920w.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e85927df-c358-41d9-bf21-4f5a5cdbf9ca/1920w.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e85927df-c358-41d9-bf21-4f5a5cdbf9ca/640:360",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e85927df-c358-41d9-bf21-4f5a5cdbf9ca/640:360",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e85927df-c358-41d9-bf21-4f5a5cdbf9ca/640x360",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e85927df-c358-41d9-bf21-4f5a5cdbf9ca/640x360",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e85927df-c358-41d9-bf21-4f5a5cdbf9ca/640w",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e85927df-c358-41d9-bf21-4f5a5cdbf9ca/640w",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e85927df-c358-41d9-bf21-4f5a5cdbf9ca/640",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e85927df-c358-41d9-bf21-4f5a5cdbf9ca/640",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e85927df-c358-41d9-bf21-4f5a5cdbf9ca/640:360.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e85927df-c358-41d9-bf21-4f5a5cdbf9ca/640:360.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e85927df-c358-41d9-bf21-4f5a5cdbf9ca/640x360.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e85927df-c358-41d9-bf21-4f5a5cdbf9ca/640x360.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e85927df-c358-41d9-bf21-4f5a5cdbf9ca/640w.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e85927df-c358-41d9-bf21-4f5a5cdbf9ca/640w.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e85927df-c358-41d9-bf21-4f5a5cdbf9ca/original",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e85927df-c358-41d9-bf21-4f5a5cdbf9ca/original",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e85927df-c358-41d9-bf21-4f5a5cdbf9ca/original.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e85927df-c358-41d9-bf21-4f5a5cdbf9ca/original.mp4",
-        "error": "HTTP Error 404: Not Found"
-      }
-    ]
+    "resolved_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e85927df-c358-41d9-bf21-4f5a5cdbf9ca/playlist.m3u8",
+    "verification": {
+      "ok": true,
+      "status": 200,
+      "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/e85927df-c358-41d9-bf21-4f5a5cdbf9ca/playlist.m3u8",
+      "content_type": "application/x-mpegURL",
+      "sample": "#EXTM3U\n#EXT-X-VERSION:7\n\n#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID=\"audio\",LANGUAGE=\"und\",NAME=\"Undetermined\",AUTOSELECT=YES,DEFAULT=NO,URI=\"https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9"
+    }
   },
   {
     "page_url": "https://www.carpiomedia.com/services-nyc-media/commercialrealestatephotography",
@@ -1892,121 +394,14 @@
       "systemDataId": "5855200a-cd96-4694-b03e-9e920cdadea3",
       "videoCodec": "h264"
     },
-    "resolved_url": null,
-    "attempts": [
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5855200a-cd96-4694-b03e-9e920cdadea3/1920:1080",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5855200a-cd96-4694-b03e-9e920cdadea3/1920:1080",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5855200a-cd96-4694-b03e-9e920cdadea3/1920x1080",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5855200a-cd96-4694-b03e-9e920cdadea3/1920x1080",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5855200a-cd96-4694-b03e-9e920cdadea3/1920w",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5855200a-cd96-4694-b03e-9e920cdadea3/1920w",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5855200a-cd96-4694-b03e-9e920cdadea3/1920",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5855200a-cd96-4694-b03e-9e920cdadea3/1920",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5855200a-cd96-4694-b03e-9e920cdadea3/1920:1080.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5855200a-cd96-4694-b03e-9e920cdadea3/1920:1080.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5855200a-cd96-4694-b03e-9e920cdadea3/1920x1080.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5855200a-cd96-4694-b03e-9e920cdadea3/1920x1080.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5855200a-cd96-4694-b03e-9e920cdadea3/1920w.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5855200a-cd96-4694-b03e-9e920cdadea3/1920w.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5855200a-cd96-4694-b03e-9e920cdadea3/640:360",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5855200a-cd96-4694-b03e-9e920cdadea3/640:360",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5855200a-cd96-4694-b03e-9e920cdadea3/640x360",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5855200a-cd96-4694-b03e-9e920cdadea3/640x360",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5855200a-cd96-4694-b03e-9e920cdadea3/640w",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5855200a-cd96-4694-b03e-9e920cdadea3/640w",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5855200a-cd96-4694-b03e-9e920cdadea3/640",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5855200a-cd96-4694-b03e-9e920cdadea3/640",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5855200a-cd96-4694-b03e-9e920cdadea3/640:360.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5855200a-cd96-4694-b03e-9e920cdadea3/640:360.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5855200a-cd96-4694-b03e-9e920cdadea3/640x360.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5855200a-cd96-4694-b03e-9e920cdadea3/640x360.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5855200a-cd96-4694-b03e-9e920cdadea3/640w.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5855200a-cd96-4694-b03e-9e920cdadea3/640w.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5855200a-cd96-4694-b03e-9e920cdadea3/original",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5855200a-cd96-4694-b03e-9e920cdadea3/original",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5855200a-cd96-4694-b03e-9e920cdadea3/original.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5855200a-cd96-4694-b03e-9e920cdadea3/original.mp4",
-        "error": "HTTP Error 404: Not Found"
-      }
-    ]
+    "resolved_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5855200a-cd96-4694-b03e-9e920cdadea3/playlist.m3u8",
+    "verification": {
+      "ok": true,
+      "status": 200,
+      "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5855200a-cd96-4694-b03e-9e920cdadea3/playlist.m3u8",
+      "content_type": "application/x-mpegURL",
+      "sample": "#EXTM3U\n#EXT-X-VERSION:7\n\n\n#EXT-X-STREAM-INF:BANDWIDTH=1721517,CODECS=\"avc1.64001f,mp4a.40.2\",RESOLUTION=640x360\nhttps://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5855200a-cd96-469"
+    }
   },
   {
     "page_url": "https://www.carpiomedia.com/services-nyc-media/fpv",
@@ -2026,121 +421,14 @@
       "systemDataId": "43d5c9af-040e-43d4-927f-4cf487f1bba2",
       "videoCodec": "h264"
     },
-    "resolved_url": null,
-    "attempts": [
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/1920:1080",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/1920:1080",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/1920x1080",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/1920x1080",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/1920w",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/1920w",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/1920",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/1920",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/1920:1080.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/1920:1080.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/1920x1080.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/1920x1080.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/1920w.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/1920w.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/640:360",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/640:360",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/640x360",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/640x360",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/640w",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/640w",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/640",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/640",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/640:360.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/640:360.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/640x360.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/640x360.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/640w.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/640w.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/original",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/original",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/original.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/original.mp4",
-        "error": "HTTP Error 404: Not Found"
-      }
-    ]
+    "resolved_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/playlist.m3u8",
+    "verification": {
+      "ok": true,
+      "status": 200,
+      "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/43d5c9af-040e-43d4-927f-4cf487f1bba2/playlist.m3u8",
+      "content_type": "application/x-mpegURL",
+      "sample": "#EXTM3U\n#EXT-X-VERSION:7\n\n#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID=\"audio\",LANGUAGE=\"und\",NAME=\"Undetermined\",AUTOSELECT=YES,DEFAULT=NO,URI=\"https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9"
+    }
   },
   {
     "page_url": "https://www.carpiomedia.com/services-nyc-media/professional-visual-content-creation",
@@ -2160,121 +448,14 @@
       "systemDataId": "6c93af36-532b-4b9a-9a35-051e6543b9c2",
       "videoCodec": "h264"
     },
-    "resolved_url": null,
-    "attempts": [
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/6c93af36-532b-4b9a-9a35-051e6543b9c2/1920:1080",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/6c93af36-532b-4b9a-9a35-051e6543b9c2/1920:1080",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/6c93af36-532b-4b9a-9a35-051e6543b9c2/1920x1080",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/6c93af36-532b-4b9a-9a35-051e6543b9c2/1920x1080",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/6c93af36-532b-4b9a-9a35-051e6543b9c2/1920w",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/6c93af36-532b-4b9a-9a35-051e6543b9c2/1920w",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/6c93af36-532b-4b9a-9a35-051e6543b9c2/1920",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/6c93af36-532b-4b9a-9a35-051e6543b9c2/1920",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/6c93af36-532b-4b9a-9a35-051e6543b9c2/1920:1080.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/6c93af36-532b-4b9a-9a35-051e6543b9c2/1920:1080.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/6c93af36-532b-4b9a-9a35-051e6543b9c2/1920x1080.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/6c93af36-532b-4b9a-9a35-051e6543b9c2/1920x1080.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/6c93af36-532b-4b9a-9a35-051e6543b9c2/1920w.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/6c93af36-532b-4b9a-9a35-051e6543b9c2/1920w.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/6c93af36-532b-4b9a-9a35-051e6543b9c2/640:360",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/6c93af36-532b-4b9a-9a35-051e6543b9c2/640:360",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/6c93af36-532b-4b9a-9a35-051e6543b9c2/640x360",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/6c93af36-532b-4b9a-9a35-051e6543b9c2/640x360",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/6c93af36-532b-4b9a-9a35-051e6543b9c2/640w",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/6c93af36-532b-4b9a-9a35-051e6543b9c2/640w",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/6c93af36-532b-4b9a-9a35-051e6543b9c2/640",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/6c93af36-532b-4b9a-9a35-051e6543b9c2/640",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/6c93af36-532b-4b9a-9a35-051e6543b9c2/640:360.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/6c93af36-532b-4b9a-9a35-051e6543b9c2/640:360.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/6c93af36-532b-4b9a-9a35-051e6543b9c2/640x360.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/6c93af36-532b-4b9a-9a35-051e6543b9c2/640x360.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/6c93af36-532b-4b9a-9a35-051e6543b9c2/640w.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/6c93af36-532b-4b9a-9a35-051e6543b9c2/640w.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/6c93af36-532b-4b9a-9a35-051e6543b9c2/original",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/6c93af36-532b-4b9a-9a35-051e6543b9c2/original",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/6c93af36-532b-4b9a-9a35-051e6543b9c2/original.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/6c93af36-532b-4b9a-9a35-051e6543b9c2/original.mp4",
-        "error": "HTTP Error 404: Not Found"
-      }
-    ]
+    "resolved_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/6c93af36-532b-4b9a-9a35-051e6543b9c2/playlist.m3u8",
+    "verification": {
+      "ok": true,
+      "status": 200,
+      "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/6c93af36-532b-4b9a-9a35-051e6543b9c2/playlist.m3u8",
+      "content_type": "application/x-mpegURL",
+      "sample": "#EXTM3U\n#EXT-X-VERSION:7\n\n#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID=\"audio\",LANGUAGE=\"und\",NAME=\"Undetermined\",AUTOSELECT=YES,DEFAULT=NO,URI=\"https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9"
+    }
   },
   {
     "page_url": "https://www.carpiomedia.com/services-nyc-media/professional-visual-content-creation",
@@ -2294,121 +475,14 @@
       "systemDataId": "a8ccdbf9-0c8e-48fa-a13c-26fc28a74681",
       "videoCodec": "h264"
     },
-    "resolved_url": null,
-    "attempts": [
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/1920:1080",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/1920:1080",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/1920x1080",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/1920x1080",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/1920w",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/1920w",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/1920",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/1920",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/1920:1080.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/1920:1080.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/1920x1080.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/1920x1080.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/1920w.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/1920w.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/640:360",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/640:360",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/640x360",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/640x360",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/640w",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/640w",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/640",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/640",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/640:360.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/640:360.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/640x360.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/640x360.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/640w.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/640w.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/original",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/original",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/original.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/original.mp4",
-        "error": "HTTP Error 404: Not Found"
-      }
-    ]
+    "resolved_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/playlist.m3u8",
+    "verification": {
+      "ok": true,
+      "status": 200,
+      "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/a8ccdbf9-0c8e-48fa-a13c-26fc28a74681/playlist.m3u8",
+      "content_type": "application/x-mpegURL",
+      "sample": "#EXTM3U\n#EXT-X-VERSION:7\n\n#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID=\"audio\",LANGUAGE=\"und\",NAME=\"Undetermined\",AUTOSELECT=YES,DEFAULT=NO,URI=\"https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9"
+    }
   },
   {
     "page_url": "https://www.carpiomedia.com/services-nyc-media/professional-visual-content-creation",
@@ -2428,121 +502,14 @@
       "systemDataId": "d907d5cb-dad0-42e4-a636-6c624eacb454",
       "videoCodec": "h264"
     },
-    "resolved_url": null,
-    "attempts": [
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d907d5cb-dad0-42e4-a636-6c624eacb454/1920:1080",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d907d5cb-dad0-42e4-a636-6c624eacb454/1920:1080",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d907d5cb-dad0-42e4-a636-6c624eacb454/1920x1080",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d907d5cb-dad0-42e4-a636-6c624eacb454/1920x1080",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d907d5cb-dad0-42e4-a636-6c624eacb454/1920w",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d907d5cb-dad0-42e4-a636-6c624eacb454/1920w",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d907d5cb-dad0-42e4-a636-6c624eacb454/1920",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d907d5cb-dad0-42e4-a636-6c624eacb454/1920",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d907d5cb-dad0-42e4-a636-6c624eacb454/1920:1080.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d907d5cb-dad0-42e4-a636-6c624eacb454/1920:1080.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d907d5cb-dad0-42e4-a636-6c624eacb454/1920x1080.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d907d5cb-dad0-42e4-a636-6c624eacb454/1920x1080.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d907d5cb-dad0-42e4-a636-6c624eacb454/1920w.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d907d5cb-dad0-42e4-a636-6c624eacb454/1920w.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d907d5cb-dad0-42e4-a636-6c624eacb454/640:360",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d907d5cb-dad0-42e4-a636-6c624eacb454/640:360",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d907d5cb-dad0-42e4-a636-6c624eacb454/640x360",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d907d5cb-dad0-42e4-a636-6c624eacb454/640x360",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d907d5cb-dad0-42e4-a636-6c624eacb454/640w",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d907d5cb-dad0-42e4-a636-6c624eacb454/640w",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d907d5cb-dad0-42e4-a636-6c624eacb454/640",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d907d5cb-dad0-42e4-a636-6c624eacb454/640",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d907d5cb-dad0-42e4-a636-6c624eacb454/640:360.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d907d5cb-dad0-42e4-a636-6c624eacb454/640:360.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d907d5cb-dad0-42e4-a636-6c624eacb454/640x360.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d907d5cb-dad0-42e4-a636-6c624eacb454/640x360.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d907d5cb-dad0-42e4-a636-6c624eacb454/640w.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d907d5cb-dad0-42e4-a636-6c624eacb454/640w.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d907d5cb-dad0-42e4-a636-6c624eacb454/original",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d907d5cb-dad0-42e4-a636-6c624eacb454/original",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d907d5cb-dad0-42e4-a636-6c624eacb454/original.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d907d5cb-dad0-42e4-a636-6c624eacb454/original.mp4",
-        "error": "HTTP Error 404: Not Found"
-      }
-    ]
+    "resolved_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d907d5cb-dad0-42e4-a636-6c624eacb454/playlist.m3u8",
+    "verification": {
+      "ok": true,
+      "status": 200,
+      "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/d907d5cb-dad0-42e4-a636-6c624eacb454/playlist.m3u8",
+      "content_type": "application/x-mpegURL",
+      "sample": "#EXTM3U\n#EXT-X-VERSION:7\n\n#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID=\"audio\",LANGUAGE=\"und\",NAME=\"Undetermined\",AUTOSELECT=YES,DEFAULT=NO,URI=\"https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9"
+    }
   },
   {
     "page_url": "https://www.carpiomedia.com/services-nyc-media/professional-visual-content-creation",
@@ -2562,121 +529,14 @@
       "systemDataId": "98587308-b5ac-4587-a55a-640f770159b1",
       "videoCodec": "h264"
     },
-    "resolved_url": null,
-    "attempts": [
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/98587308-b5ac-4587-a55a-640f770159b1/1920:1080",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/98587308-b5ac-4587-a55a-640f770159b1/1920:1080",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/98587308-b5ac-4587-a55a-640f770159b1/1920x1080",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/98587308-b5ac-4587-a55a-640f770159b1/1920x1080",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/98587308-b5ac-4587-a55a-640f770159b1/1920w",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/98587308-b5ac-4587-a55a-640f770159b1/1920w",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/98587308-b5ac-4587-a55a-640f770159b1/1920",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/98587308-b5ac-4587-a55a-640f770159b1/1920",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/98587308-b5ac-4587-a55a-640f770159b1/1920:1080.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/98587308-b5ac-4587-a55a-640f770159b1/1920:1080.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/98587308-b5ac-4587-a55a-640f770159b1/1920x1080.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/98587308-b5ac-4587-a55a-640f770159b1/1920x1080.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/98587308-b5ac-4587-a55a-640f770159b1/1920w.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/98587308-b5ac-4587-a55a-640f770159b1/1920w.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/98587308-b5ac-4587-a55a-640f770159b1/640:360",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/98587308-b5ac-4587-a55a-640f770159b1/640:360",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/98587308-b5ac-4587-a55a-640f770159b1/640x360",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/98587308-b5ac-4587-a55a-640f770159b1/640x360",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/98587308-b5ac-4587-a55a-640f770159b1/640w",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/98587308-b5ac-4587-a55a-640f770159b1/640w",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/98587308-b5ac-4587-a55a-640f770159b1/640",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/98587308-b5ac-4587-a55a-640f770159b1/640",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/98587308-b5ac-4587-a55a-640f770159b1/640:360.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/98587308-b5ac-4587-a55a-640f770159b1/640:360.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/98587308-b5ac-4587-a55a-640f770159b1/640x360.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/98587308-b5ac-4587-a55a-640f770159b1/640x360.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/98587308-b5ac-4587-a55a-640f770159b1/640w.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/98587308-b5ac-4587-a55a-640f770159b1/640w.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/98587308-b5ac-4587-a55a-640f770159b1/original",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/98587308-b5ac-4587-a55a-640f770159b1/original",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/98587308-b5ac-4587-a55a-640f770159b1/original.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/98587308-b5ac-4587-a55a-640f770159b1/original.mp4",
-        "error": "HTTP Error 404: Not Found"
-      }
-    ]
+    "resolved_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/98587308-b5ac-4587-a55a-640f770159b1/playlist.m3u8",
+    "verification": {
+      "ok": true,
+      "status": 200,
+      "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/98587308-b5ac-4587-a55a-640f770159b1/playlist.m3u8",
+      "content_type": "application/x-mpegURL",
+      "sample": "#EXTM3U\n#EXT-X-VERSION:7\n\n#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID=\"audio\",LANGUAGE=\"und\",NAME=\"Undetermined\",AUTOSELECT=YES,DEFAULT=NO,URI=\"https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9"
+    }
   },
   {
     "page_url": "https://www.carpiomedia.com/services-nyc-media/residentialrealestatephotography",
@@ -2696,121 +556,14 @@
       "systemDataId": "5a6ce940-8936-4676-a982-a732c7b4c111",
       "videoCodec": "h264"
     },
-    "resolved_url": null,
-    "attempts": [
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5a6ce940-8936-4676-a982-a732c7b4c111/1920:1080",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5a6ce940-8936-4676-a982-a732c7b4c111/1920:1080",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5a6ce940-8936-4676-a982-a732c7b4c111/1920x1080",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5a6ce940-8936-4676-a982-a732c7b4c111/1920x1080",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5a6ce940-8936-4676-a982-a732c7b4c111/1920w",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5a6ce940-8936-4676-a982-a732c7b4c111/1920w",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5a6ce940-8936-4676-a982-a732c7b4c111/1920",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5a6ce940-8936-4676-a982-a732c7b4c111/1920",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5a6ce940-8936-4676-a982-a732c7b4c111/1920:1080.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5a6ce940-8936-4676-a982-a732c7b4c111/1920:1080.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5a6ce940-8936-4676-a982-a732c7b4c111/1920x1080.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5a6ce940-8936-4676-a982-a732c7b4c111/1920x1080.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5a6ce940-8936-4676-a982-a732c7b4c111/1920w.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5a6ce940-8936-4676-a982-a732c7b4c111/1920w.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5a6ce940-8936-4676-a982-a732c7b4c111/640:360",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5a6ce940-8936-4676-a982-a732c7b4c111/640:360",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5a6ce940-8936-4676-a982-a732c7b4c111/640x360",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5a6ce940-8936-4676-a982-a732c7b4c111/640x360",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5a6ce940-8936-4676-a982-a732c7b4c111/640w",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5a6ce940-8936-4676-a982-a732c7b4c111/640w",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5a6ce940-8936-4676-a982-a732c7b4c111/640",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5a6ce940-8936-4676-a982-a732c7b4c111/640",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5a6ce940-8936-4676-a982-a732c7b4c111/640:360.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5a6ce940-8936-4676-a982-a732c7b4c111/640:360.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5a6ce940-8936-4676-a982-a732c7b4c111/640x360.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5a6ce940-8936-4676-a982-a732c7b4c111/640x360.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5a6ce940-8936-4676-a982-a732c7b4c111/640w.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5a6ce940-8936-4676-a982-a732c7b4c111/640w.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5a6ce940-8936-4676-a982-a732c7b4c111/original",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5a6ce940-8936-4676-a982-a732c7b4c111/original",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5a6ce940-8936-4676-a982-a732c7b4c111/original.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5a6ce940-8936-4676-a982-a732c7b4c111/original.mp4",
-        "error": "HTTP Error 404: Not Found"
-      }
-    ]
+    "resolved_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5a6ce940-8936-4676-a982-a732c7b4c111/playlist.m3u8",
+    "verification": {
+      "ok": true,
+      "status": 200,
+      "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/5a6ce940-8936-4676-a982-a732c7b4c111/playlist.m3u8",
+      "content_type": "application/x-mpegURL",
+      "sample": "#EXTM3U\n#EXT-X-VERSION:7\n\n#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID=\"audio\",LANGUAGE=\"und\",NAME=\"Undetermined\",AUTOSELECT=YES,DEFAULT=NO,URI=\"https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9"
+    }
   },
   {
     "page_url": "https://www.carpiomedia.com/services-nyc-media/residentialrealestatephotography",
@@ -2830,121 +583,14 @@
       "systemDataId": "0119af6b-ab9c-4d61-96cf-183357950607",
       "videoCodec": "h264"
     },
-    "resolved_url": null,
-    "attempts": [
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/0119af6b-ab9c-4d61-96cf-183357950607/1920:1080",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/0119af6b-ab9c-4d61-96cf-183357950607/1920:1080",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/0119af6b-ab9c-4d61-96cf-183357950607/1920x1080",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/0119af6b-ab9c-4d61-96cf-183357950607/1920x1080",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/0119af6b-ab9c-4d61-96cf-183357950607/1920w",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/0119af6b-ab9c-4d61-96cf-183357950607/1920w",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/0119af6b-ab9c-4d61-96cf-183357950607/1920",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/0119af6b-ab9c-4d61-96cf-183357950607/1920",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/0119af6b-ab9c-4d61-96cf-183357950607/1920:1080.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/0119af6b-ab9c-4d61-96cf-183357950607/1920:1080.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/0119af6b-ab9c-4d61-96cf-183357950607/1920x1080.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/0119af6b-ab9c-4d61-96cf-183357950607/1920x1080.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/0119af6b-ab9c-4d61-96cf-183357950607/1920w.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/0119af6b-ab9c-4d61-96cf-183357950607/1920w.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/0119af6b-ab9c-4d61-96cf-183357950607/640:360",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/0119af6b-ab9c-4d61-96cf-183357950607/640:360",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/0119af6b-ab9c-4d61-96cf-183357950607/640x360",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/0119af6b-ab9c-4d61-96cf-183357950607/640x360",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/0119af6b-ab9c-4d61-96cf-183357950607/640w",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/0119af6b-ab9c-4d61-96cf-183357950607/640w",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/0119af6b-ab9c-4d61-96cf-183357950607/640",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/0119af6b-ab9c-4d61-96cf-183357950607/640",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/0119af6b-ab9c-4d61-96cf-183357950607/640:360.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/0119af6b-ab9c-4d61-96cf-183357950607/640:360.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/0119af6b-ab9c-4d61-96cf-183357950607/640x360.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/0119af6b-ab9c-4d61-96cf-183357950607/640x360.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/0119af6b-ab9c-4d61-96cf-183357950607/640w.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/0119af6b-ab9c-4d61-96cf-183357950607/640w.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/0119af6b-ab9c-4d61-96cf-183357950607/original",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/0119af6b-ab9c-4d61-96cf-183357950607/original",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/0119af6b-ab9c-4d61-96cf-183357950607/original.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/0119af6b-ab9c-4d61-96cf-183357950607/original.mp4",
-        "error": "HTTP Error 404: Not Found"
-      }
-    ]
+    "resolved_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/0119af6b-ab9c-4d61-96cf-183357950607/playlist.m3u8",
+    "verification": {
+      "ok": true,
+      "status": 200,
+      "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/0119af6b-ab9c-4d61-96cf-183357950607/playlist.m3u8",
+      "content_type": "application/x-mpegURL",
+      "sample": "#EXTM3U\n#EXT-X-VERSION:7\n\n#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID=\"audio\",LANGUAGE=\"und\",NAME=\"Undetermined\",AUTOSELECT=YES,DEFAULT=NO,URI=\"https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9"
+    }
   },
   {
     "page_url": "https://www.carpiomedia.com/services-nyc-media/residentialrealestatephotography",
@@ -2964,121 +610,14 @@
       "systemDataId": "7fc58dc6-c78c-4940-8f43-f55a51a8fed6",
       "videoCodec": "h264"
     },
-    "resolved_url": null,
-    "attempts": [
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/7fc58dc6-c78c-4940-8f43-f55a51a8fed6/1920:1080",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/7fc58dc6-c78c-4940-8f43-f55a51a8fed6/1920:1080",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/7fc58dc6-c78c-4940-8f43-f55a51a8fed6/1920x1080",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/7fc58dc6-c78c-4940-8f43-f55a51a8fed6/1920x1080",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/7fc58dc6-c78c-4940-8f43-f55a51a8fed6/1920w",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/7fc58dc6-c78c-4940-8f43-f55a51a8fed6/1920w",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/7fc58dc6-c78c-4940-8f43-f55a51a8fed6/1920",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/7fc58dc6-c78c-4940-8f43-f55a51a8fed6/1920",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/7fc58dc6-c78c-4940-8f43-f55a51a8fed6/1920:1080.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/7fc58dc6-c78c-4940-8f43-f55a51a8fed6/1920:1080.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/7fc58dc6-c78c-4940-8f43-f55a51a8fed6/1920x1080.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/7fc58dc6-c78c-4940-8f43-f55a51a8fed6/1920x1080.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/7fc58dc6-c78c-4940-8f43-f55a51a8fed6/1920w.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/7fc58dc6-c78c-4940-8f43-f55a51a8fed6/1920w.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/7fc58dc6-c78c-4940-8f43-f55a51a8fed6/640:360",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/7fc58dc6-c78c-4940-8f43-f55a51a8fed6/640:360",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/7fc58dc6-c78c-4940-8f43-f55a51a8fed6/640x360",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/7fc58dc6-c78c-4940-8f43-f55a51a8fed6/640x360",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/7fc58dc6-c78c-4940-8f43-f55a51a8fed6/640w",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/7fc58dc6-c78c-4940-8f43-f55a51a8fed6/640w",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/7fc58dc6-c78c-4940-8f43-f55a51a8fed6/640",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/7fc58dc6-c78c-4940-8f43-f55a51a8fed6/640",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/7fc58dc6-c78c-4940-8f43-f55a51a8fed6/640:360.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/7fc58dc6-c78c-4940-8f43-f55a51a8fed6/640:360.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/7fc58dc6-c78c-4940-8f43-f55a51a8fed6/640x360.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/7fc58dc6-c78c-4940-8f43-f55a51a8fed6/640x360.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/7fc58dc6-c78c-4940-8f43-f55a51a8fed6/640w.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/7fc58dc6-c78c-4940-8f43-f55a51a8fed6/640w.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/7fc58dc6-c78c-4940-8f43-f55a51a8fed6/original",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/7fc58dc6-c78c-4940-8f43-f55a51a8fed6/original",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/7fc58dc6-c78c-4940-8f43-f55a51a8fed6/original.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/7fc58dc6-c78c-4940-8f43-f55a51a8fed6/original.mp4",
-        "error": "HTTP Error 404: Not Found"
-      }
-    ]
+    "resolved_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/7fc58dc6-c78c-4940-8f43-f55a51a8fed6/playlist.m3u8",
+    "verification": {
+      "ok": true,
+      "status": 200,
+      "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/7fc58dc6-c78c-4940-8f43-f55a51a8fed6/playlist.m3u8",
+      "content_type": "application/x-mpegURL",
+      "sample": "#EXTM3U\n#EXT-X-VERSION:7\n\n#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID=\"audio\",LANGUAGE=\"und\",NAME=\"Undetermined\",AUTOSELECT=YES,DEFAULT=NO,URI=\"https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9"
+    }
   },
   {
     "page_url": "https://www.carpiomedia.com/services-nyc-media/residentialrealestatephotography",
@@ -3098,120 +637,13 @@
       "systemDataId": "56063987-36c7-4927-84bc-b30784c28171",
       "videoCodec": "h264"
     },
-    "resolved_url": null,
-    "attempts": [
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/56063987-36c7-4927-84bc-b30784c28171/1920:1080",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/56063987-36c7-4927-84bc-b30784c28171/1920:1080",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/56063987-36c7-4927-84bc-b30784c28171/1920x1080",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/56063987-36c7-4927-84bc-b30784c28171/1920x1080",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/56063987-36c7-4927-84bc-b30784c28171/1920w",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/56063987-36c7-4927-84bc-b30784c28171/1920w",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/56063987-36c7-4927-84bc-b30784c28171/1920",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/56063987-36c7-4927-84bc-b30784c28171/1920",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/56063987-36c7-4927-84bc-b30784c28171/1920:1080.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/56063987-36c7-4927-84bc-b30784c28171/1920:1080.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/56063987-36c7-4927-84bc-b30784c28171/1920x1080.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/56063987-36c7-4927-84bc-b30784c28171/1920x1080.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/56063987-36c7-4927-84bc-b30784c28171/1920w.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/56063987-36c7-4927-84bc-b30784c28171/1920w.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/56063987-36c7-4927-84bc-b30784c28171/640:360",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/56063987-36c7-4927-84bc-b30784c28171/640:360",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/56063987-36c7-4927-84bc-b30784c28171/640x360",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/56063987-36c7-4927-84bc-b30784c28171/640x360",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/56063987-36c7-4927-84bc-b30784c28171/640w",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/56063987-36c7-4927-84bc-b30784c28171/640w",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/56063987-36c7-4927-84bc-b30784c28171/640",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/56063987-36c7-4927-84bc-b30784c28171/640",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/56063987-36c7-4927-84bc-b30784c28171/640:360.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/56063987-36c7-4927-84bc-b30784c28171/640:360.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/56063987-36c7-4927-84bc-b30784c28171/640x360.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/56063987-36c7-4927-84bc-b30784c28171/640x360.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/56063987-36c7-4927-84bc-b30784c28171/640w.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/56063987-36c7-4927-84bc-b30784c28171/640w.mp4",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/56063987-36c7-4927-84bc-b30784c28171/original",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/56063987-36c7-4927-84bc-b30784c28171/original",
-        "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "candidate": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/56063987-36c7-4927-84bc-b30784c28171/original.mp4",
-        "ok": false,
-        "status": 404,
-        "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/56063987-36c7-4927-84bc-b30784c28171/original.mp4",
-        "error": "HTTP Error 404: Not Found"
-      }
-    ]
+    "resolved_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/56063987-36c7-4927-84bc-b30784c28171/playlist.m3u8",
+    "verification": {
+      "ok": true,
+      "status": 200,
+      "final_url": "https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9c6/56063987-36c7-4927-84bc-b30784c28171/playlist.m3u8",
+      "content_type": "application/x-mpegURL",
+      "sample": "#EXTM3U\n#EXT-X-VERSION:7\n\n#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID=\"audio\",LANGUAGE=\"und\",NAME=\"Undetermined\",AUTOSELECT=YES,DEFAULT=NO,URI=\"https://video.squarespace-cdn.com/content/v1/634f4ecdfb9bb005906ea9"
+    }
   }
 ]
