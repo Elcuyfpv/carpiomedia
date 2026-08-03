@@ -7,6 +7,7 @@ on:
       - '.github/workflows/snapshot-squarespace.yml'
       - 'tools/snapshot_site.py'
       - 'tools/build_exact_manifest.py'
+      - 'tools/build_block_manifest.py'
 
 permissions:
   contents: write
@@ -32,6 +33,9 @@ jobs:
 
       - name: Build exact page and media manifests
         run: python tools/build_exact_manifest.py
+
+      - name: Map exact Squarespace blocks
+        run: python tools/build_block_manifest.py
 
       - name: Commit source inventory
         run: |
