@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T21:49:36.572Z",
+  "generatedAt": "2026-08-03T21:52:38.646Z",
   "views": [
     {
       "name": "desktop",
@@ -109,7 +109,43 @@
     },
     {
       "view": "desktop",
+      "text": "Permissions policy violation: compute-pressure is not allowed in this document."
+    },
+    {
+      "view": "desktop",
       "text": "VIDEOJS: ERROR: (CODE:4 MEDIA_ERR_SRC_NOT_SUPPORTED) The media could not be loaded, either because the server or network failed or because the format is not supported. i"
+    },
+    {
+      "view": "desktop",
+      "text": "Permissions policy violation: compute-pressure is not allowed in this document."
+    },
+    {
+      "view": "desktop",
+      "text": "Permissions policy violation: compute-pressure is not allowed in this document."
+    },
+    {
+      "view": "desktop",
+      "text": "Permissions policy violation: compute-pressure is not allowed in this document."
+    },
+    {
+      "view": "desktop",
+      "text": "Permissions policy violation: compute-pressure is not allowed in this document."
+    },
+    {
+      "view": "desktop",
+      "text": "Permissions policy violation: compute-pressure is not allowed in this document."
+    },
+    {
+      "view": "desktop",
+      "text": "Permissions policy violation: compute-pressure is not allowed in this document."
+    },
+    {
+      "view": "desktop",
+      "text": "Permissions policy violation: compute-pressure is not allowed in this document."
+    },
+    {
+      "view": "desktop",
+      "text": "Permissions policy violation: compute-pressure is not allowed in this document."
     },
     {
       "view": "mobile",
